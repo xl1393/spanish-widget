@@ -1,0 +1,1294 @@
+{
+  "level": "A2",
+  "language": "Spanish → English",
+  "verbs": [
+    {
+      "lemma": "ser",
+      "meaning": "to be",
+      "present": {
+        "yo": "soy",
+        "tú": "eres",
+        "él/ella": "es",
+        "nosotros": "somos",
+        "ellos": "son"
+      },
+      "past": {
+        "yo": "fui",
+        "tú": "fuiste",
+        "él/ella": "fue",
+        "nosotros": "fuimos",
+        "ellos": "fueron"
+      }
+    },
+    {
+      "lemma": "estar",
+      "meaning": "to be",
+      "present": {
+        "yo": "estoy",
+        "tú": "estás",
+        "él/ella": "está",
+        "nosotros": "estamos",
+        "ellos": "están"
+      },
+      "past": {
+        "yo": "estuve",
+        "tú": "estuviste",
+        "él/ella": "estuvo",
+        "nosotros": "estuvimos",
+        "ellos": "estuvieron"
+      }
+    },
+    {
+      "lemma": "ir",
+      "meaning": "to go",
+      "present": {
+        "yo": "voy",
+        "tú": "vas",
+        "él/ella": "va",
+        "nosotros": "vamos",
+        "ellos": "van"
+      },
+      "past": {
+        "yo": "fui",
+        "tú": "fuiste",
+        "él/ella": "fue",
+        "nosotros": "fuimos",
+        "ellos": "fueron"
+      }
+    },
+    {
+      "lemma": "tener",
+      "meaning": "to have",
+      "present": {
+        "yo": "tengo",
+        "tú": "tienes",
+        "él/ella": "tiene",
+        "nosotros": "tenemos",
+        "ellos": "tienen"
+      },
+      "past": {
+        "yo": "tuve",
+        "tú": "tuviste",
+        "él/ella": "tuvo",
+        "nosotros": "tuvimos",
+        "ellos": "tuvieron"
+      }
+    },
+    {
+      "lemma": "hacer",
+      "meaning": "to do/make",
+      "present": {
+        "yo": "hago",
+        "tú": "haces",
+        "él/ella": "hace",
+        "nosotros": "hacemos",
+        "ellos": "hacen"
+      },
+      "past": {
+        "yo": "hice",
+        "tú": "hiciste",
+        "él/ella": "hizo",
+        "nosotros": "hicimos",
+        "ellos": "hicieron"
+      }
+    },
+    {
+      "lemma": "decir",
+      "meaning": "to say",
+      "present": {
+        "yo": "digo",
+        "tú": "dices",
+        "él/ella": "dice",
+        "nosotros": "decimos",
+        "ellos": "dicen"
+      },
+      "past": {
+        "yo": "dije",
+        "tú": "dijiste",
+        "él/ella": "dijo",
+        "nosotros": "dijimos",
+        "ellos": "dijeron"
+      }
+    },
+    {
+      "lemma": "ver",
+      "meaning": "to see",
+      "present": {
+        "yo": "veo",
+        "tú": "ves",
+        "él/ella": "ve",
+        "nosotros": "vemos",
+        "ellos": "ven"
+      },
+      "past": {
+        "yo": "vi",
+        "tú": "viste",
+        "él/ella": "vio",
+        "nosotros": "vimos",
+        "ellos": "vieron"
+      }
+    },
+    {
+      "lemma": "dar",
+      "meaning": "to give",
+      "present": {
+        "yo": "doy",
+        "tú": "das",
+        "él/ella": "da",
+        "nosotros": "damos",
+        "ellos": "dan"
+      },
+      "past": {
+        "yo": "di",
+        "tú": "diste",
+        "él/ella": "dio",
+        "nosotros": "dimos",
+        "ellos": "dieron"
+      }
+    },
+    {
+      "lemma": "poder",
+      "meaning": "can/to be able",
+      "present": {
+        "yo": "puedo",
+        "tú": "puedes",
+        "él/ella": "puede",
+        "nosotros": "podemos",
+        "ellos": "pueden"
+      },
+      "past": {
+        "yo": "pude",
+        "tú": "pudiste",
+        "él/ella": "pudo",
+        "nosotros": "pudimos",
+        "ellos": "pudieron"
+      }
+    },
+    {
+      "lemma": "poner",
+      "meaning": "to put",
+      "present": {
+        "yo": "pongo",
+        "tú": "pones",
+        "él/ella": "pone",
+        "nosotros": "ponemos",
+        "ellos": "ponen"
+      },
+      "past": {
+        "yo": "puse",
+        "tú": "pusiste",
+        "él/ella": "puso",
+        "nosotros": "pusimos",
+        "ellos": "pusieron"
+      }
+    },
+    {
+      "lemma": "venir",
+      "meaning": "to come",
+      "present": {
+        "yo": "vengo",
+        "tú": "vienes",
+        "él/ella": "viene",
+        "nosotros": "venimos",
+        "ellos": "vienen"
+      },
+      "past": {
+        "yo": "vine",
+        "tú": "viniste",
+        "él/ella": "vino",
+        "nosotros": "vinimos",
+        "ellos": "vinieron"
+      }
+    },
+    {
+      "lemma": "hablar",
+      "meaning": "to hablar",
+      "present": {
+        "yo": "hablo",
+        "tú": "hablas",
+        "él/ella": "habla",
+        "nosotros": "hablamos",
+        "ellos": "hablan"
+      },
+      "past": {
+        "yo": "hablé",
+        "tú": "hablaste",
+        "él/ella": "habló",
+        "nosotros": "hablamos",
+        "ellos": "hablaron"
+      }
+    },
+    {
+      "lemma": "trabajar",
+      "meaning": "to trabajar",
+      "present": {
+        "yo": "trabajo",
+        "tú": "trabajas",
+        "él/ella": "trabaja",
+        "nosotros": "trabajamos",
+        "ellos": "trabajan"
+      },
+      "past": {
+        "yo": "trabajé",
+        "tú": "trabajaste",
+        "él/ella": "trabajó",
+        "nosotros": "trabajamos",
+        "ellos": "trabajaron"
+      }
+    },
+    {
+      "lemma": "estudiar",
+      "meaning": "to estudiar",
+      "present": {
+        "yo": "estudio",
+        "tú": "estudias",
+        "él/ella": "estudia",
+        "nosotros": "estudiamos",
+        "ellos": "estudian"
+      },
+      "past": {
+        "yo": "estudié",
+        "tú": "estudiaste",
+        "él/ella": "estudió",
+        "nosotros": "estudiamos",
+        "ellos": "estudiaron"
+      }
+    },
+    {
+      "lemma": "comprar",
+      "meaning": "to comprar",
+      "present": {
+        "yo": "compro",
+        "tú": "compras",
+        "él/ella": "compra",
+        "nosotros": "compramos",
+        "ellos": "compran"
+      },
+      "past": {
+        "yo": "compré",
+        "tú": "compraste",
+        "él/ella": "compró",
+        "nosotros": "compramos",
+        "ellos": "compraron"
+      }
+    },
+    {
+      "lemma": "buscar",
+      "meaning": "to buscar",
+      "present": {
+        "yo": "busco",
+        "tú": "buscas",
+        "él/ella": "busca",
+        "nosotros": "buscamos",
+        "ellos": "buscan"
+      },
+      "past": {
+        "yo": "buscé",
+        "tú": "buscaste",
+        "él/ella": "buscó",
+        "nosotros": "buscamos",
+        "ellos": "buscaron"
+      }
+    },
+    {
+      "lemma": "llevar",
+      "meaning": "to llevar",
+      "present": {
+        "yo": "llevo",
+        "tú": "llevas",
+        "él/ella": "lleva",
+        "nosotros": "llevamos",
+        "ellos": "llevan"
+      },
+      "past": {
+        "yo": "llevé",
+        "tú": "llevaste",
+        "él/ella": "llevó",
+        "nosotros": "llevamos",
+        "ellos": "llevaron"
+      }
+    },
+    {
+      "lemma": "llegar",
+      "meaning": "to llegar",
+      "present": {
+        "yo": "llego",
+        "tú": "llegas",
+        "él/ella": "llega",
+        "nosotros": "llegamos",
+        "ellos": "llegan"
+      },
+      "past": {
+        "yo": "llegé",
+        "tú": "llegaste",
+        "él/ella": "llegó",
+        "nosotros": "llegamos",
+        "ellos": "llegaron"
+      }
+    },
+    {
+      "lemma": "pasar",
+      "meaning": "to pasar",
+      "present": {
+        "yo": "paso",
+        "tú": "pasas",
+        "él/ella": "pasa",
+        "nosotros": "pasamos",
+        "ellos": "pasan"
+      },
+      "past": {
+        "yo": "pasé",
+        "tú": "pasaste",
+        "él/ella": "pasó",
+        "nosotros": "pasamos",
+        "ellos": "pasaron"
+      }
+    },
+    {
+      "lemma": "quedar",
+      "meaning": "to quedar",
+      "present": {
+        "yo": "quedo",
+        "tú": "quedas",
+        "él/ella": "queda",
+        "nosotros": "quedamos",
+        "ellos": "quedan"
+      },
+      "past": {
+        "yo": "quedé",
+        "tú": "quedaste",
+        "él/ella": "quedó",
+        "nosotros": "quedamos",
+        "ellos": "quedaron"
+      }
+    },
+    {
+      "lemma": "entrar",
+      "meaning": "to entrar",
+      "present": {
+        "yo": "entro",
+        "tú": "entras",
+        "él/ella": "entra",
+        "nosotros": "entramos",
+        "ellos": "entran"
+      },
+      "past": {
+        "yo": "entré",
+        "tú": "entraste",
+        "él/ella": "entró",
+        "nosotros": "entramos",
+        "ellos": "entraron"
+      }
+    },
+    {
+      "lemma": "salir",
+      "meaning": "to salir",
+      "present": {
+        "yo": "salo",
+        "tú": "sales",
+        "él/ella": "sale",
+        "nosotros": "salimos",
+        "ellos": "salen"
+      },
+      "past": {
+        "yo": "salí",
+        "tú": "saliste",
+        "él/ella": "salió",
+        "nosotros": "salimos",
+        "ellos": "salieron"
+      }
+    },
+    {
+      "lemma": "mirar",
+      "meaning": "to mirar",
+      "present": {
+        "yo": "miro",
+        "tú": "miras",
+        "él/ella": "mira",
+        "nosotros": "miramos",
+        "ellos": "miran"
+      },
+      "past": {
+        "yo": "miré",
+        "tú": "miraste",
+        "él/ella": "miró",
+        "nosotros": "miramos",
+        "ellos": "miraron"
+      }
+    },
+    {
+      "lemma": "escuchar",
+      "meaning": "to escuchar",
+      "present": {
+        "yo": "escucho",
+        "tú": "escuchas",
+        "él/ella": "escucha",
+        "nosotros": "escuchamos",
+        "ellos": "escuchan"
+      },
+      "past": {
+        "yo": "escuché",
+        "tú": "escuchaste",
+        "él/ella": "escuchó",
+        "nosotros": "escuchamos",
+        "ellos": "escucharon"
+      }
+    },
+    {
+      "lemma": "preguntar",
+      "meaning": "to preguntar",
+      "present": {
+        "yo": "pregunto",
+        "tú": "preguntas",
+        "él/ella": "pregunta",
+        "nosotros": "preguntamos",
+        "ellos": "preguntan"
+      },
+      "past": {
+        "yo": "pregunté",
+        "tú": "preguntaste",
+        "él/ella": "preguntó",
+        "nosotros": "preguntamos",
+        "ellos": "preguntaron"
+      }
+    },
+    {
+      "lemma": "contestar",
+      "meaning": "to contestar",
+      "present": {
+        "yo": "contesto",
+        "tú": "contestas",
+        "él/ella": "contesta",
+        "nosotros": "contestamos",
+        "ellos": "contestan"
+      },
+      "past": {
+        "yo": "contesté",
+        "tú": "contestaste",
+        "él/ella": "contestó",
+        "nosotros": "contestamos",
+        "ellos": "contestaron"
+      }
+    },
+    {
+      "lemma": "necesitar",
+      "meaning": "to necesitar",
+      "present": {
+        "yo": "necesito",
+        "tú": "necesitas",
+        "él/ella": "necesita",
+        "nosotros": "necesitamos",
+        "ellos": "necesitan"
+      },
+      "past": {
+        "yo": "necesité",
+        "tú": "necesitaste",
+        "él/ella": "necesitó",
+        "nosotros": "necesitamos",
+        "ellos": "necesitaron"
+      }
+    },
+    {
+      "lemma": "usar",
+      "meaning": "to usar",
+      "present": {
+        "yo": "uso",
+        "tú": "usas",
+        "él/ella": "usa",
+        "nosotros": "usamos",
+        "ellos": "usan"
+      },
+      "past": {
+        "yo": "usé",
+        "tú": "usaste",
+        "él/ella": "usó",
+        "nosotros": "usamos",
+        "ellos": "usaron"
+      }
+    },
+    {
+      "lemma": "caminar",
+      "meaning": "to caminar",
+      "present": {
+        "yo": "camino",
+        "tú": "caminas",
+        "él/ella": "camina",
+        "nosotros": "caminamos",
+        "ellos": "caminan"
+      },
+      "past": {
+        "yo": "caminé",
+        "tú": "caminaste",
+        "él/ella": "caminó",
+        "nosotros": "caminamos",
+        "ellos": "caminaron"
+      }
+    },
+    {
+      "lemma": "viajar",
+      "meaning": "to viajar",
+      "present": {
+        "yo": "viajo",
+        "tú": "viajas",
+        "él/ella": "viaja",
+        "nosotros": "viajamos",
+        "ellos": "viajan"
+      },
+      "past": {
+        "yo": "viajé",
+        "tú": "viajaste",
+        "él/ella": "viajó",
+        "nosotros": "viajamos",
+        "ellos": "viajaron"
+      }
+    },
+    {
+      "lemma": "ayudar",
+      "meaning": "to ayudar",
+      "present": {
+        "yo": "ayudo",
+        "tú": "ayudas",
+        "él/ella": "ayuda",
+        "nosotros": "ayudamos",
+        "ellos": "ayudan"
+      },
+      "past": {
+        "yo": "ayudé",
+        "tú": "ayudaste",
+        "él/ella": "ayudó",
+        "nosotros": "ayudamos",
+        "ellos": "ayudaron"
+      }
+    },
+    {
+      "lemma": "llamar",
+      "meaning": "to llamar",
+      "present": {
+        "yo": "llamo",
+        "tú": "llamas",
+        "él/ella": "llama",
+        "nosotros": "llamamos",
+        "ellos": "llaman"
+      },
+      "past": {
+        "yo": "llamé",
+        "tú": "llamaste",
+        "él/ella": "llamó",
+        "nosotros": "llamamos",
+        "ellos": "llamaron"
+      }
+    },
+    {
+      "lemma": "comer",
+      "meaning": "to comer",
+      "present": {
+        "yo": "como",
+        "tú": "comes",
+        "él/ella": "come",
+        "nosotros": "comemos",
+        "ellos": "comen"
+      },
+      "past": {
+        "yo": "comí",
+        "tú": "comiste",
+        "él/ella": "comió",
+        "nosotros": "comimos",
+        "ellos": "comieron"
+      }
+    },
+    {
+      "lemma": "beber",
+      "meaning": "to beber",
+      "present": {
+        "yo": "bebo",
+        "tú": "bebes",
+        "él/ella": "bebe",
+        "nosotros": "bebemos",
+        "ellos": "beben"
+      },
+      "past": {
+        "yo": "bebí",
+        "tú": "bebiste",
+        "él/ella": "bebió",
+        "nosotros": "bebimos",
+        "ellos": "bebieron"
+      }
+    },
+    {
+      "lemma": "aprender",
+      "meaning": "to aprender",
+      "present": {
+        "yo": "aprendo",
+        "tú": "aprendes",
+        "él/ella": "aprende",
+        "nosotros": "aprendemos",
+        "ellos": "aprenden"
+      },
+      "past": {
+        "yo": "aprendí",
+        "tú": "aprendiste",
+        "él/ella": "aprendió",
+        "nosotros": "aprendimos",
+        "ellos": "aprendieron"
+      }
+    },
+    {
+      "lemma": "vender",
+      "meaning": "to vender",
+      "present": {
+        "yo": "vendo",
+        "tú": "vendes",
+        "él/ella": "vende",
+        "nosotros": "vendemos",
+        "ellos": "venden"
+      },
+      "past": {
+        "yo": "vendí",
+        "tú": "vendiste",
+        "él/ella": "vendió",
+        "nosotros": "vendimos",
+        "ellos": "vendieron"
+      }
+    },
+    {
+      "lemma": "leer",
+      "meaning": "to leer",
+      "present": {
+        "yo": "leo",
+        "tú": "lees",
+        "él/ella": "lee",
+        "nosotros": "leemos",
+        "ellos": "leen"
+      },
+      "past": {
+        "yo": "leí",
+        "tú": "leiste",
+        "él/ella": "leió",
+        "nosotros": "leimos",
+        "ellos": "leieron"
+      }
+    },
+    {
+      "lemma": "creer",
+      "meaning": "to creer",
+      "present": {
+        "yo": "creo",
+        "tú": "crees",
+        "él/ella": "cree",
+        "nosotros": "creemos",
+        "ellos": "creen"
+      },
+      "past": {
+        "yo": "creí",
+        "tú": "creiste",
+        "él/ella": "creió",
+        "nosotros": "creimos",
+        "ellos": "creieron"
+      }
+    },
+    {
+      "lemma": "correr",
+      "meaning": "to correr",
+      "present": {
+        "yo": "corro",
+        "tú": "corres",
+        "él/ella": "corre",
+        "nosotros": "corremos",
+        "ellos": "corren"
+      },
+      "past": {
+        "yo": "corrí",
+        "tú": "corriste",
+        "él/ella": "corrió",
+        "nosotros": "corrimos",
+        "ellos": "corrieron"
+      }
+    },
+    {
+      "lemma": "romper",
+      "meaning": "to romper",
+      "present": {
+        "yo": "rompo",
+        "tú": "rompes",
+        "él/ella": "rompe",
+        "nosotros": "rompemos",
+        "ellos": "rompen"
+      },
+      "past": {
+        "yo": "rompí",
+        "tú": "rompiste",
+        "él/ella": "rompió",
+        "nosotros": "rompimos",
+        "ellos": "rompieron"
+      }
+    },
+    {
+      "lemma": "abrir",
+      "meaning": "to abrir",
+      "present": {
+        "yo": "abro",
+        "tú": "abres",
+        "él/ella": "abre",
+        "nosotros": "abrimos",
+        "ellos": "abren"
+      },
+      "past": {
+        "yo": "abrí",
+        "tú": "abriste",
+        "él/ella": "abrió",
+        "nosotros": "abrimos",
+        "ellos": "abrieron"
+      }
+    },
+    {
+      "lemma": "vivir",
+      "meaning": "to vivir",
+      "present": {
+        "yo": "vivo",
+        "tú": "vives",
+        "él/ella": "vive",
+        "nosotros": "vivimos",
+        "ellos": "viven"
+      },
+      "past": {
+        "yo": "viví",
+        "tú": "viviste",
+        "él/ella": "vivió",
+        "nosotros": "vivimos",
+        "ellos": "vivieron"
+      }
+    },
+    {
+      "lemma": "escribir",
+      "meaning": "to escribir",
+      "present": {
+        "yo": "escribo",
+        "tú": "escribes",
+        "él/ella": "escribe",
+        "nosotros": "escribimos",
+        "ellos": "escriben"
+      },
+      "past": {
+        "yo": "escribí",
+        "tú": "escribiste",
+        "él/ella": "escribió",
+        "nosotros": "escribimos",
+        "ellos": "escribieron"
+      }
+    },
+    {
+      "lemma": "recibir",
+      "meaning": "to recibir",
+      "present": {
+        "yo": "recibo",
+        "tú": "recibes",
+        "él/ella": "recibe",
+        "nosotros": "recibimos",
+        "ellos": "reciben"
+      },
+      "past": {
+        "yo": "recibí",
+        "tú": "recibiste",
+        "él/ella": "recibió",
+        "nosotros": "recibimos",
+        "ellos": "recibieron"
+      }
+    },
+    {
+      "lemma": "decidir",
+      "meaning": "to decidir",
+      "present": {
+        "yo": "decido",
+        "tú": "decides",
+        "él/ella": "decide",
+        "nosotros": "decidimos",
+        "ellos": "deciden"
+      },
+      "past": {
+        "yo": "decidí",
+        "tú": "decidiste",
+        "él/ella": "decidió",
+        "nosotros": "decidimos",
+        "ellos": "decidieron"
+      }
+    },
+    {
+      "lemma": "subir",
+      "meaning": "to subir",
+      "present": {
+        "yo": "subo",
+        "tú": "subes",
+        "él/ella": "sube",
+        "nosotros": "subimos",
+        "ellos": "suben"
+      },
+      "past": {
+        "yo": "subí",
+        "tú": "subiste",
+        "él/ella": "subió",
+        "nosotros": "subimos",
+        "ellos": "subieron"
+      }
+    },
+    {
+      "lemma": "bajar",
+      "meaning": "to bajar",
+      "present": {
+        "yo": "bajo",
+        "tú": "bajas",
+        "él/ella": "baja",
+        "nosotros": "bajamos",
+        "ellos": "bajan"
+      },
+      "past": {
+        "yo": "bajé",
+        "tú": "bajaste",
+        "él/ella": "bajó",
+        "nosotros": "bajamos",
+        "ellos": "bajaron"
+      }
+    },
+    {
+      "lemma": "sentir",
+      "meaning": "to sentir",
+      "present": {
+        "yo": "sento",
+        "tú": "sentes",
+        "él/ella": "sente",
+        "nosotros": "sentimos",
+        "ellos": "senten"
+      },
+      "past": {
+        "yo": "sentí",
+        "tú": "sentiste",
+        "él/ella": "sentió",
+        "nosotros": "sentimos",
+        "ellos": "sentieron"
+      }
+    },
+    {
+      "lemma": "preferir",
+      "meaning": "to preferir",
+      "present": {
+        "yo": "prefero",
+        "tú": "preferes",
+        "él/ella": "prefere",
+        "nosotros": "preferimos",
+        "ellos": "preferen"
+      },
+      "past": {
+        "yo": "preferí",
+        "tú": "preferiste",
+        "él/ella": "preferió",
+        "nosotros": "preferimos",
+        "ellos": "preferieron"
+      }
+    },
+    {
+      "lemma": "pensar",
+      "meaning": "to pensar",
+      "present": {
+        "yo": "penso",
+        "tú": "pensas",
+        "él/ella": "pensa",
+        "nosotros": "pensamos",
+        "ellos": "pensan"
+      },
+      "past": {
+        "yo": "pensé",
+        "tú": "pensaste",
+        "él/ella": "pensó",
+        "nosotros": "pensamos",
+        "ellos": "pensaron"
+      }
+    },
+    {
+      "lemma": "esperar",
+      "meaning": "to esperar",
+      "present": {
+        "yo": "espero",
+        "tú": "esperas",
+        "él/ella": "espera",
+        "nosotros": "esperamos",
+        "ellos": "esperan"
+      },
+      "past": {
+        "yo": "esperé",
+        "tú": "esperaste",
+        "él/ella": "esperó",
+        "nosotros": "esperamos",
+        "ellos": "esperaron"
+      }
+    },
+    {
+      "lemma": "amar",
+      "meaning": "to amar",
+      "present": {
+        "yo": "amo",
+        "tú": "amas",
+        "él/ella": "ama",
+        "nosotros": "amamos",
+        "ellos": "aman"
+      },
+      "past": {
+        "yo": "amé",
+        "tú": "amaste",
+        "él/ella": "amó",
+        "nosotros": "amamos",
+        "ellos": "amaron"
+      }
+    },
+    {
+      "lemma": "odiar",
+      "meaning": "to odiar",
+      "present": {
+        "yo": "odio",
+        "tú": "odias",
+        "él/ella": "odia",
+        "nosotros": "odiamos",
+        "ellos": "odian"
+      },
+      "past": {
+        "yo": "odié",
+        "tú": "odiaste",
+        "él/ella": "odió",
+        "nosotros": "odiamos",
+        "ellos": "odiaron"
+      }
+    },
+    {
+      "lemma": "pagar",
+      "meaning": "to pagar",
+      "present": {
+        "yo": "pago",
+        "tú": "pagas",
+        "él/ella": "paga",
+        "nosotros": "pagamos",
+        "ellos": "pagan"
+      },
+      "past": {
+        "yo": "pagé",
+        "tú": "pagaste",
+        "él/ella": "pagó",
+        "nosotros": "pagamos",
+        "ellos": "pagaron"
+      }
+    },
+    {
+      "lemma": "ganar",
+      "meaning": "to ganar",
+      "present": {
+        "yo": "gano",
+        "tú": "ganas",
+        "él/ella": "gana",
+        "nosotros": "ganamos",
+        "ellos": "ganan"
+      },
+      "past": {
+        "yo": "gané",
+        "tú": "ganaste",
+        "él/ella": "ganó",
+        "nosotros": "ganamos",
+        "ellos": "ganaron"
+      }
+    },
+    {
+      "lemma": "perder",
+      "meaning": "to perder",
+      "present": {
+        "yo": "perdo",
+        "tú": "perdes",
+        "él/ella": "perde",
+        "nosotros": "perdemos",
+        "ellos": "perden"
+      },
+      "past": {
+        "yo": "perdí",
+        "tú": "perdiste",
+        "él/ella": "perdió",
+        "nosotros": "perdimos",
+        "ellos": "perdieron"
+      }
+    },
+    {
+      "lemma": "empezar",
+      "meaning": "to empezar",
+      "present": {
+        "yo": "empezo",
+        "tú": "empezas",
+        "él/ella": "empeza",
+        "nosotros": "empezamos",
+        "ellos": "empezan"
+      },
+      "past": {
+        "yo": "empezé",
+        "tú": "empezaste",
+        "él/ella": "empezó",
+        "nosotros": "empezamos",
+        "ellos": "empezaron"
+      }
+    },
+    {
+      "lemma": "terminar",
+      "meaning": "to terminar",
+      "present": {
+        "yo": "termino",
+        "tú": "terminas",
+        "él/ella": "termina",
+        "nosotros": "terminamos",
+        "ellos": "terminan"
+      },
+      "past": {
+        "yo": "terminé",
+        "tú": "terminaste",
+        "él/ella": "terminó",
+        "nosotros": "terminamos",
+        "ellos": "terminaron"
+      }
+    },
+    {
+      "lemma": "continuar",
+      "meaning": "to continuar",
+      "present": {
+        "yo": "continuo",
+        "tú": "continuas",
+        "él/ella": "continua",
+        "nosotros": "continuamos",
+        "ellos": "continuan"
+      },
+      "past": {
+        "yo": "continué",
+        "tú": "continuaste",
+        "él/ella": "continuó",
+        "nosotros": "continuamos",
+        "ellos": "continuaron"
+      }
+    },
+    {
+      "lemma": "volver",
+      "meaning": "to volver",
+      "present": {
+        "yo": "volvo",
+        "tú": "volves",
+        "él/ella": "volve",
+        "nosotros": "volvemos",
+        "ellos": "volven"
+      },
+      "past": {
+        "yo": "volví",
+        "tú": "volviste",
+        "él/ella": "volvió",
+        "nosotros": "volvimos",
+        "ellos": "volvieron"
+      }
+    },
+    {
+      "lemma": "recordar",
+      "meaning": "to recordar",
+      "present": {
+        "yo": "recordo",
+        "tú": "recordas",
+        "él/ella": "recorda",
+        "nosotros": "recordamos",
+        "ellos": "recordan"
+      },
+      "past": {
+        "yo": "recordé",
+        "tú": "recordaste",
+        "él/ella": "recordó",
+        "nosotros": "recordamos",
+        "ellos": "recordaron"
+      }
+    },
+    {
+      "lemma": "olvidar",
+      "meaning": "to olvidar",
+      "present": {
+        "yo": "olvido",
+        "tú": "olvidas",
+        "él/ella": "olvida",
+        "nosotros": "olvidamos",
+        "ellos": "olvidan"
+      },
+      "past": {
+        "yo": "olvidé",
+        "tú": "olvidaste",
+        "él/ella": "olvidó",
+        "nosotros": "olvidamos",
+        "ellos": "olvidaron"
+      }
+    },
+    {
+      "lemma": "conocer",
+      "meaning": "to conocer",
+      "present": {
+        "yo": "conoco",
+        "tú": "conoces",
+        "él/ella": "conoce",
+        "nosotros": "conocemos",
+        "ellos": "conocen"
+      },
+      "past": {
+        "yo": "conocí",
+        "tú": "conociste",
+        "él/ella": "conoció",
+        "nosotros": "conocimos",
+        "ellos": "conocieron"
+      }
+    }
+  ],
+  "nouns": [
+    {
+      "lemma": "casa",
+      "gender": "feminine",
+      "plural": "casas",
+      "meaning": "house"
+    },
+    {
+      "lemma": "trabajo",
+      "gender": "masculine",
+      "plural": "trabajos",
+      "meaning": "work"
+    },
+    {
+      "lemma": "día",
+      "gender": "masculine",
+      "plural": "días",
+      "meaning": "day"
+    },
+    {
+      "lemma": "persona",
+      "gender": "feminine",
+      "plural": "personas",
+      "meaning": "person"
+    },
+    {
+      "lemma": "tiempo",
+      "gender": "masculine",
+      "plural": "tiempos",
+      "meaning": "time"
+    },
+    {
+      "lemma": "ciudad",
+      "gender": "feminine",
+      "plural": "ciudades",
+      "meaning": "city"
+    },
+    {
+      "lemma": "agua",
+      "gender": "feminine",
+      "plural": "aguas",
+      "meaning": "water"
+    },
+    {
+      "lemma": "comida",
+      "gender": "feminine",
+      "plural": "comidas",
+      "meaning": "food"
+    },
+    {
+      "lemma": "familia",
+      "gender": "feminine",
+      "plural": "familias",
+      "meaning": "family"
+    },
+    {
+      "lemma": "amigo",
+      "gender": "masculine",
+      "plural": "amigos",
+      "meaning": "friend"
+    }
+  ],
+  "adjectives": [
+    {
+      "lemma": "bueno",
+      "meaning": "good",
+      "forms": {
+        "masculine": "bueno",
+        "feminine": "buena",
+        "plural": "buenos/buenas"
+      }
+    },
+    {
+      "lemma": "malo",
+      "meaning": "bad",
+      "forms": {
+        "masculine": "malo",
+        "feminine": "mala",
+        "plural": "malos/malas"
+      }
+    },
+    {
+      "lemma": "grande",
+      "meaning": "big",
+      "forms": {
+        "masculine": "grande",
+        "feminine": "grande",
+        "plural": "grandes"
+      }
+    },
+    {
+      "lemma": "pequeño",
+      "meaning": "small",
+      "forms": {
+        "masculine": "pequeño",
+        "feminine": "pequeña",
+        "plural": "pequeños/pequeñas"
+      }
+    },
+    {
+      "lemma": "nuevo",
+      "meaning": "new",
+      "forms": {
+        "masculine": "nuevo",
+        "feminine": "nueva",
+        "plural": "nuevos/nuevas"
+      }
+    },
+    {
+      "lemma": "viejo",
+      "meaning": "old",
+      "forms": {
+        "masculine": "viejo",
+        "feminine": "vieja",
+        "plural": "viejos/viejas"
+      }
+    },
+    {
+      "lemma": "feliz",
+      "meaning": "happy",
+      "forms": {
+        "masculine": "feliz",
+        "feminine": "feliz",
+        "plural": "felices"
+      }
+    },
+    {
+      "lemma": "triste",
+      "meaning": "sad",
+      "forms": {
+        "masculine": "triste",
+        "feminine": "triste",
+        "plural": "tristes"
+      }
+    },
+    {
+      "lemma": "fácil",
+      "meaning": "easy",
+      "forms": {
+        "masculine": "fácil",
+        "feminine": "fácil",
+        "plural": "fáciles"
+      }
+    },
+    {
+      "lemma": "difícil",
+      "meaning": "difficult",
+      "forms": {
+        "masculine": "difícil",
+        "feminine": "difícil",
+        "plural": "difíciles"
+      }
+    }
+  ]
+}
