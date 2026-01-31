@@ -3,7 +3,7 @@
   "language": "Spanish → English",
   "verbs": [
     {
-      "lemma": "ser",
+      "lemma": "ser, v.",
       "meaning": "to be",
       "present": {
         "yo": "soy",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "lemma": "estar",
+      "lemma": "estar, v.",
       "meaning": "to be",
       "present": {
         "yo": "estoy",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "lemma": "ir",
+      "lemma": "ir, v.",
       "meaning": "to go",
       "present": {
         "yo": "voy",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "lemma": "tener",
+      "lemma": "tener, v.",
       "meaning": "to have",
       "present": {
         "yo": "tengo",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "lemma": "hacer",
+      "lemma": "hacer, v.",
       "meaning": "to do/make",
       "present": {
         "yo": "hago",
@@ -93,7 +93,7 @@
       }
     },
     {
-      "lemma": "decir",
+      "lemma": "decir, v.",
       "meaning": "to say",
       "present": {
         "yo": "digo",
@@ -111,7 +111,7 @@
       }
     },
     {
-      "lemma": "ver",
+      "lemma": "ver, v.",
       "meaning": "to see",
       "present": {
         "yo": "veo",
@@ -129,7 +129,7 @@
       }
     },
     {
-      "lemma": "dar",
+      "lemma": "dar, v.",
       "meaning": "to give",
       "present": {
         "yo": "doy",
@@ -147,7 +147,7 @@
       }
     },
     {
-      "lemma": "poder",
+      "lemma": "poder, v.",
       "meaning": "can/to be able",
       "present": {
         "yo": "puedo",
@@ -165,7 +165,7 @@
       }
     },
     {
-      "lemma": "poner",
+      "lemma": "poner, v.",
       "meaning": "to put",
       "present": {
         "yo": "pongo",
@@ -183,7 +183,7 @@
       }
     },
     {
-      "lemma": "venir",
+      "lemma": "venir, v.",
       "meaning": "to come",
       "present": {
         "yo": "vengo",
@@ -201,8 +201,8 @@
       }
     },
     {
-      "lemma": "hablar",
-      "meaning": "to hablar",
+      "lemma": "hablar, v.",
+      "meaning": "to speak",
       "present": {
         "yo": "hablo",
         "tú": "hablas",
@@ -219,8 +219,8 @@
       }
     },
     {
-      "lemma": "trabajar",
-      "meaning": "to trabajar",
+      "lemma": "trabajar, v.",
+      "meaning": "to work",
       "present": {
         "yo": "trabajo",
         "tú": "trabajas",
@@ -237,8 +237,8 @@
       }
     },
     {
-      "lemma": "estudiar",
-      "meaning": "to estudiar",
+      "lemma": "estudiar, v.",
+      "meaning": "to study",
       "present": {
         "yo": "estudio",
         "tú": "estudias",
@@ -255,8 +255,8 @@
       }
     },
     {
-      "lemma": "comprar",
-      "meaning": "to comprar",
+      "lemma": "comprar, v.",
+      "meaning": "to buy",
       "present": {
         "yo": "compro",
         "tú": "compras",
@@ -273,8 +273,8 @@
       }
     },
     {
-      "lemma": "buscar",
-      "meaning": "to buscar",
+      "lemma": "buscar, v.",
+      "meaning": "to search/look for",
       "present": {
         "yo": "busco",
         "tú": "buscas",
@@ -283,7 +283,7 @@
         "ellos": "buscan"
       },
       "past": {
-        "yo": "buscé",
+        "yo": "busqué",
         "tú": "buscaste",
         "él/ella": "buscó",
         "nosotros": "buscamos",
@@ -291,8 +291,8 @@
       }
     },
     {
-      "lemma": "llevar",
-      "meaning": "to llevar",
+      "lemma": "llevar, v.",
+      "meaning": "to carry/take/wear",
       "present": {
         "yo": "llevo",
         "tú": "llevas",
@@ -309,8 +309,8 @@
       }
     },
     {
-      "lemma": "llegar",
-      "meaning": "to llegar",
+      "lemma": "llegar, v.",
+      "meaning": "to arrive",
       "present": {
         "yo": "llego",
         "tú": "llegas",
@@ -319,7 +319,7 @@
         "ellos": "llegan"
       },
       "past": {
-        "yo": "llegé",
+        "yo": "llegué",
         "tú": "llegaste",
         "él/ella": "llegó",
         "nosotros": "llegamos",
@@ -327,8 +327,8 @@
       }
     },
     {
-      "lemma": "pasar",
-      "meaning": "to pasar",
+      "lemma": "pasar, v.",
+      "meaning": "to pass/happen",
       "present": {
         "yo": "paso",
         "tú": "pasas",
@@ -345,8 +345,8 @@
       }
     },
     {
-      "lemma": "quedar",
-      "meaning": "to quedar",
+      "lemma": "quedar, v.",
+      "meaning": "to stay/remain",
       "present": {
         "yo": "quedo",
         "tú": "quedas",
@@ -363,8 +363,8 @@
       }
     },
     {
-      "lemma": "entrar",
-      "meaning": "to entrar",
+      "lemma": "entrar, v.",
+      "meaning": "to enter",
       "present": {
         "yo": "entro",
         "tú": "entras",
@@ -381,8 +381,8 @@
       }
     },
     {
-      "lemma": "salir",
-      "meaning": "to salir",
+      "lemma": "salir, v.",
+      "meaning": "to leave/go out",
       "present": {
         "yo": "salo",
         "tú": "sales",
@@ -399,8 +399,8 @@
       }
     },
     {
-      "lemma": "mirar",
-      "meaning": "to mirar",
+      "lemma": "mirar, v.",
+      "meaning": "to look at/watch",
       "present": {
         "yo": "miro",
         "tú": "miras",
@@ -417,8 +417,8 @@
       }
     },
     {
-      "lemma": "escuchar",
-      "meaning": "to escuchar",
+      "lemma": "escuchar, v.",
+      "meaning": "to listen",
       "present": {
         "yo": "escucho",
         "tú": "escuchas",
@@ -435,8 +435,8 @@
       }
     },
     {
-      "lemma": "preguntar",
-      "meaning": "to preguntar",
+      "lemma": "preguntar, v.",
+      "meaning": "to ask",
       "present": {
         "yo": "pregunto",
         "tú": "preguntas",
@@ -453,8 +453,8 @@
       }
     },
     {
-      "lemma": "contestar",
-      "meaning": "to contestar",
+      "lemma": "contestar, v.",
+      "meaning": "to answer",
       "present": {
         "yo": "contesto",
         "tú": "contestas",
@@ -471,8 +471,8 @@
       }
     },
     {
-      "lemma": "necesitar",
-      "meaning": "to necesitar",
+      "lemma": "necesitar, v.",
+      "meaning": "to need",
       "present": {
         "yo": "necesito",
         "tú": "necesitas",
@@ -489,8 +489,8 @@
       }
     },
     {
-      "lemma": "usar",
-      "meaning": "to usar",
+      "lemma": "usar, v.",
+      "meaning": "to use",
       "present": {
         "yo": "uso",
         "tú": "usas",
@@ -507,8 +507,8 @@
       }
     },
     {
-      "lemma": "caminar",
-      "meaning": "to caminar",
+      "lemma": "caminar, v.",
+      "meaning": "to walk",
       "present": {
         "yo": "camino",
         "tú": "caminas",
@@ -525,8 +525,8 @@
       }
     },
     {
-      "lemma": "viajar",
-      "meaning": "to viajar",
+      "lemma": "viajar, v.",
+      "meaning": "to travel",
       "present": {
         "yo": "viajo",
         "tú": "viajas",
@@ -543,8 +543,8 @@
       }
     },
     {
-      "lemma": "ayudar",
-      "meaning": "to ayudar",
+      "lemma": "ayudar, v.",
+      "meaning": "to help",
       "present": {
         "yo": "ayudo",
         "tú": "ayudas",
@@ -561,8 +561,8 @@
       }
     },
     {
-      "lemma": "llamar",
-      "meaning": "to llamar",
+      "lemma": "llamar, v.",
+      "meaning": "to call",
       "present": {
         "yo": "llamo",
         "tú": "llamas",
@@ -579,8 +579,8 @@
       }
     },
     {
-      "lemma": "comer",
-      "meaning": "to comer",
+      "lemma": "comer, v.",
+      "meaning": "to eat",
       "present": {
         "yo": "como",
         "tú": "comes",
@@ -597,8 +597,8 @@
       }
     },
     {
-      "lemma": "beber",
-      "meaning": "to beber",
+      "lemma": "beber, v.",
+      "meaning": "to drink",
       "present": {
         "yo": "bebo",
         "tú": "bebes",
@@ -615,8 +615,8 @@
       }
     },
     {
-      "lemma": "aprender",
-      "meaning": "to aprender",
+      "lemma": "aprender, v.",
+      "meaning": "to learn",
       "present": {
         "yo": "aprendo",
         "tú": "aprendes",
@@ -633,8 +633,8 @@
       }
     },
     {
-      "lemma": "vender",
-      "meaning": "to vender",
+      "lemma": "vender, v.",
+      "meaning": "to sell",
       "present": {
         "yo": "vendo",
         "tú": "vendes",
@@ -651,8 +651,8 @@
       }
     },
     {
-      "lemma": "leer",
-      "meaning": "to leer",
+      "lemma": "leer, v.",
+      "meaning": "to read",
       "present": {
         "yo": "leo",
         "tú": "lees",
@@ -662,15 +662,15 @@
       },
       "past": {
         "yo": "leí",
-        "tú": "leiste",
-        "él/ella": "leió",
-        "nosotros": "leimos",
-        "ellos": "leieron"
+        "tú": "leíste",
+        "él/ella": "leyó",
+        "nosotros": "leímos",
+        "ellos": "leyeron"
       }
     },
     {
-      "lemma": "creer",
-      "meaning": "to creer",
+      "lemma": "creer, v.",
+      "meaning": "to believe",
       "present": {
         "yo": "creo",
         "tú": "crees",
@@ -680,15 +680,15 @@
       },
       "past": {
         "yo": "creí",
-        "tú": "creiste",
-        "él/ella": "creió",
-        "nosotros": "creimos",
-        "ellos": "creieron"
+        "tú": "creíste",
+        "él/ella": "creyó",
+        "nosotros": "creímos",
+        "ellos": "creyeron"
       }
     },
     {
-      "lemma": "correr",
-      "meaning": "to correr",
+      "lemma": "correr, v.",
+      "meaning": "to run",
       "present": {
         "yo": "corro",
         "tú": "corres",
@@ -705,8 +705,8 @@
       }
     },
     {
-      "lemma": "romper",
-      "meaning": "to romper",
+      "lemma": "romper, v.",
+      "meaning": "to break",
       "present": {
         "yo": "rompo",
         "tú": "rompes",
@@ -723,8 +723,8 @@
       }
     },
     {
-      "lemma": "abrir",
-      "meaning": "to abrir",
+      "lemma": "abrir, v.",
+      "meaning": "to open",
       "present": {
         "yo": "abro",
         "tú": "abres",
@@ -741,8 +741,8 @@
       }
     },
     {
-      "lemma": "vivir",
-      "meaning": "to vivir",
+      "lemma": "vivir, v.",
+      "meaning": "to live",
       "present": {
         "yo": "vivo",
         "tú": "vives",
@@ -759,8 +759,8 @@
       }
     },
     {
-      "lemma": "escribir",
-      "meaning": "to escribir",
+      "lemma": "escribir, v.",
+      "meaning": "to write",
       "present": {
         "yo": "escribo",
         "tú": "escribes",
@@ -777,8 +777,8 @@
       }
     },
     {
-      "lemma": "recibir",
-      "meaning": "to recibir",
+      "lemma": "recibir, v.",
+      "meaning": "to receive",
       "present": {
         "yo": "recibo",
         "tú": "recibes",
@@ -795,8 +795,8 @@
       }
     },
     {
-      "lemma": "decidir",
-      "meaning": "to decidir",
+      "lemma": "decidir, v.",
+      "meaning": "to decide",
       "present": {
         "yo": "decido",
         "tú": "decides",
@@ -813,8 +813,8 @@
       }
     },
     {
-      "lemma": "subir",
-      "meaning": "to subir",
+      "lemma": "subir, v.",
+      "meaning": "to go up/climb",
       "present": {
         "yo": "subo",
         "tú": "subes",
@@ -831,8 +831,8 @@
       }
     },
     {
-      "lemma": "bajar",
-      "meaning": "to bajar",
+      "lemma": "bajar, v.",
+      "meaning": "to go down/descend",
       "present": {
         "yo": "bajo",
         "tú": "bajas",
@@ -849,50 +849,50 @@
       }
     },
     {
-      "lemma": "sentir",
-      "meaning": "to sentir",
+      "lemma": "sentir, v.",
+      "meaning": "to feel",
       "present": {
-        "yo": "sento",
-        "tú": "sentes",
-        "él/ella": "sente",
+        "yo": "siento",
+        "tú": "sientes",
+        "él/ella": "siente",
         "nosotros": "sentimos",
-        "ellos": "senten"
+        "ellos": "sienten"
       },
       "past": {
         "yo": "sentí",
         "tú": "sentiste",
-        "él/ella": "sentió",
+        "él/ella": "sintió",
         "nosotros": "sentimos",
-        "ellos": "sentieron"
+        "ellos": "sintieron"
       }
     },
     {
-      "lemma": "preferir",
-      "meaning": "to preferir",
+      "lemma": "preferir, v.",
+      "meaning": "to prefer",
       "present": {
-        "yo": "prefero",
-        "tú": "preferes",
-        "él/ella": "prefere",
+        "yo": "prefiero",
+        "tú": "prefieres",
+        "él/ella": "prefiere",
         "nosotros": "preferimos",
-        "ellos": "preferen"
+        "ellos": "prefieren"
       },
       "past": {
         "yo": "preferí",
         "tú": "preferiste",
-        "él/ella": "preferió",
+        "él/ella": "prefirió",
         "nosotros": "preferimos",
-        "ellos": "preferieron"
+        "ellos": "prefirieron"
       }
     },
     {
-      "lemma": "pensar",
-      "meaning": "to pensar",
+      "lemma": "pensar, v.",
+      "meaning": "to think",
       "present": {
-        "yo": "penso",
-        "tú": "pensas",
-        "él/ella": "pensa",
+        "yo": "pienso",
+        "tú": "piensas",
+        "él/ella": "piensa",
         "nosotros": "pensamos",
-        "ellos": "pensan"
+        "ellos": "piensan"
       },
       "past": {
         "yo": "pensé",
@@ -903,8 +903,8 @@
       }
     },
     {
-      "lemma": "esperar",
-      "meaning": "to esperar",
+      "lemma": "esperar, v.",
+      "meaning": "to wait/hope",
       "present": {
         "yo": "espero",
         "tú": "esperas",
@@ -921,8 +921,8 @@
       }
     },
     {
-      "lemma": "amar",
-      "meaning": "to amar",
+      "lemma": "amar, v.",
+      "meaning": "to love",
       "present": {
         "yo": "amo",
         "tú": "amas",
@@ -939,8 +939,8 @@
       }
     },
     {
-      "lemma": "odiar",
-      "meaning": "to odiar",
+      "lemma": "odiar, v.",
+      "meaning": "to hate",
       "present": {
         "yo": "odio",
         "tú": "odias",
@@ -957,8 +957,8 @@
       }
     },
     {
-      "lemma": "pagar",
-      "meaning": "to pagar",
+      "lemma": "pagar, v.",
+      "meaning": "to pay",
       "present": {
         "yo": "pago",
         "tú": "pagas",
@@ -967,7 +967,7 @@
         "ellos": "pagan"
       },
       "past": {
-        "yo": "pagé",
+        "yo": "pagué",
         "tú": "pagaste",
         "él/ella": "pagó",
         "nosotros": "pagamos",
@@ -975,8 +975,8 @@
       }
     },
     {
-      "lemma": "ganar",
-      "meaning": "to ganar",
+      "lemma": "ganar, v.",
+      "meaning": "to win/earn",
       "present": {
         "yo": "gano",
         "tú": "ganas",
@@ -993,14 +993,14 @@
       }
     },
     {
-      "lemma": "perder",
-      "meaning": "to perder",
+      "lemma": "perder, v.",
+      "meaning": "to lose",
       "present": {
-        "yo": "perdo",
-        "tú": "perdes",
-        "él/ella": "perde",
+        "yo": "pierdo",
+        "tú": "pierdes",
+        "él/ella": "pierde",
         "nosotros": "perdemos",
-        "ellos": "perden"
+        "ellos": "pierden"
       },
       "past": {
         "yo": "perdí",
@@ -1011,17 +1011,17 @@
       }
     },
     {
-      "lemma": "empezar",
-      "meaning": "to empezar",
+      "lemma": "empezar, v.",
+      "meaning": "to start/begin",
       "present": {
-        "yo": "empezo",
-        "tú": "empezas",
-        "él/ella": "empeza",
+        "yo": "empiezo",
+        "tú": "empiezas",
+        "él/ella": "empieza",
         "nosotros": "empezamos",
-        "ellos": "empezan"
+        "ellos": "empiezan"
       },
       "past": {
-        "yo": "empezé",
+        "yo": "empecé",
         "tú": "empezaste",
         "él/ella": "empezó",
         "nosotros": "empezamos",
@@ -1029,8 +1029,8 @@
       }
     },
     {
-      "lemma": "terminar",
-      "meaning": "to terminar",
+      "lemma": "terminar, v.",
+      "meaning": "to finish",
       "present": {
         "yo": "termino",
         "tú": "terminas",
@@ -1047,8 +1047,8 @@
       }
     },
     {
-      "lemma": "continuar",
-      "meaning": "to continuar",
+      "lemma": "continuar, v.",
+      "meaning": "to continue",
       "present": {
         "yo": "continuo",
         "tú": "continuas",
@@ -1065,14 +1065,14 @@
       }
     },
     {
-      "lemma": "volver",
-      "meaning": "to volver",
+      "lemma": "volver, v.",
+      "meaning": "to return",
       "present": {
-        "yo": "volvo",
-        "tú": "volves",
-        "él/ella": "volve",
+        "yo": "vuelvo",
+        "tú": "vuelves",
+        "él/ella": "vuelve",
         "nosotros": "volvemos",
-        "ellos": "volven"
+        "ellos": "vuelven"
       },
       "past": {
         "yo": "volví",
@@ -1083,14 +1083,14 @@
       }
     },
     {
-      "lemma": "recordar",
-      "meaning": "to recordar",
+      "lemma": "recordar, v.",
+      "meaning": "to remember",
       "present": {
-        "yo": "recordo",
-        "tú": "recordas",
-        "él/ella": "recorda",
+        "yo": "recuerdo",
+        "tú": "recuerdas",
+        "él/ella": "recuerda",
         "nosotros": "recordamos",
-        "ellos": "recordan"
+        "ellos": "recuerdan"
       },
       "past": {
         "yo": "recordé",
@@ -1101,8 +1101,8 @@
       }
     },
     {
-      "lemma": "olvidar",
-      "meaning": "to olvidar",
+      "lemma": "olvidar, v.",
+      "meaning": "to forget",
       "present": {
         "yo": "olvido",
         "tú": "olvidas",
@@ -1119,10 +1119,10 @@
       }
     },
     {
-      "lemma": "conocer",
-      "meaning": "to conocer",
+      "lemma": "conocer, v.",
+      "meaning": "to know",
       "present": {
-        "yo": "conoco",
+        "yo": "conozco",
         "tú": "conoces",
         "él/ella": "conoce",
         "nosotros": "conocemos",
@@ -1139,61 +1139,61 @@
   ],
   "nouns": [
     {
-      "lemma": "casa",
+      "lemma": "casa, n.",
       "gender": "feminine",
       "plural": "casas",
       "meaning": "house"
     },
     {
-      "lemma": "trabajo",
+      "lemma": "trabajo, n.",
       "gender": "masculine",
       "plural": "trabajos",
       "meaning": "work"
     },
     {
-      "lemma": "día",
+      "lemma": "día, n.",
       "gender": "masculine",
       "plural": "días",
       "meaning": "day"
     },
     {
-      "lemma": "persona",
+      "lemma": "persona, n.",
       "gender": "feminine",
       "plural": "personas",
       "meaning": "person"
     },
     {
-      "lemma": "tiempo",
+      "lemma": "tiempo, n.",
       "gender": "masculine",
       "plural": "tiempos",
       "meaning": "time"
     },
     {
-      "lemma": "ciudad",
+      "lemma": "ciudad, n.",
       "gender": "feminine",
       "plural": "ciudades",
       "meaning": "city"
     },
     {
-      "lemma": "agua",
+      "lemma": "agua, n.",
       "gender": "feminine",
       "plural": "aguas",
       "meaning": "water"
     },
     {
-      "lemma": "comida",
+      "lemma": "comida, n.",
       "gender": "feminine",
       "plural": "comidas",
       "meaning": "food"
     },
     {
-      "lemma": "familia",
+      "lemma": "familia, n.",
       "gender": "feminine",
       "plural": "familias",
       "meaning": "family"
     },
     {
-      "lemma": "amigo",
+      "lemma": "amigo, n.",
       "gender": "masculine",
       "plural": "amigos",
       "meaning": "friend"
@@ -1201,7 +1201,7 @@
   ],
   "adjectives": [
     {
-      "lemma": "bueno",
+      "lemma": "bueno, adj.",
       "meaning": "good",
       "forms": {
         "masculine": "bueno",
@@ -1210,7 +1210,7 @@
       }
     },
     {
-      "lemma": "malo",
+      "lemma": "malo, adj.",
       "meaning": "bad",
       "forms": {
         "masculine": "malo",
@@ -1219,7 +1219,7 @@
       }
     },
     {
-      "lemma": "grande",
+      "lemma": "grande, adj.",
       "meaning": "big",
       "forms": {
         "masculine": "grande",
@@ -1228,7 +1228,7 @@
       }
     },
     {
-      "lemma": "pequeño",
+      "lemma": "pequeño, adj.",
       "meaning": "small",
       "forms": {
         "masculine": "pequeño",
@@ -1237,7 +1237,7 @@
       }
     },
     {
-      "lemma": "nuevo",
+      "lemma": "nuevo, adj.",
       "meaning": "new",
       "forms": {
         "masculine": "nuevo",
@@ -1246,7 +1246,7 @@
       }
     },
     {
-      "lemma": "viejo",
+      "lemma": "viejo, adj.",
       "meaning": "old",
       "forms": {
         "masculine": "viejo",
@@ -1255,7 +1255,7 @@
       }
     },
     {
-      "lemma": "feliz",
+      "lemma": "feliz, adj.",
       "meaning": "happy",
       "forms": {
         "masculine": "feliz",
@@ -1264,7 +1264,7 @@
       }
     },
     {
-      "lemma": "triste",
+      "lemma": "triste, adj.",
       "meaning": "sad",
       "forms": {
         "masculine": "triste",
@@ -1273,7 +1273,7 @@
       }
     },
     {
-      "lemma": "fácil",
+      "lemma": "fácil, adj.",
       "meaning": "easy",
       "forms": {
         "masculine": "fácil",
@@ -1282,7 +1282,7 @@
       }
     },
     {
-      "lemma": "difícil",
+      "lemma": "difícil, adj.",
       "meaning": "difficult",
       "forms": {
         "masculine": "difícil",
