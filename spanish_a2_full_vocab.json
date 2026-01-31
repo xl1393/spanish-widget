@@ -4199,18 +4199,30 @@
     {
       "lemma": "oír, v.",
       "meaning": "to hear",
-      "present": {},
-      "past": {}
+      "present": {
+        "yo": "oigo",
+        "tú": "oyes",
+        "él/ella": "oye",
+        "nosotros": "oímos",
+        "ellos": "oyen"
+      },
+      "past": {
+        "yo": "oí",
+        "tú": "oíste",
+        "él/ella": "oyó",
+        "nosotros": "oímos",
+        "ellos": "oyeron"
+      }
     },
     {
       "lemma": "oler, v.",
       "meaning": "to smell",
       "present": {
-        "yo": "olo",
-        "tú": "oles",
-        "él/ella": "ole",
+        "yo": "huelo",
+        "tú": "hueles",
+        "él/ella": "huele",
         "nosotros": "olemos",
-        "ellos": "olen"
+        "ellos": "huelen"
       },
       "past": {
         "yo": "olí",
@@ -4637,8 +4649,20 @@
     {
       "lemma": "reír, v.",
       "meaning": "to laugh",
-      "present": {},
-      "past": {}
+      "present": {
+        "yo": "río",
+        "tú": "ríes",
+        "él/ella": "ríe",
+        "nosotros": "reímos",
+        "ellos": "ríen"
+      },
+      "past": {
+        "yo": "reí",
+        "tú": "reíste",
+        "él/ella": "rió",
+        "nosotros": "reímos",
+        "ellos": "rieron"
+      }
     },
     {
       "lemma": "rellenar, v.",
@@ -4788,18 +4812,18 @@
       "lemma": "saber, v.",
       "meaning": "to know",
       "present": {
-        "yo": "sabo",
+        "yo": "sé",
         "tú": "sabes",
         "él/ella": "sabe",
         "nosotros": "sabemos",
         "ellos": "saben"
       },
       "past": {
-        "yo": "sabí",
-        "tú": "sabiste",
-        "él/ella": "sabió",
-        "nosotros": "sabimos",
-        "ellos": "sabieron"
+        "yo": "supe",
+        "tú": "supiste",
+        "él/ella": "supo",
+        "nosotros": "supimos",
+        "ellos": "supieron"
       }
     },
     {
@@ -4878,11 +4902,11 @@
       "lemma": "sentar, v.",
       "meaning": "to sit",
       "present": {
-        "yo": "sento",
-        "tú": "sentas",
-        "él/ella": "senta",
+        "yo": "siento",
+        "tú": "sientas",
+        "él/ella": "sienta",
         "nosotros": "sentamos",
-        "ellos": "sentan"
+        "ellos": "sientan"
       },
       "past": {
         "yo": "senté",
@@ -4932,11 +4956,11 @@
       "lemma": "sonar, v.",
       "meaning": "to sound",
       "present": {
-        "yo": "sono",
-        "tú": "sonas",
-        "él/ella": "sona",
+        "yo": "sueno",
+        "tú": "suenas",
+        "él/ella": "suena",
         "nosotros": "sonamos",
-        "ellos": "sonan"
+        "ellos": "suenan"
       },
       "past": {
         "yo": "soné",
@@ -4967,8 +4991,20 @@
     {
       "lemma": "sonreír, v.",
       "meaning": "to smile",
-      "present": {},
-      "past": {}
+      "present": {
+        "yo": "sonrío",
+        "tú": "sonríes",
+        "él/ella": "sonríe",
+        "nosotros": "sonreímos",
+        "ellos": "sonríen"
+      },
+      "past": {
+        "yo": "sonreí",
+        "tú": "sonreíste",
+        "él/ella": "sonrió",
+        "nosotros": "sonreímos",
+        "ellos": "sonrieron"
+      }
     },
     {
       "lemma": "soportar, v.",
