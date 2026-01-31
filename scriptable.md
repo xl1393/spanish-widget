@@ -16,7 +16,8 @@ const data = await req.loadJSON()
 const showVerb = Math.random() < 0.7
 
 let lemma = ""
-let form = ""
+let formType = ""
+let changedWord = ""
 let meaning = ""
 
 // Helper for abbreviations
@@ -36,6 +37,11 @@ function abbr(str) {
 
 if (showVerb && data.verbs.length > 0) {
   const verb = randomItem(data.verbs)
+  lemma = verb.lemma.split(',')[0] // removing ", v." for display if desired, or keeping it? User said "word".
+  // Keeping lemma as is to be safe, but typically clean display is nicer. 
+  // User prompt said "word, the form, the changed word, meaning", 
+  // but let's stick to the current lemma format "lemma, v." if user doesn't object, 
+  // OR actually better to match the prompt "word" -> "servir, v."
   lemma = verb.lemma
   meaning = verb.meaning
 
@@ -48,7 +54,8 @@ if (showVerb && data.verbs.length > 0) {
     const tense = randomItem(tenses)
     const persons = Object.keys(verb[tense])
     const person = randomItem(persons)
-    form = `${abbr(tense)}, ${abbr(person)}: ${verb[tense][person]}`
+    formType = `${abbr(tense)}, ${abbr(person)}`
+    changedWord = verb[tense][person]
   }
 } else {
   // If not verb, decide between noun and adjective
@@ -62,9 +69,11 @@ if (showVerb && data.verbs.length > 0) {
 
     if (isNoun) {
       if (word.plural) {
-         form = `${abbr("plural")}: ${word.plural}`
+         formType = abbr("plural")
+         changedWord = word.plural
       } else {
-         form = word.gender ? `${abbr("gender")}: ${word.gender}` : ""
+         formType = abbr("gender")
+         changedWord = word.gender || ""
       }
     } else {
       // Adjective
@@ -72,7 +81,8 @@ if (showVerb && data.verbs.length > 0) {
         // Pick a random form key (masculine, feminine, plural)
         const formKeys = Object.keys(word.forms)
         const randomKey = randomItem(formKeys)
-        form = `${abbr("forms")}, ${abbr(randomKey)}: ${word.forms[randomKey]}`
+        formType = `${abbr("forms")}, ${abbr(randomKey)}`
+        changedWord = word.forms[randomKey]
       }
     }
   }
@@ -87,17 +97,24 @@ const lemmaText = widget.addText(lemma)
 lemmaText.font = Font.boldSystemFont(18)
 lemmaText.textColor = Color.white()
 
-// 2. Form (if exists)
-if (form) {
-  const formText = widget.addText(form)
-  formText.font = Font.systemFont(14)
-  formText.textColor = Color.lightGray()
+// 2. Form Type (e.g. "past, yo")
+if (formType) {
+  const typeText = widget.addText(formType)
+  typeText.font = Font.systemFont(12)
+  typeText.textColor = Color.gray()
 }
 
-// 3. Meaning
+// 3. Changed Word (e.g. "serví")
+if (changedWord) {
+  const wordText = widget.addText(changedWord)
+  wordText.font = Font.systemFont(16)
+  wordText.textColor = Color.cyan() // Highlight the conjugated/changed word
+}
+
+// 4. Meaning
 const meaningText = widget.addText(meaning)
-meaningText.font = Font.systemFont(14)
-meaningText.textColor = Color.gray()
+meaningText.font = Font.italicSystemFont(12)
+meaningText.textColor = Color.lightGray()
 
 // ---------- 刷新时间 ----------
 widget.refreshAfterDate = new Date(Date.now() + REFRESH_HOURS * 60 * 60 * 1000)
