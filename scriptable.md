@@ -19,6 +19,21 @@ let lemma = ""
 let form = ""
 let meaning = ""
 
+// Helper for abbreviations
+function abbr(str) {
+  const map = {
+    "present": "pres.",
+    "past": "pas.",
+    "nosotros": "nos.",
+    "plural": "pl.",
+    "masculine": "masc.",
+    "feminine": "fem.",
+    "gender": "gen.",
+    "forms": "form"
+  }
+  return map[str] || str
+}
+
 if (showVerb && data.verbs.length > 0) {
   const verb = randomItem(data.verbs)
   lemma = verb.lemma
@@ -33,12 +48,10 @@ if (showVerb && data.verbs.length > 0) {
     const tense = randomItem(tenses)
     const persons = Object.keys(verb[tense])
     const person = randomItem(persons)
-    form = `${tense}, ${person}: ${verb[tense][person]}`
+    form = `${abbr(tense)}, ${abbr(person)}: ${verb[tense][person]}`
   }
 } else {
   // If not verb, decide between noun and adjective
-  // Give adjectives a fair chance if nouns list is huge? 
-  // Code originally: 50% chance pool select.
   const isNoun = Math.random() < 0.5
   const pool = isNoun ? data.nouns : data.adjectives
   
@@ -49,9 +62,9 @@ if (showVerb && data.verbs.length > 0) {
 
     if (isNoun) {
       if (word.plural) {
-         form = `plural: ${word.plural}`
+         form = `${abbr("plural")}: ${word.plural}`
       } else {
-         form = word.gender ? `gender: ${word.gender}` : ""
+         form = word.gender ? `${abbr("gender")}: ${word.gender}` : ""
       }
     } else {
       // Adjective
@@ -59,7 +72,7 @@ if (showVerb && data.verbs.length > 0) {
         // Pick a random form key (masculine, feminine, plural)
         const formKeys = Object.keys(word.forms)
         const randomKey = randomItem(formKeys)
-        form = `forms, ${randomKey}: ${word.forms[randomKey]}`
+        form = `${abbr("forms")}, ${abbr(randomKey)}: ${word.forms[randomKey]}`
       }
     }
   }
