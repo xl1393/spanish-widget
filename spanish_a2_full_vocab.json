@@ -1135,6 +1135,4164 @@
         "nosotros": "conocimos",
         "ellos": "conocieron"
       }
+    },
+    {
+      "lemma": "bailar, v.",
+      "meaning": "to dance",
+      "present": {
+        "yo": "bailo",
+        "tú": "bailas",
+        "él/ella": "baila",
+        "nosotros": "bailamos",
+        "ellos": "bailan"
+      },
+      "past": {
+        "yo": "bailé",
+        "tú": "bailaste",
+        "él/ella": "bailó",
+        "nosotros": "bailamos",
+        "ellos": "bailaron"
+      }
+    },
+    {
+      "lemma": "cantar, v.",
+      "meaning": "to sing",
+      "present": {
+        "yo": "canto",
+        "tú": "cantas",
+        "él/ella": "canta",
+        "nosotros": "cantamos",
+        "ellos": "cantan"
+      },
+      "past": {
+        "yo": "canté",
+        "tú": "cantaste",
+        "él/ella": "cantó",
+        "nosotros": "cantamos",
+        "ellos": "cantaron"
+      }
+    },
+    {
+      "lemma": "cocinar, v.",
+      "meaning": "to cook",
+      "present": {
+        "yo": "cocino",
+        "tú": "cocinas",
+        "él/ella": "cocina",
+        "nosotros": "cocinamos",
+        "ellos": "cocinan"
+      },
+      "past": {
+        "yo": "cociné",
+        "tú": "cocinaste",
+        "él/ella": "cocinó",
+        "nosotros": "cocinamos",
+        "ellos": "cocinaron"
+      }
+    },
+    {
+      "lemma": "lavar, v.",
+      "meaning": "to wash",
+      "present": {
+        "yo": "lavo",
+        "tú": "lavas",
+        "él/ella": "lava",
+        "nosotros": "lavamos",
+        "ellos": "lavan"
+      },
+      "past": {
+        "yo": "lavé",
+        "tú": "lavaste",
+        "él/ella": "lavó",
+        "nosotros": "lavamos",
+        "ellos": "lavaron"
+      }
+    },
+    {
+      "lemma": "limpiar, v.",
+      "meaning": "to clean",
+      "present": {
+        "yo": "limpio",
+        "tú": "limpias",
+        "él/ella": "limpia",
+        "nosotros": "limpiamos",
+        "ellos": "limpian"
+      },
+      "past": {
+        "yo": "limpié",
+        "tú": "limpiaste",
+        "él/ella": "limpió",
+        "nosotros": "limpiamos",
+        "ellos": "limpiaron"
+      }
+    },
+    {
+      "lemma": "desayunar, v.",
+      "meaning": "to have breakfast",
+      "present": {
+        "yo": "desayuno",
+        "tú": "desayunas",
+        "él/ella": "desayuna",
+        "nosotros": "desayunamos",
+        "ellos": "desayunan"
+      },
+      "past": {
+        "yo": "desayuné",
+        "tú": "desayunaste",
+        "él/ella": "desayunó",
+        "nosotros": "desayunamos",
+        "ellos": "desayunaron"
+      }
+    },
+    {
+      "lemma": "cenar, v.",
+      "meaning": "to have dinner",
+      "present": {
+        "yo": "ceno",
+        "tú": "cenas",
+        "él/ella": "cena",
+        "nosotros": "cenamos",
+        "ellos": "cenan"
+      },
+      "past": {
+        "yo": "cené",
+        "tú": "cenaste",
+        "él/ella": "cenó",
+        "nosotros": "cenamos",
+        "ellos": "cenaron"
+      }
+    },
+    {
+      "lemma": "dibujar, v.",
+      "meaning": "to draw",
+      "present": {
+        "yo": "dibujo",
+        "tú": "dibujas",
+        "él/ella": "dibuja",
+        "nosotros": "dibujamos",
+        "ellos": "dibujan"
+      },
+      "past": {
+        "yo": "dibujé",
+        "tú": "dibujaste",
+        "él/ella": "dibujó",
+        "nosotros": "dibujamos",
+        "ellos": "dibujaron"
+      }
+    },
+    {
+      "lemma": "enseñar, v.",
+      "meaning": "to teach",
+      "present": {
+        "yo": "enseño",
+        "tú": "enseñas",
+        "él/ella": "enseña",
+        "nosotros": "enseñamos",
+        "ellos": "enseñan"
+      },
+      "past": {
+        "yo": "enseñé",
+        "tú": "enseñaste",
+        "él/ella": "enseñó",
+        "nosotros": "enseñamos",
+        "ellos": "enseñaron"
+      }
+    },
+    {
+      "lemma": "visitar, v.",
+      "meaning": "to visit",
+      "present": {
+        "yo": "visito",
+        "tú": "visitas",
+        "él/ella": "visita",
+        "nosotros": "visitamos",
+        "ellos": "visitan"
+      },
+      "past": {
+        "yo": "visité",
+        "tú": "visitaste",
+        "él/ella": "visitó",
+        "nosotros": "visitamos",
+        "ellos": "visitaron"
+      }
+    },
+    {
+      "lemma": "llorar, v.",
+      "meaning": "to cry",
+      "present": {
+        "yo": "lloro",
+        "tú": "lloras",
+        "él/ella": "llora",
+        "nosotros": "lloramos",
+        "ellos": "lloran"
+      },
+      "past": {
+        "yo": "lloré",
+        "tú": "lloraste",
+        "él/ella": "lloró",
+        "nosotros": "lloramos",
+        "ellos": "lloraron"
+      }
+    },
+    {
+      "lemma": "pintar, v.",
+      "meaning": "to paint",
+      "present": {
+        "yo": "pinto",
+        "tú": "pintas",
+        "él/ella": "pinta",
+        "nosotros": "pintamos",
+        "ellos": "pintan"
+      },
+      "past": {
+        "yo": "pinté",
+        "tú": "pintaste",
+        "él/ella": "pintó",
+        "nosotros": "pintamos",
+        "ellos": "pintaron"
+      }
+    },
+    {
+      "lemma": "tocar, v.",
+      "meaning": "to touch/play instrument",
+      "present": {
+        "yo": "toco",
+        "tú": "tocas",
+        "él/ella": "toca",
+        "nosotros": "tocamos",
+        "ellos": "tocan"
+      },
+      "past": {
+        "yo": "toqué",
+        "tú": "tocaste",
+        "él/ella": "tocó",
+        "nosotros": "tocamos",
+        "ellos": "tocaron"
+      }
+    },
+    {
+      "lemma": "saltar, v.",
+      "meaning": "to jump",
+      "present": {
+        "yo": "salto",
+        "tú": "saltas",
+        "él/ella": "salta",
+        "nosotros": "saltamos",
+        "ellos": "saltan"
+      },
+      "past": {
+        "yo": "salté",
+        "tú": "saltaste",
+        "él/ella": "saltó",
+        "nosotros": "saltamos",
+        "ellos": "saltaron"
+      }
+    },
+    {
+      "lemma": "nadar, v.",
+      "meaning": "to swim",
+      "present": {
+        "yo": "nado",
+        "tú": "nadas",
+        "él/ella": "nada",
+        "nosotros": "nadamos",
+        "ellos": "nadan"
+      },
+      "past": {
+        "yo": "nadé",
+        "tú": "nadaste",
+        "él/ella": "nadó",
+        "nosotros": "nadamos",
+        "ellos": "nadaron"
+      }
+    },
+    {
+      "lemma": "practicar, v.",
+      "meaning": "to practice",
+      "present": {
+        "yo": "practico",
+        "tú": "practicas",
+        "él/ella": "practica",
+        "nosotros": "practicamos",
+        "ellos": "practican"
+      },
+      "past": {
+        "yo": "practiqué",
+        "tú": "practicaste",
+        "él/ella": "practicó",
+        "nosotros": "practicamos",
+        "ellos": "practicaron"
+      }
+    },
+    {
+      "lemma": "preparar, v.",
+      "meaning": "to prepare",
+      "present": {
+        "yo": "preparo",
+        "tú": "preparas",
+        "él/ella": "prepara",
+        "nosotros": "preparamos",
+        "ellos": "preparan"
+      },
+      "past": {
+        "yo": "preparé",
+        "tú": "preparaste",
+        "él/ella": "preparó",
+        "nosotros": "preparamos",
+        "ellos": "prepararon"
+      }
+    },
+    {
+      "lemma": "regresar, v.",
+      "meaning": "to return",
+      "present": {
+        "yo": "regreso",
+        "tú": "regresas",
+        "él/ella": "regresa",
+        "nosotros": "regresamos",
+        "ellos": "regresan"
+      },
+      "past": {
+        "yo": "regresé",
+        "tú": "regresaste",
+        "él/ella": "regresó",
+        "nosotros": "regresamos",
+        "ellos": "regresaron"
+      }
+    },
+    {
+      "lemma": "tomar, v.",
+      "meaning": "to take/drink",
+      "present": {
+        "yo": "tomo",
+        "tú": "tomas",
+        "él/ella": "toma",
+        "nosotros": "tomamos",
+        "ellos": "toman"
+      },
+      "past": {
+        "yo": "tomé",
+        "tú": "tomaste",
+        "él/ella": "tomó",
+        "nosotros": "tomamos",
+        "ellos": "tomaron"
+      }
+    },
+    {
+      "lemma": "descansar, v.",
+      "meaning": "to rest",
+      "present": {
+        "yo": "descanso",
+        "tú": "descansas",
+        "él/ella": "descansa",
+        "nosotros": "descansamos",
+        "ellos": "descansan"
+      },
+      "past": {
+        "yo": "descansé",
+        "tú": "descansaste",
+        "él/ella": "descansó",
+        "nosotros": "descansamos",
+        "ellos": "descansaron"
+      }
+    },
+    {
+      "lemma": "explicar, v.",
+      "meaning": "to explain",
+      "present": {
+        "yo": "explico",
+        "tú": "explicas",
+        "él/ella": "explica",
+        "nosotros": "explicamos",
+        "ellos": "explican"
+      },
+      "past": {
+        "yo": "expliqué",
+        "tú": "explicaste",
+        "él/ella": "explicó",
+        "nosotros": "explicamos",
+        "ellos": "explicaron"
+      }
+    },
+    {
+      "lemma": "invitar, v.",
+      "meaning": "to invite",
+      "present": {
+        "yo": "invito",
+        "tú": "invitas",
+        "él/ella": "invita",
+        "nosotros": "invitamos",
+        "ellos": "invitan"
+      },
+      "past": {
+        "yo": "invité",
+        "tú": "invitaste",
+        "él/ella": "invitó",
+        "nosotros": "invitamos",
+        "ellos": "invitaron"
+      }
+    },
+    {
+      "lemma": "mandar, v.",
+      "meaning": "to send",
+      "present": {
+        "yo": "mando",
+        "tú": "mandas",
+        "él/ella": "manda",
+        "nosotros": "mandamos",
+        "ellos": "mandan"
+      },
+      "past": {
+        "yo": "mandé",
+        "tú": "mandaste",
+        "él/ella": "mandó",
+        "nosotros": "mandamos",
+        "ellos": "mandaron"
+      }
+    },
+    {
+      "lemma": "participar, v.",
+      "meaning": "to participate",
+      "present": {
+        "yo": "participo",
+        "tú": "participas",
+        "él/ella": "participa",
+        "nosotros": "participamos",
+        "ellos": "participan"
+      },
+      "past": {
+        "yo": "participé",
+        "tú": "participaste",
+        "él/ella": "participó",
+        "nosotros": "participamos",
+        "ellos": "participaron"
+      }
+    },
+    {
+      "lemma": "comprender, v.",
+      "meaning": "to understand",
+      "present": {
+        "yo": "comprendo",
+        "tú": "comprendes",
+        "él/ella": "comprende",
+        "nosotros": "comprendemos",
+        "ellos": "comprenden"
+      },
+      "past": {
+        "yo": "comprendí",
+        "tú": "comprendiste",
+        "él/ella": "comprendió",
+        "nosotros": "comprendimos",
+        "ellos": "comprendieron"
+      }
+    },
+    {
+      "lemma": "responder, v.",
+      "meaning": "to respond",
+      "present": {
+        "yo": "respondo",
+        "tú": "respondes",
+        "él/ella": "responde",
+        "nosotros": "respondemos",
+        "ellos": "responden"
+      },
+      "past": {
+        "yo": "respondí",
+        "tú": "respondiste",
+        "él/ella": "respondió",
+        "nosotros": "respondimos",
+        "ellos": "respondieron"
+      }
+    },
+    {
+      "lemma": "temer, v.",
+      "meaning": "to fear",
+      "present": {
+        "yo": "temo",
+        "tú": "temes",
+        "él/ella": "teme",
+        "nosotros": "tememos",
+        "ellos": "temen"
+      },
+      "past": {
+        "yo": "temí",
+        "tú": "temiste",
+        "él/ella": "temió",
+        "nosotros": "temimos",
+        "ellos": "temieron"
+      }
+    },
+    {
+      "lemma": "toser, v.",
+      "meaning": "to cough",
+      "present": {
+        "yo": "toso",
+        "tú": "toses",
+        "él/ella": "tose",
+        "nosotros": "tosemos",
+        "ellos": "tosen"
+      },
+      "past": {
+        "yo": "tosí",
+        "tú": "tosiste",
+        "él/ella": "tosió",
+        "nosotros": "tosimos",
+        "ellos": "tosieron"
+      }
+    },
+    {
+      "lemma": "asistir, v.",
+      "meaning": "to attend",
+      "present": {
+        "yo": "asisto",
+        "tú": "asistes",
+        "él/ella": "asiste",
+        "nosotros": "asistimos",
+        "ellos": "asisten"
+      },
+      "past": {
+        "yo": "asistí",
+        "tú": "asististe",
+        "él/ella": "asistió",
+        "nosotros": "asistimos",
+        "ellos": "asistieron"
+      }
+    },
+    {
+      "lemma": "describir, v.",
+      "meaning": "to describe",
+      "present": {
+        "yo": "describo",
+        "tú": "describes",
+        "él/ella": "describe",
+        "nosotros": "describimos",
+        "ellos": "describen"
+      },
+      "past": {
+        "yo": "describí",
+        "tú": "describiste",
+        "él/ella": "describió",
+        "nosotros": "describimos",
+        "ellos": "describieron"
+      }
+    },
+    {
+      "lemma": "discutir, v.",
+      "meaning": "to argue/discuss",
+      "present": {
+        "yo": "discuto",
+        "tú": "discutes",
+        "él/ella": "discute",
+        "nosotros": "discutimos",
+        "ellos": "discuten"
+      },
+      "past": {
+        "yo": "discutí",
+        "tú": "discutiste",
+        "él/ella": "discutió",
+        "nosotros": "discutimos",
+        "ellos": "discutieron"
+      }
+    },
+    {
+      "lemma": "sufrir, v.",
+      "meaning": "to suffer",
+      "present": {
+        "yo": "sufro",
+        "tú": "sufres",
+        "él/ella": "sufre",
+        "nosotros": "sufrimos",
+        "ellos": "sufren"
+      },
+      "past": {
+        "yo": "sufrí",
+        "tú": "sufriste",
+        "él/ella": "sufrió",
+        "nosotros": "sufrimos",
+        "ellos": "sufrieron"
+      }
+    },
+    {
+      "lemma": "unir, v.",
+      "meaning": "to unite",
+      "present": {
+        "yo": "uno",
+        "tú": "unes",
+        "él/ella": "une",
+        "nosotros": "unimos",
+        "ellos": "unen"
+      },
+      "past": {
+        "yo": "uní",
+        "tú": "uniste",
+        "él/ella": "unió",
+        "nosotros": "unimos",
+        "ellos": "unieron"
+      }
+    },
+    {
+      "lemma": "existir, v.",
+      "meaning": "to exist",
+      "present": {
+        "yo": "existo",
+        "tú": "existes",
+        "él/ella": "existe",
+        "nosotros": "existimos",
+        "ellos": "existen"
+      },
+      "past": {
+        "yo": "existí",
+        "tú": "exististe",
+        "él/ella": "existió",
+        "nosotros": "existimos",
+        "ellos": "existieron"
+      }
+    },
+    {
+      "lemma": "permitir, v.",
+      "meaning": "to permit",
+      "present": {
+        "yo": "permito",
+        "tú": "permites",
+        "él/ella": "permite",
+        "nosotros": "permitimos",
+        "ellos": "permiten"
+      },
+      "past": {
+        "yo": "permití",
+        "tú": "permitiste",
+        "él/ella": "permitió",
+        "nosotros": "permitimos",
+        "ellos": "permitieron"
+      }
+    },
+    {
+      "lemma": "prohibir, v.",
+      "meaning": "to prohibit",
+      "present": {
+        "yo": "prohibo",
+        "tú": "prohibes",
+        "él/ella": "prohibe",
+        "nosotros": "prohibimos",
+        "ellos": "prohiben"
+      },
+      "past": {
+        "yo": "prohibí",
+        "tú": "prohibiste",
+        "él/ella": "prohibió",
+        "nosotros": "prohibimos",
+        "ellos": "prohibieron"
+      }
+    },
+    {
+      "lemma": "fumar, v.",
+      "meaning": "to smoke",
+      "present": {
+        "yo": "fumo",
+        "tú": "fumas",
+        "él/ella": "fuma",
+        "nosotros": "fumamos",
+        "ellos": "fuman"
+      },
+      "past": {
+        "yo": "fumé",
+        "tú": "fumaste",
+        "él/ella": "fumó",
+        "nosotros": "fumamos",
+        "ellos": "fumaron"
+      }
+    },
+    {
+      "lemma": "gastar, v.",
+      "meaning": "to spend",
+      "present": {
+        "yo": "gasto",
+        "tú": "gastas",
+        "él/ella": "gasta",
+        "nosotros": "gastamos",
+        "ellos": "gastan"
+      },
+      "past": {
+        "yo": "gasté",
+        "tú": "gastaste",
+        "él/ella": "gastó",
+        "nosotros": "gastamos",
+        "ellos": "gastaron"
+      }
+    },
+    {
+      "lemma": "gritar, v.",
+      "meaning": "to shout",
+      "present": {
+        "yo": "grito",
+        "tú": "gritas",
+        "él/ella": "grita",
+        "nosotros": "gritamos",
+        "ellos": "gritan"
+      },
+      "past": {
+        "yo": "grité",
+        "tú": "gritaste",
+        "él/ella": "gritó",
+        "nosotros": "gritamos",
+        "ellos": "gritaron"
+      }
+    },
+    {
+      "lemma": "parar, v.",
+      "meaning": "to stop",
+      "present": {
+        "yo": "paro",
+        "tú": "paras",
+        "él/ella": "para",
+        "nosotros": "paramos",
+        "ellos": "paran"
+      },
+      "past": {
+        "yo": "paré",
+        "tú": "paraste",
+        "él/ella": "paró",
+        "nosotros": "paramos",
+        "ellos": "pararon"
+      }
+    },
+    {
+      "lemma": "pasear, v.",
+      "meaning": "to walk",
+      "present": {
+        "yo": "paseo",
+        "tú": "paseas",
+        "él/ella": "pasea",
+        "nosotros": "paseamos",
+        "ellos": "pasean"
+      },
+      "past": {
+        "yo": "paseé",
+        "tú": "paseaste",
+        "él/ella": "paseó",
+        "nosotros": "paseamos",
+        "ellos": "pasearon"
+      }
+    },
+    {
+      "lemma": "pelear, v.",
+      "meaning": "to fight",
+      "present": {
+        "yo": "peleo",
+        "tú": "peleas",
+        "él/ella": "pelea",
+        "nosotros": "peleamos",
+        "ellos": "pelean"
+      },
+      "past": {
+        "yo": "peleé",
+        "tú": "peleaste",
+        "él/ella": "peleó",
+        "nosotros": "peleamos",
+        "ellos": "pelearon"
+      }
+    },
+    {
+      "lemma": "prestar, v.",
+      "meaning": "to lend",
+      "present": {
+        "yo": "presto",
+        "tú": "prestas",
+        "él/ella": "presta",
+        "nosotros": "prestamos",
+        "ellos": "prestan"
+      },
+      "past": {
+        "yo": "presté",
+        "tú": "prestaste",
+        "él/ella": "prestó",
+        "nosotros": "prestamos",
+        "ellos": "prestaron"
+      }
+    },
+    {
+      "lemma": "cambiar, v.",
+      "meaning": "to change",
+      "present": {
+        "yo": "cambio",
+        "tú": "cambias",
+        "él/ella": "cambia",
+        "nosotros": "cambiamos",
+        "ellos": "cambian"
+      },
+      "past": {
+        "yo": "cambié",
+        "tú": "cambiaste",
+        "él/ella": "cambió",
+        "nosotros": "cambiamos",
+        "ellos": "cambiaron"
+      }
+    },
+    {
+      "lemma": "andar, v.",
+      "meaning": "to walk",
+      "present": {
+        "yo": "ando",
+        "tú": "andas",
+        "él/ella": "anda",
+        "nosotros": "andamos",
+        "ellos": "andan"
+      },
+      "past": {
+        "yo": "andé",
+        "tú": "andaste",
+        "él/ella": "andó",
+        "nosotros": "andamos",
+        "ellos": "andaron"
+      }
+    },
+    {
+      "lemma": "celebrar, v.",
+      "meaning": "to celebrate",
+      "present": {
+        "yo": "celebro",
+        "tú": "celebras",
+        "él/ella": "celebra",
+        "nosotros": "celebramos",
+        "ellos": "celebran"
+      },
+      "past": {
+        "yo": "celebré",
+        "tú": "celebraste",
+        "él/ella": "celebró",
+        "nosotros": "celebramos",
+        "ellos": "celebraron"
+      }
+    },
+    {
+      "lemma": "comenzar, v.",
+      "meaning": "to begin",
+      "present": {
+        "yo": "comienzo",
+        "tú": "comienzas",
+        "él/ella": "comienza",
+        "nosotros": "comenzamos",
+        "ellos": "comienzan"
+      },
+      "past": {
+        "yo": "comencé",
+        "tú": "comenzaste",
+        "él/ella": "comenzó",
+        "nosotros": "comenzamos",
+        "ellos": "comenzaron"
+      }
+    },
+    {
+      "lemma": "entender, v.",
+      "meaning": "to understand",
+      "present": {
+        "yo": "entiendo",
+        "tú": "entiendes",
+        "él/ella": "entiende",
+        "nosotros": "entendemos",
+        "ellos": "entienden"
+      },
+      "past": {
+        "yo": "entendí",
+        "tú": "entendiste",
+        "él/ella": "entendió",
+        "nosotros": "entendimos",
+        "ellos": "entendieron"
+      }
+    },
+    {
+      "lemma": "almorzar, v.",
+      "meaning": "to have lunch",
+      "present": {
+        "yo": "almuerzo",
+        "tú": "almuerzas",
+        "él/ella": "almuerza",
+        "nosotros": "almorzamos",
+        "ellos": "almuerzan"
+      },
+      "past": {
+        "yo": "almorcé",
+        "tú": "almorzaste",
+        "él/ella": "almorzó",
+        "nosotros": "almorzamos",
+        "ellos": "almorzaron"
+      }
+    },
+    {
+      "lemma": "costar, v.",
+      "meaning": "to cost",
+      "present": {
+        "yo": "costo",
+        "tú": "costas",
+        "él/ella": "cuesta",
+        "nosotros": "costamos",
+        "ellos": "cuestan"
+      },
+      "past": {
+        "yo": "costé",
+        "tú": "costaste",
+        "él/ella": "costó",
+        "nosotros": "costamos",
+        "ellos": "costaron"
+      }
+    },
+    {
+      "lemma": "dormir, v.",
+      "meaning": "to sleep",
+      "present": {
+        "yo": "duermo",
+        "tú": "duermes",
+        "él/ella": "duerme",
+        "nosotros": "dormimos",
+        "ellos": "duermen"
+      },
+      "past": {
+        "yo": "dormí",
+        "tú": "dormiste",
+        "él/ella": "durmió",
+        "nosotros": "dormimos",
+        "ellos": "durmieron"
+      }
+    },
+    {
+      "lemma": "encontrar, v.",
+      "meaning": "to find",
+      "present": {
+        "yo": "encuentro",
+        "tú": "encuentras",
+        "él/ella": "encuentra",
+        "nosotros": "encontramos",
+        "ellos": "encuentran"
+      },
+      "past": {
+        "yo": "encontré",
+        "tú": "encontraste",
+        "él/ella": "encontró",
+        "nosotros": "encontramos",
+        "ellos": "encontraron"
+      }
+    },
+    {
+      "lemma": "mostrar, v.",
+      "meaning": "to show",
+      "present": {
+        "yo": "mostro",
+        "tú": "mostras",
+        "él/ella": "mostra",
+        "nosotros": "mostramos",
+        "ellos": "mostran"
+      },
+      "past": {
+        "yo": "mostré",
+        "tú": "mostraste",
+        "él/ella": "mostró",
+        "nosotros": "mostramos",
+        "ellos": "mostraron"
+      }
+    },
+    {
+      "lemma": "jugar, v.",
+      "meaning": "to play",
+      "present": {
+        "yo": "juego",
+        "tú": "juegas",
+        "él/ella": "juega",
+        "nosotros": "jugamos",
+        "ellos": "juegan"
+      },
+      "past": {
+        "yo": "jugué",
+        "tú": "jugaste",
+        "él/ella": "jugó",
+        "nosotros": "jugamos",
+        "ellos": "jugaron"
+      }
+    },
+    {
+      "lemma": "pedir, v.",
+      "meaning": "to ask for",
+      "present": {
+        "yo": "pido",
+        "tú": "pides",
+        "él/ella": "pide",
+        "nosotros": "pedimos",
+        "ellos": "piden"
+      },
+      "past": {
+        "yo": "pedí",
+        "tú": "pediste",
+        "él/ella": "pidió",
+        "nosotros": "pedimos",
+        "ellos": "pidieron"
+      }
+    },
+    {
+      "lemma": "repetir, v.",
+      "meaning": "to repeat",
+      "present": {
+        "yo": "repeto",
+        "tú": "repetes",
+        "él/ella": "repete",
+        "nosotros": "repetimos",
+        "ellos": "repeten"
+      },
+      "past": {
+        "yo": "repetí",
+        "tú": "repetiste",
+        "él/ella": "repetió",
+        "nosotros": "repetimos",
+        "ellos": "repetieron"
+      }
+    },
+    {
+      "lemma": "seguir, v.",
+      "meaning": "to follow",
+      "present": {
+        "yo": "seguo",
+        "tú": "segues",
+        "él/ella": "segue",
+        "nosotros": "seguimos",
+        "ellos": "seguen"
+      },
+      "past": {
+        "yo": "seguí",
+        "tú": "seguiste",
+        "él/ella": "seguió",
+        "nosotros": "seguimos",
+        "ellos": "seguieron"
+      }
+    },
+    {
+      "lemma": "servir, v.",
+      "meaning": "to serve",
+      "present": {
+        "yo": "servo",
+        "tú": "serves",
+        "él/ella": "serve",
+        "nosotros": "servimos",
+        "ellos": "serven"
+      },
+      "past": {
+        "yo": "serví",
+        "tú": "serviste",
+        "él/ella": "servió",
+        "nosotros": "servimos",
+        "ellos": "servieron"
+      }
+    },
+    {
+      "lemma": "aceptar, v.",
+      "meaning": "to accept",
+      "present": {
+        "yo": "acepto",
+        "tú": "aceptas",
+        "él/ella": "acepta",
+        "nosotros": "aceptamos",
+        "ellos": "aceptan"
+      },
+      "past": {
+        "yo": "acepté",
+        "tú": "aceptaste",
+        "él/ella": "aceptó",
+        "nosotros": "aceptamos",
+        "ellos": "aceptaron"
+      }
+    },
+    {
+      "lemma": "aconsejar, v.",
+      "meaning": "to advise",
+      "present": {
+        "yo": "aconsejo",
+        "tú": "aconsejas",
+        "él/ella": "aconseja",
+        "nosotros": "aconsejamos",
+        "ellos": "aconsejan"
+      },
+      "past": {
+        "yo": "aconsejé",
+        "tú": "aconsejaste",
+        "él/ella": "aconsejó",
+        "nosotros": "aconsejamos",
+        "ellos": "aconsejaron"
+      }
+    },
+    {
+      "lemma": "acompañar, v.",
+      "meaning": "to accompany",
+      "present": {
+        "yo": "acompaño",
+        "tú": "acompañas",
+        "él/ella": "acompaña",
+        "nosotros": "acompañamos",
+        "ellos": "acompañan"
+      },
+      "past": {
+        "yo": "acompañé",
+        "tú": "acompañaste",
+        "él/ella": "acompañó",
+        "nosotros": "acompañamos",
+        "ellos": "acompañaron"
+      }
+    },
+    {
+      "lemma": "admirar, v.",
+      "meaning": "to admire",
+      "present": {
+        "yo": "admiro",
+        "tú": "admiras",
+        "él/ella": "admira",
+        "nosotros": "admiramos",
+        "ellos": "admiran"
+      },
+      "past": {
+        "yo": "admiré",
+        "tú": "admiraste",
+        "él/ella": "admiró",
+        "nosotros": "admiramos",
+        "ellos": "admiraron"
+      }
+    },
+    {
+      "lemma": "adorar, v.",
+      "meaning": "to adore",
+      "present": {
+        "yo": "adoro",
+        "tú": "adoras",
+        "él/ella": "adora",
+        "nosotros": "adoramos",
+        "ellos": "adoran"
+      },
+      "past": {
+        "yo": "adoré",
+        "tú": "adoraste",
+        "él/ella": "adoró",
+        "nosotros": "adoramos",
+        "ellos": "adoraron"
+      }
+    },
+    {
+      "lemma": "ahorrar, v.",
+      "meaning": "to save",
+      "present": {
+        "yo": "ahorro",
+        "tú": "ahorras",
+        "él/ella": "ahorra",
+        "nosotros": "ahorramos",
+        "ellos": "ahorran"
+      },
+      "past": {
+        "yo": "ahorré",
+        "tú": "ahorraste",
+        "él/ella": "ahorró",
+        "nosotros": "ahorramos",
+        "ellos": "ahorraron"
+      }
+    },
+    {
+      "lemma": "alcanzar, v.",
+      "meaning": "to reach",
+      "present": {
+        "yo": "alcanzo",
+        "tú": "alcanzas",
+        "él/ella": "alcanza",
+        "nosotros": "alcanzamos",
+        "ellos": "alcanzan"
+      },
+      "past": {
+        "yo": "alcancé",
+        "tú": "alcanzaste",
+        "él/ella": "alcanzó",
+        "nosotros": "alcanzamos",
+        "ellos": "alcanzaron"
+      }
+    },
+    {
+      "lemma": "alegrar, v.",
+      "meaning": "to gladden",
+      "present": {
+        "yo": "alegro",
+        "tú": "alegras",
+        "él/ella": "alegra",
+        "nosotros": "alegramos",
+        "ellos": "alegran"
+      },
+      "past": {
+        "yo": "alegré",
+        "tú": "alegraste",
+        "él/ella": "alegró",
+        "nosotros": "alegramos",
+        "ellos": "alegraron"
+      }
+    },
+    {
+      "lemma": "alquilar, v.",
+      "meaning": "to rent",
+      "present": {
+        "yo": "alquilo",
+        "tú": "alquilas",
+        "él/ella": "alquila",
+        "nosotros": "alquilamos",
+        "ellos": "alquilan"
+      },
+      "past": {
+        "yo": "alquilé",
+        "tú": "alquilaste",
+        "él/ella": "alquiló",
+        "nosotros": "alquilamos",
+        "ellos": "alquilaron"
+      }
+    },
+    {
+      "lemma": "anunciar, v.",
+      "meaning": "to announce",
+      "present": {
+        "yo": "anuncio",
+        "tú": "anuncias",
+        "él/ella": "anuncia",
+        "nosotros": "anunciamos",
+        "ellos": "anuncian"
+      },
+      "past": {
+        "yo": "anuncié",
+        "tú": "anunciaste",
+        "él/ella": "anunció",
+        "nosotros": "anunciamos",
+        "ellos": "anunciaron"
+      }
+    },
+    {
+      "lemma": "apagar, v.",
+      "meaning": "to turn off",
+      "present": {
+        "yo": "apago",
+        "tú": "apagas",
+        "él/ella": "apaga",
+        "nosotros": "apagamos",
+        "ellos": "apagan"
+      },
+      "past": {
+        "yo": "apagué",
+        "tú": "apagaste",
+        "él/ella": "apagó",
+        "nosotros": "apagamos",
+        "ellos": "apagaron"
+      }
+    },
+    {
+      "lemma": "aparecer, v.",
+      "meaning": "to appear",
+      "present": {
+        "yo": "apareco",
+        "tú": "apareces",
+        "él/ella": "aparece",
+        "nosotros": "aparecemos",
+        "ellos": "aparecen"
+      },
+      "past": {
+        "yo": "aparecí",
+        "tú": "apareciste",
+        "él/ella": "apareció",
+        "nosotros": "aparecimos",
+        "ellos": "aparecieron"
+      }
+    },
+    {
+      "lemma": "aplaudir, v.",
+      "meaning": "to applaud",
+      "present": {
+        "yo": "aplaudo",
+        "tú": "aplaudes",
+        "él/ella": "aplaude",
+        "nosotros": "aplaudimos",
+        "ellos": "aplauden"
+      },
+      "past": {
+        "yo": "aplaudí",
+        "tú": "aplaudiste",
+        "él/ella": "aplaudió",
+        "nosotros": "aplaudimos",
+        "ellos": "aplaudieron"
+      }
+    },
+    {
+      "lemma": "apreciar, v.",
+      "meaning": "to appreciate",
+      "present": {
+        "yo": "aprecio",
+        "tú": "aprecias",
+        "él/ella": "aprecia",
+        "nosotros": "apreciamos",
+        "ellos": "aprecian"
+      },
+      "past": {
+        "yo": "aprecié",
+        "tú": "apreciaste",
+        "él/ella": "apreció",
+        "nosotros": "apreciamos",
+        "ellos": "apreciaron"
+      }
+    },
+    {
+      "lemma": "aprobar, v.",
+      "meaning": "to approve",
+      "present": {
+        "yo": "aprobo",
+        "tú": "aprobas",
+        "él/ella": "aproba",
+        "nosotros": "aprobamos",
+        "ellos": "aproban"
+      },
+      "past": {
+        "yo": "aprobé",
+        "tú": "aprobaste",
+        "él/ella": "aprobó",
+        "nosotros": "aprobamos",
+        "ellos": "aprobaron"
+      }
+    },
+    {
+      "lemma": "arreglar, v.",
+      "meaning": "to fix",
+      "present": {
+        "yo": "arreglo",
+        "tú": "arreglas",
+        "él/ella": "arregla",
+        "nosotros": "arreglamos",
+        "ellos": "arreglan"
+      },
+      "past": {
+        "yo": "arreglé",
+        "tú": "arreglaste",
+        "él/ella": "arregló",
+        "nosotros": "arreglamos",
+        "ellos": "arreglaron"
+      }
+    },
+    {
+      "lemma": "asegurar, v.",
+      "meaning": "to assure",
+      "present": {
+        "yo": "aseguro",
+        "tú": "aseguras",
+        "él/ella": "asegura",
+        "nosotros": "aseguramos",
+        "ellos": "aseguran"
+      },
+      "past": {
+        "yo": "aseguré",
+        "tú": "aseguraste",
+        "él/ella": "aseguró",
+        "nosotros": "aseguramos",
+        "ellos": "aseguraron"
+      }
+    },
+    {
+      "lemma": "atacar, v.",
+      "meaning": "to attack",
+      "present": {
+        "yo": "ataco",
+        "tú": "atacas",
+        "él/ella": "ataca",
+        "nosotros": "atacamos",
+        "ellos": "atacan"
+      },
+      "past": {
+        "yo": "ataqué",
+        "tú": "atacaste",
+        "él/ella": "atacó",
+        "nosotros": "atacamos",
+        "ellos": "atacaron"
+      }
+    },
+    {
+      "lemma": "aumentar, v.",
+      "meaning": "to increase",
+      "present": {
+        "yo": "aumento",
+        "tú": "aumentas",
+        "él/ella": "aumenta",
+        "nosotros": "aumentamos",
+        "ellos": "aumentan"
+      },
+      "past": {
+        "yo": "aumenté",
+        "tú": "aumentaste",
+        "él/ella": "aumentó",
+        "nosotros": "aumentamos",
+        "ellos": "aumentaron"
+      }
+    },
+    {
+      "lemma": "avisar, v.",
+      "meaning": "to warn",
+      "present": {
+        "yo": "aviso",
+        "tú": "avisas",
+        "él/ella": "avisa",
+        "nosotros": "avisamos",
+        "ellos": "avisan"
+      },
+      "past": {
+        "yo": "avisé",
+        "tú": "avisaste",
+        "él/ella": "avisó",
+        "nosotros": "avisamos",
+        "ellos": "avisaron"
+      }
+    },
+    {
+      "lemma": "besar, v.",
+      "meaning": "to kiss",
+      "present": {
+        "yo": "beso",
+        "tú": "besas",
+        "él/ella": "besa",
+        "nosotros": "besamos",
+        "ellos": "besan"
+      },
+      "past": {
+        "yo": "besé",
+        "tú": "besaste",
+        "él/ella": "besó",
+        "nosotros": "besamos",
+        "ellos": "besaron"
+      }
+    },
+    {
+      "lemma": "borrar, v.",
+      "meaning": "to erase",
+      "present": {
+        "yo": "borro",
+        "tú": "borras",
+        "él/ella": "borra",
+        "nosotros": "borramos",
+        "ellos": "borran"
+      },
+      "past": {
+        "yo": "borré",
+        "tú": "borraste",
+        "él/ella": "borró",
+        "nosotros": "borramos",
+        "ellos": "borraron"
+      }
+    },
+    {
+      "lemma": "cargar, v.",
+      "meaning": "to load",
+      "present": {
+        "yo": "cargo",
+        "tú": "cargas",
+        "él/ella": "carga",
+        "nosotros": "cargamos",
+        "ellos": "cargan"
+      },
+      "past": {
+        "yo": "cargué",
+        "tú": "cargaste",
+        "él/ella": "cargó",
+        "nosotros": "cargamos",
+        "ellos": "cargaron"
+      }
+    },
+    {
+      "lemma": "casar, v.",
+      "meaning": "to marry",
+      "present": {
+        "yo": "caso",
+        "tú": "casas",
+        "él/ella": "casa",
+        "nosotros": "casamos",
+        "ellos": "casan"
+      },
+      "past": {
+        "yo": "casé",
+        "tú": "casaste",
+        "él/ella": "casó",
+        "nosotros": "casamos",
+        "ellos": "casaron"
+      }
+    },
+    {
+      "lemma": "cerrar, v.",
+      "meaning": "to close",
+      "present": {
+        "yo": "cierro",
+        "tú": "cierras",
+        "él/ella": "cierra",
+        "nosotros": "cerramos",
+        "ellos": "cierran"
+      },
+      "past": {
+        "yo": "cerré",
+        "tú": "cerraste",
+        "él/ella": "cerró",
+        "nosotros": "cerramos",
+        "ellos": "cerraron"
+      }
+    },
+    {
+      "lemma": "charlar, v.",
+      "meaning": "to chat",
+      "present": {
+        "yo": "charlo",
+        "tú": "charlas",
+        "él/ella": "charla",
+        "nosotros": "charlamos",
+        "ellos": "charlan"
+      },
+      "past": {
+        "yo": "charlé",
+        "tú": "charlaste",
+        "él/ella": "charló",
+        "nosotros": "charlamos",
+        "ellos": "charlaron"
+      }
+    },
+    {
+      "lemma": "chocar, v.",
+      "meaning": "to crash",
+      "present": {
+        "yo": "choco",
+        "tú": "chocas",
+        "él/ella": "choca",
+        "nosotros": "chocamos",
+        "ellos": "chocan"
+      },
+      "past": {
+        "yo": "choqué",
+        "tú": "chocaste",
+        "él/ella": "chocó",
+        "nosotros": "chocamos",
+        "ellos": "chocaron"
+      }
+    },
+    {
+      "lemma": "colocar, v.",
+      "meaning": "to place",
+      "present": {
+        "yo": "coloco",
+        "tú": "colocas",
+        "él/ella": "coloca",
+        "nosotros": "colocamos",
+        "ellos": "colocan"
+      },
+      "past": {
+        "yo": "coloqué",
+        "tú": "colocaste",
+        "él/ella": "colocó",
+        "nosotros": "colocamos",
+        "ellos": "colocaron"
+      }
+    },
+    {
+      "lemma": "comparar, v.",
+      "meaning": "to compare",
+      "present": {
+        "yo": "comparo",
+        "tú": "comparas",
+        "él/ella": "compara",
+        "nosotros": "comparamos",
+        "ellos": "comparan"
+      },
+      "past": {
+        "yo": "comparé",
+        "tú": "comparaste",
+        "él/ella": "comparó",
+        "nosotros": "comparamos",
+        "ellos": "compararon"
+      }
+    },
+    {
+      "lemma": "comprobar, v.",
+      "meaning": "to check",
+      "present": {
+        "yo": "comprobo",
+        "tú": "comprobas",
+        "él/ella": "comproba",
+        "nosotros": "comprobamos",
+        "ellos": "comproban"
+      },
+      "past": {
+        "yo": "comprobé",
+        "tú": "comprobaste",
+        "él/ella": "comprobó",
+        "nosotros": "comprobamos",
+        "ellos": "comprobaron"
+      }
+    },
+    {
+      "lemma": "comunicar, v.",
+      "meaning": "to communicate",
+      "present": {
+        "yo": "comunico",
+        "tú": "comunicas",
+        "él/ella": "comunica",
+        "nosotros": "comunicamos",
+        "ellos": "comunican"
+      },
+      "past": {
+        "yo": "comuniqué",
+        "tú": "comunicaste",
+        "él/ella": "comunicó",
+        "nosotros": "comunicamos",
+        "ellos": "comunicaron"
+      }
+    },
+    {
+      "lemma": "confiar, v.",
+      "meaning": "to trust",
+      "present": {
+        "yo": "confio",
+        "tú": "confias",
+        "él/ella": "confia",
+        "nosotros": "confiamos",
+        "ellos": "confian"
+      },
+      "past": {
+        "yo": "confié",
+        "tú": "confiaste",
+        "él/ella": "confió",
+        "nosotros": "confiamos",
+        "ellos": "confiaron"
+      }
+    },
+    {
+      "lemma": "confirmar, v.",
+      "meaning": "to confirm",
+      "present": {
+        "yo": "confirmo",
+        "tú": "confirmas",
+        "él/ella": "confirma",
+        "nosotros": "confirmamos",
+        "ellos": "confirman"
+      },
+      "past": {
+        "yo": "confirmé",
+        "tú": "confirmaste",
+        "él/ella": "confirmó",
+        "nosotros": "confirmamos",
+        "ellos": "confirmaron"
+      }
+    },
+    {
+      "lemma": "confundir, v.",
+      "meaning": "to confuse",
+      "present": {
+        "yo": "confundo",
+        "tú": "confundes",
+        "él/ella": "confunde",
+        "nosotros": "confundimos",
+        "ellos": "confunden"
+      },
+      "past": {
+        "yo": "confundí",
+        "tú": "confundiste",
+        "él/ella": "confundió",
+        "nosotros": "confundimos",
+        "ellos": "confundieron"
+      }
+    },
+    {
+      "lemma": "conseguir, v.",
+      "meaning": "to get",
+      "present": {
+        "yo": "conseguo",
+        "tú": "consegues",
+        "él/ella": "consegue",
+        "nosotros": "conseguimos",
+        "ellos": "conseguen"
+      },
+      "past": {
+        "yo": "conseguí",
+        "tú": "conseguiste",
+        "él/ella": "conseguió",
+        "nosotros": "conseguimos",
+        "ellos": "conseguieron"
+      }
+    },
+    {
+      "lemma": "construir, v.",
+      "meaning": "to build",
+      "present": {
+        "yo": "construo",
+        "tú": "construes",
+        "él/ella": "construe",
+        "nosotros": "construimos",
+        "ellos": "construen"
+      },
+      "past": {
+        "yo": "construí",
+        "tú": "construiste",
+        "él/ella": "construió",
+        "nosotros": "construimos",
+        "ellos": "construieron"
+      }
+    },
+    {
+      "lemma": "contar, v.",
+      "meaning": "to count/tell",
+      "present": {
+        "yo": "cuento",
+        "tú": "cuentas",
+        "él/ella": "cuenta",
+        "nosotros": "contamos",
+        "ellos": "cuentan"
+      },
+      "past": {
+        "yo": "conté",
+        "tú": "contaste",
+        "él/ella": "contó",
+        "nosotros": "contamos",
+        "ellos": "contaron"
+      }
+    },
+    {
+      "lemma": "convencer, v.",
+      "meaning": "to convince",
+      "present": {
+        "yo": "convenco",
+        "tú": "convences",
+        "él/ella": "convence",
+        "nosotros": "convencemos",
+        "ellos": "convencen"
+      },
+      "past": {
+        "yo": "convencí",
+        "tú": "convenciste",
+        "él/ella": "convenció",
+        "nosotros": "convencimos",
+        "ellos": "convencieron"
+      }
+    },
+    {
+      "lemma": "copiar, v.",
+      "meaning": "to copy",
+      "present": {
+        "yo": "copio",
+        "tú": "copias",
+        "él/ella": "copia",
+        "nosotros": "copiamos",
+        "ellos": "copian"
+      },
+      "past": {
+        "yo": "copié",
+        "tú": "copiaste",
+        "él/ella": "copió",
+        "nosotros": "copiamos",
+        "ellos": "copiaron"
+      }
+    },
+    {
+      "lemma": "cortar, v.",
+      "meaning": "to cut",
+      "present": {
+        "yo": "corto",
+        "tú": "cortas",
+        "él/ella": "corta",
+        "nosotros": "cortamos",
+        "ellos": "cortan"
+      },
+      "past": {
+        "yo": "corté",
+        "tú": "cortaste",
+        "él/ella": "cortó",
+        "nosotros": "cortamos",
+        "ellos": "cortaron"
+      }
+    },
+    {
+      "lemma": "crear, v.",
+      "meaning": "to create",
+      "present": {
+        "yo": "creo",
+        "tú": "creas",
+        "él/ella": "crea",
+        "nosotros": "creamos",
+        "ellos": "crean"
+      },
+      "past": {
+        "yo": "creé",
+        "tú": "creaste",
+        "él/ella": "creó",
+        "nosotros": "creamos",
+        "ellos": "crearon"
+      }
+    },
+    {
+      "lemma": "crecer, v.",
+      "meaning": "to grow",
+      "present": {
+        "yo": "creco",
+        "tú": "creces",
+        "él/ella": "crece",
+        "nosotros": "crecemos",
+        "ellos": "crecen"
+      },
+      "past": {
+        "yo": "crecí",
+        "tú": "creciste",
+        "él/ella": "creció",
+        "nosotros": "crecimos",
+        "ellos": "crecieron"
+      }
+    },
+    {
+      "lemma": "cruzar, v.",
+      "meaning": "to cross",
+      "present": {
+        "yo": "cruzo",
+        "tú": "cruzas",
+        "él/ella": "cruza",
+        "nosotros": "cruzamos",
+        "ellos": "cruzan"
+      },
+      "past": {
+        "yo": "crucé",
+        "tú": "cruzaste",
+        "él/ella": "cruzó",
+        "nosotros": "cruzamos",
+        "ellos": "cruzaron"
+      }
+    },
+    {
+      "lemma": "cubrir, v.",
+      "meaning": "to cover",
+      "present": {
+        "yo": "cubro",
+        "tú": "cubres",
+        "él/ella": "cubre",
+        "nosotros": "cubrimos",
+        "ellos": "cubren"
+      },
+      "past": {
+        "yo": "cubrí",
+        "tú": "cubriste",
+        "él/ella": "cubrió",
+        "nosotros": "cubrimos",
+        "ellos": "cubrieron"
+      }
+    },
+    {
+      "lemma": "cuidar, v.",
+      "meaning": "to take care",
+      "present": {
+        "yo": "cuido",
+        "tú": "cuidas",
+        "él/ella": "cuida",
+        "nosotros": "cuidamos",
+        "ellos": "cuidan"
+      },
+      "past": {
+        "yo": "cuidé",
+        "tú": "cuidaste",
+        "él/ella": "cuidó",
+        "nosotros": "cuidamos",
+        "ellos": "cuidaron"
+      }
+    },
+    {
+      "lemma": "culpar, v.",
+      "meaning": "to blame",
+      "present": {
+        "yo": "culpo",
+        "tú": "culpas",
+        "él/ella": "culpa",
+        "nosotros": "culpamos",
+        "ellos": "culpan"
+      },
+      "past": {
+        "yo": "culpé",
+        "tú": "culpaste",
+        "él/ella": "culpó",
+        "nosotros": "culpamos",
+        "ellos": "culparon"
+      }
+    },
+    {
+      "lemma": "cumplir, v.",
+      "meaning": "to fulfill",
+      "present": {
+        "yo": "cumplo",
+        "tú": "cumples",
+        "él/ella": "cumple",
+        "nosotros": "cumplimos",
+        "ellos": "cumplen"
+      },
+      "past": {
+        "yo": "cumplí",
+        "tú": "cumpliste",
+        "él/ella": "cumplió",
+        "nosotros": "cumplimos",
+        "ellos": "cumplieron"
+      }
+    },
+    {
+      "lemma": "curar, v.",
+      "meaning": "to cure",
+      "present": {
+        "yo": "curo",
+        "tú": "curas",
+        "él/ella": "cura",
+        "nosotros": "curamos",
+        "ellos": "curan"
+      },
+      "past": {
+        "yo": "curé",
+        "tú": "curaste",
+        "él/ella": "curó",
+        "nosotros": "curamos",
+        "ellos": "curaron"
+      }
+    },
+    {
+      "lemma": "deber, v.",
+      "meaning": "must",
+      "present": {
+        "yo": "debo",
+        "tú": "debes",
+        "él/ella": "debe",
+        "nosotros": "debemos",
+        "ellos": "deben"
+      },
+      "past": {
+        "yo": "debí",
+        "tú": "debiste",
+        "él/ella": "debió",
+        "nosotros": "debimos",
+        "ellos": "debieron"
+      }
+    },
+    {
+      "lemma": "declarar, v.",
+      "meaning": "to declare",
+      "present": {
+        "yo": "declaro",
+        "tú": "declaras",
+        "él/ella": "declara",
+        "nosotros": "declaramos",
+        "ellos": "declaran"
+      },
+      "past": {
+        "yo": "declaré",
+        "tú": "declaraste",
+        "él/ella": "declaró",
+        "nosotros": "declaramos",
+        "ellos": "declararon"
+      }
+    },
+    {
+      "lemma": "decorar, v.",
+      "meaning": "to decorate",
+      "present": {
+        "yo": "decoro",
+        "tú": "decoras",
+        "él/ella": "decora",
+        "nosotros": "decoramos",
+        "ellos": "decoran"
+      },
+      "past": {
+        "yo": "decoré",
+        "tú": "decoraste",
+        "él/ella": "decoró",
+        "nosotros": "decoramos",
+        "ellos": "decoraron"
+      }
+    },
+    {
+      "lemma": "dedicar, v.",
+      "meaning": "to dedicate",
+      "present": {
+        "yo": "dedico",
+        "tú": "dedicas",
+        "él/ella": "dedica",
+        "nosotros": "dedicamos",
+        "ellos": "dedican"
+      },
+      "past": {
+        "yo": "dediqué",
+        "tú": "dedicaste",
+        "él/ella": "dedicó",
+        "nosotros": "dedicamos",
+        "ellos": "dedicaron"
+      }
+    },
+    {
+      "lemma": "defender, v.",
+      "meaning": "to defend",
+      "present": {
+        "yo": "defiendo",
+        "tú": "defiendes",
+        "él/ella": "defiende",
+        "nosotros": "defendemos",
+        "ellos": "defienden"
+      },
+      "past": {
+        "yo": "defendí",
+        "tú": "defendiste",
+        "él/ella": "defendió",
+        "nosotros": "defendimos",
+        "ellos": "defendieron"
+      }
+    },
+    {
+      "lemma": "dejar, v.",
+      "meaning": "to leave",
+      "present": {
+        "yo": "dejo",
+        "tú": "dejas",
+        "él/ella": "deja",
+        "nosotros": "dejamos",
+        "ellos": "dejan"
+      },
+      "past": {
+        "yo": "dejé",
+        "tú": "dejaste",
+        "él/ella": "dejó",
+        "nosotros": "dejamos",
+        "ellos": "dejaron"
+      }
+    },
+    {
+      "lemma": "demostrar, v.",
+      "meaning": "to demonstrate",
+      "present": {
+        "yo": "demostro",
+        "tú": "demostras",
+        "él/ella": "demostra",
+        "nosotros": "demostramos",
+        "ellos": "demostran"
+      },
+      "past": {
+        "yo": "demostré",
+        "tú": "demostraste",
+        "él/ella": "demostró",
+        "nosotros": "demostramos",
+        "ellos": "demostraron"
+      }
+    },
+    {
+      "lemma": "depender, v.",
+      "meaning": "to depend",
+      "present": {
+        "yo": "dependo",
+        "tú": "dependes",
+        "él/ella": "depende",
+        "nosotros": "dependemos",
+        "ellos": "dependen"
+      },
+      "past": {
+        "yo": "dependí",
+        "tú": "dependiste",
+        "él/ella": "dependió",
+        "nosotros": "dependimos",
+        "ellos": "dependieron"
+      }
+    },
+    {
+      "lemma": "descubrir, v.",
+      "meaning": "to discover",
+      "present": {
+        "yo": "descubro",
+        "tú": "descubres",
+        "él/ella": "descubre",
+        "nosotros": "descubrimos",
+        "ellos": "descubren"
+      },
+      "past": {
+        "yo": "descubrí",
+        "tú": "descubriste",
+        "él/ella": "descubrió",
+        "nosotros": "descubrimos",
+        "ellos": "descubrieron"
+      }
+    },
+    {
+      "lemma": "desear, v.",
+      "meaning": "to wish",
+      "present": {
+        "yo": "deseo",
+        "tú": "deseas",
+        "él/ella": "desea",
+        "nosotros": "deseamos",
+        "ellos": "desean"
+      },
+      "past": {
+        "yo": "deseé",
+        "tú": "deseaste",
+        "él/ella": "deseó",
+        "nosotros": "deseamos",
+        "ellos": "desearon"
+      }
+    },
+    {
+      "lemma": "destruir, v.",
+      "meaning": "to destroy",
+      "present": {
+        "yo": "destruo",
+        "tú": "destrues",
+        "él/ella": "destrue",
+        "nosotros": "destruimos",
+        "ellos": "destruen"
+      },
+      "past": {
+        "yo": "destruí",
+        "tú": "destruiste",
+        "él/ella": "destruió",
+        "nosotros": "destruimos",
+        "ellos": "destruieron"
+      }
+    },
+    {
+      "lemma": "devorar, v.",
+      "meaning": "to devour",
+      "present": {
+        "yo": "devoro",
+        "tú": "devoras",
+        "él/ella": "devora",
+        "nosotros": "devoramos",
+        "ellos": "devoran"
+      },
+      "past": {
+        "yo": "devoré",
+        "tú": "devoraste",
+        "él/ella": "devoró",
+        "nosotros": "devoramos",
+        "ellos": "devoraron"
+      }
+    },
+    {
+      "lemma": "dudar, v.",
+      "meaning": "to doubt",
+      "present": {
+        "yo": "dudo",
+        "tú": "dudas",
+        "él/ella": "duda",
+        "nosotros": "dudamos",
+        "ellos": "dudan"
+      },
+      "past": {
+        "yo": "dudé",
+        "tú": "dudaste",
+        "él/ella": "dudó",
+        "nosotros": "dudamos",
+        "ellos": "dudaron"
+      }
+    },
+    {
+      "lemma": "echar, v.",
+      "meaning": "to throw",
+      "present": {
+        "yo": "echo",
+        "tú": "echas",
+        "él/ella": "echa",
+        "nosotros": "echamos",
+        "ellos": "echan"
+      },
+      "past": {
+        "yo": "eché",
+        "tú": "echaste",
+        "él/ella": "echó",
+        "nosotros": "echamos",
+        "ellos": "echaron"
+      }
+    },
+    {
+      "lemma": "elevar, v.",
+      "meaning": "to elevate",
+      "present": {
+        "yo": "elevo",
+        "tú": "elevas",
+        "él/ella": "eleva",
+        "nosotros": "elevamos",
+        "ellos": "elevan"
+      },
+      "past": {
+        "yo": "elevé",
+        "tú": "elevaste",
+        "él/ella": "elevó",
+        "nosotros": "elevamos",
+        "ellos": "elevaron"
+      }
+    },
+    {
+      "lemma": "eliminar, v.",
+      "meaning": "to eliminate",
+      "present": {
+        "yo": "elimino",
+        "tú": "eliminas",
+        "él/ella": "elimina",
+        "nosotros": "eliminamos",
+        "ellos": "eliminan"
+      },
+      "past": {
+        "yo": "eliminé",
+        "tú": "eliminaste",
+        "él/ella": "eliminó",
+        "nosotros": "eliminamos",
+        "ellos": "eliminaron"
+      }
+    },
+    {
+      "lemma": "emplear, v.",
+      "meaning": "to employ",
+      "present": {
+        "yo": "empleo",
+        "tú": "empleas",
+        "él/ella": "emplea",
+        "nosotros": "empleamos",
+        "ellos": "emplean"
+      },
+      "past": {
+        "yo": "empleé",
+        "tú": "empleaste",
+        "él/ella": "empleó",
+        "nosotros": "empleamos",
+        "ellos": "emplearon"
+      }
+    },
+    {
+      "lemma": "empujar, v.",
+      "meaning": "to push",
+      "present": {
+        "yo": "empujo",
+        "tú": "empujas",
+        "él/ella": "empuja",
+        "nosotros": "empujamos",
+        "ellos": "empujan"
+      },
+      "past": {
+        "yo": "empujé",
+        "tú": "empujaste",
+        "él/ella": "empujó",
+        "nosotros": "empujamos",
+        "ellos": "empujaron"
+      }
+    },
+    {
+      "lemma": "encender, v.",
+      "meaning": "to turn on",
+      "present": {
+        "yo": "enciendo",
+        "tú": "enciendes",
+        "él/ella": "enciende",
+        "nosotros": "encendemos",
+        "ellos": "encienden"
+      },
+      "past": {
+        "yo": "encendí",
+        "tú": "encendiste",
+        "él/ella": "encendió",
+        "nosotros": "encendimos",
+        "ellos": "encendieron"
+      }
+    },
+    {
+      "lemma": "encerrar, v.",
+      "meaning": "to lock up",
+      "present": {
+        "yo": "encerro",
+        "tú": "encerras",
+        "él/ella": "encerra",
+        "nosotros": "encerramos",
+        "ellos": "encerran"
+      },
+      "past": {
+        "yo": "encerré",
+        "tú": "encerraste",
+        "él/ella": "encerró",
+        "nosotros": "encerramos",
+        "ellos": "encerraron"
+      }
+    },
+    {
+      "lemma": "engañar, v.",
+      "meaning": "to deceive",
+      "present": {
+        "yo": "engaño",
+        "tú": "engañas",
+        "él/ella": "engaña",
+        "nosotros": "engañamos",
+        "ellos": "engañan"
+      },
+      "past": {
+        "yo": "engañé",
+        "tú": "engañaste",
+        "él/ella": "engañó",
+        "nosotros": "engañamos",
+        "ellos": "engañaron"
+      }
+    },
+    {
+      "lemma": "entregar, v.",
+      "meaning": "to deliver",
+      "present": {
+        "yo": "entrego",
+        "tú": "entregas",
+        "él/ella": "entrega",
+        "nosotros": "entregamos",
+        "ellos": "entregan"
+      },
+      "past": {
+        "yo": "entregué",
+        "tú": "entregaste",
+        "él/ella": "entregó",
+        "nosotros": "entregamos",
+        "ellos": "entregaron"
+      }
+    },
+    {
+      "lemma": "enviar, v.",
+      "meaning": "to send",
+      "present": {
+        "yo": "envio",
+        "tú": "envias",
+        "él/ella": "envia",
+        "nosotros": "enviamos",
+        "ellos": "envian"
+      },
+      "past": {
+        "yo": "envié",
+        "tú": "enviaste",
+        "él/ella": "envió",
+        "nosotros": "enviamos",
+        "ellos": "enviaron"
+      }
+    },
+    {
+      "lemma": "escapar, v.",
+      "meaning": "to escape",
+      "present": {
+        "yo": "escapo",
+        "tú": "escapas",
+        "él/ella": "escapa",
+        "nosotros": "escapamos",
+        "ellos": "escapan"
+      },
+      "past": {
+        "yo": "escapé",
+        "tú": "escapaste",
+        "él/ella": "escapó",
+        "nosotros": "escapamos",
+        "ellos": "escaparon"
+      }
+    },
+    {
+      "lemma": "esconder, v.",
+      "meaning": "to hide",
+      "present": {
+        "yo": "escondo",
+        "tú": "escondes",
+        "él/ella": "esconde",
+        "nosotros": "escondemos",
+        "ellos": "esconden"
+      },
+      "past": {
+        "yo": "escondí",
+        "tú": "escondiste",
+        "él/ella": "escondió",
+        "nosotros": "escondimos",
+        "ellos": "escondieron"
+      }
+    },
+    {
+      "lemma": "firmar, v.",
+      "meaning": "to sign",
+      "present": {
+        "yo": "firmo",
+        "tú": "firmas",
+        "él/ella": "firma",
+        "nosotros": "firmamos",
+        "ellos": "firman"
+      },
+      "past": {
+        "yo": "firmé",
+        "tú": "firmaste",
+        "él/ella": "firmó",
+        "nosotros": "firmamos",
+        "ellos": "firmaron"
+      }
+    },
+    {
+      "lemma": "formar, v.",
+      "meaning": "to form",
+      "present": {
+        "yo": "formo",
+        "tú": "formas",
+        "él/ella": "forma",
+        "nosotros": "formamos",
+        "ellos": "forman"
+      },
+      "past": {
+        "yo": "formé",
+        "tú": "formaste",
+        "él/ella": "formó",
+        "nosotros": "formamos",
+        "ellos": "formaron"
+      }
+    },
+    {
+      "lemma": "funcionar, v.",
+      "meaning": "to function",
+      "present": {
+        "yo": "funciono",
+        "tú": "funcionas",
+        "él/ella": "funciona",
+        "nosotros": "funcionamos",
+        "ellos": "funcionan"
+      },
+      "past": {
+        "yo": "funcioné",
+        "tú": "funcionaste",
+        "él/ella": "funcionó",
+        "nosotros": "funcionamos",
+        "ellos": "funcionaron"
+      }
+    },
+    {
+      "lemma": "girar, v.",
+      "meaning": "to turn",
+      "present": {
+        "yo": "giro",
+        "tú": "giras",
+        "él/ella": "gira",
+        "nosotros": "giramos",
+        "ellos": "giran"
+      },
+      "past": {
+        "yo": "giré",
+        "tú": "giraste",
+        "él/ella": "giró",
+        "nosotros": "giramos",
+        "ellos": "giraron"
+      }
+    },
+    {
+      "lemma": "gozar, v.",
+      "meaning": "to enjoy",
+      "present": {
+        "yo": "gozo",
+        "tú": "gozas",
+        "él/ella": "goza",
+        "nosotros": "gozamos",
+        "ellos": "gozan"
+      },
+      "past": {
+        "yo": "gocé",
+        "tú": "gozaste",
+        "él/ella": "gozó",
+        "nosotros": "gozamos",
+        "ellos": "gozaron"
+      }
+    },
+    {
+      "lemma": "gustar, v.",
+      "meaning": "to like",
+      "present": {
+        "yo": "gusto",
+        "tú": "gustas",
+        "él/ella": "gusta",
+        "nosotros": "gustamos",
+        "ellos": "gustan"
+      },
+      "past": {
+        "yo": "gusté",
+        "tú": "gustaste",
+        "él/ella": "gustó",
+        "nosotros": "gustamos",
+        "ellos": "gustaron"
+      }
+    },
+    {
+      "lemma": "ignorar, v.",
+      "meaning": "to ignore",
+      "present": {
+        "yo": "ignoro",
+        "tú": "ignoras",
+        "él/ella": "ignora",
+        "nosotros": "ignoramos",
+        "ellos": "ignoran"
+      },
+      "past": {
+        "yo": "ignoré",
+        "tú": "ignoraste",
+        "él/ella": "ignoró",
+        "nosotros": "ignoramos",
+        "ellos": "ignoraron"
+      }
+    },
+    {
+      "lemma": "imaginar, v.",
+      "meaning": "to imagine",
+      "present": {
+        "yo": "imagino",
+        "tú": "imaginas",
+        "él/ella": "imagina",
+        "nosotros": "imaginamos",
+        "ellos": "imaginan"
+      },
+      "past": {
+        "yo": "imaginé",
+        "tú": "imaginaste",
+        "él/ella": "imaginó",
+        "nosotros": "imaginamos",
+        "ellos": "imaginaron"
+      }
+    },
+    {
+      "lemma": "importar, v.",
+      "meaning": "to matter",
+      "present": {
+        "yo": "importo",
+        "tú": "importas",
+        "él/ella": "importa",
+        "nosotros": "importamos",
+        "ellos": "importan"
+      },
+      "past": {
+        "yo": "importé",
+        "tú": "importaste",
+        "él/ella": "importó",
+        "nosotros": "importamos",
+        "ellos": "importaron"
+      }
+    },
+    {
+      "lemma": "imprimir, v.",
+      "meaning": "to print",
+      "present": {
+        "yo": "imprimo",
+        "tú": "imprimes",
+        "él/ella": "imprime",
+        "nosotros": "imprimimos",
+        "ellos": "imprimen"
+      },
+      "past": {
+        "yo": "imprimí",
+        "tú": "imprimiste",
+        "él/ella": "imprimió",
+        "nosotros": "imprimimos",
+        "ellos": "imprimieron"
+      }
+    },
+    {
+      "lemma": "incluir, v.",
+      "meaning": "to include",
+      "present": {
+        "yo": "incluo",
+        "tú": "inclues",
+        "él/ella": "inclue",
+        "nosotros": "incluimos",
+        "ellos": "incluen"
+      },
+      "past": {
+        "yo": "incluí",
+        "tú": "incluiste",
+        "él/ella": "incluió",
+        "nosotros": "incluimos",
+        "ellos": "incluieron"
+      }
+    },
+    {
+      "lemma": "indicar, v.",
+      "meaning": "to indicate",
+      "present": {
+        "yo": "indico",
+        "tú": "indicas",
+        "él/ella": "indica",
+        "nosotros": "indicamos",
+        "ellos": "indican"
+      },
+      "past": {
+        "yo": "indiqué",
+        "tú": "indicaste",
+        "él/ella": "indicó",
+        "nosotros": "indicamos",
+        "ellos": "indicaron"
+      }
+    },
+    {
+      "lemma": "intentar, v.",
+      "meaning": "to try",
+      "present": {
+        "yo": "intento",
+        "tú": "intentas",
+        "él/ella": "intenta",
+        "nosotros": "intentamos",
+        "ellos": "intentan"
+      },
+      "past": {
+        "yo": "intenté",
+        "tú": "intentaste",
+        "él/ella": "intentó",
+        "nosotros": "intentamos",
+        "ellos": "intentaron"
+      }
+    },
+    {
+      "lemma": "interesar, v.",
+      "meaning": "to interest",
+      "present": {
+        "yo": "intereso",
+        "tú": "interesas",
+        "él/ella": "interesa",
+        "nosotros": "interesamos",
+        "ellos": "interesan"
+      },
+      "past": {
+        "yo": "interesé",
+        "tú": "interesaste",
+        "él/ella": "interesó",
+        "nosotros": "interesamos",
+        "ellos": "interesaron"
+      }
+    },
+    {
+      "lemma": "juzgar, v.",
+      "meaning": "to judge",
+      "present": {
+        "yo": "juzgo",
+        "tú": "juzgas",
+        "él/ella": "juzga",
+        "nosotros": "juzgamos",
+        "ellos": "juzgan"
+      },
+      "past": {
+        "yo": "juzgué",
+        "tú": "juzgaste",
+        "él/ella": "juzgó",
+        "nosotros": "juzgamos",
+        "ellos": "juzgaron"
+      }
+    },
+    {
+      "lemma": "lanzar, v.",
+      "meaning": "to throw",
+      "present": {
+        "yo": "lanzo",
+        "tú": "lanzas",
+        "él/ella": "lanza",
+        "nosotros": "lanzamos",
+        "ellos": "lanzan"
+      },
+      "past": {
+        "yo": "lancé",
+        "tú": "lanzaste",
+        "él/ella": "lanzó",
+        "nosotros": "lanzamos",
+        "ellos": "lanzaron"
+      }
+    },
+    {
+      "lemma": "levantar, v.",
+      "meaning": "to lift",
+      "present": {
+        "yo": "levanto",
+        "tú": "levantas",
+        "él/ella": "levanta",
+        "nosotros": "levantamos",
+        "ellos": "levantan"
+      },
+      "past": {
+        "yo": "levanté",
+        "tú": "levantaste",
+        "él/ella": "levantó",
+        "nosotros": "levantamos",
+        "ellos": "levantaron"
+      }
+    },
+    {
+      "lemma": "lograr, v.",
+      "meaning": "to achieve",
+      "present": {
+        "yo": "logro",
+        "tú": "logras",
+        "él/ella": "logra",
+        "nosotros": "logramos",
+        "ellos": "logran"
+      },
+      "past": {
+        "yo": "logré",
+        "tú": "lograste",
+        "él/ella": "logró",
+        "nosotros": "logramos",
+        "ellos": "lograron"
+      }
+    },
+    {
+      "lemma": "luchar, v.",
+      "meaning": "to fight",
+      "present": {
+        "yo": "lucho",
+        "tú": "luchas",
+        "él/ella": "lucha",
+        "nosotros": "luchamos",
+        "ellos": "luchan"
+      },
+      "past": {
+        "yo": "luché",
+        "tú": "luchaste",
+        "él/ella": "luchó",
+        "nosotros": "luchamos",
+        "ellos": "lucharon"
+      }
+    },
+    {
+      "lemma": "manchar, v.",
+      "meaning": "to stain",
+      "present": {
+        "yo": "mancho",
+        "tú": "manchas",
+        "él/ella": "mancha",
+        "nosotros": "manchamos",
+        "ellos": "manchan"
+      },
+      "past": {
+        "yo": "manché",
+        "tú": "manchaste",
+        "él/ella": "manchó",
+        "nosotros": "manchamos",
+        "ellos": "mancharon"
+      }
+    },
+    {
+      "lemma": "marcar, v.",
+      "meaning": "to mark",
+      "present": {
+        "yo": "marco",
+        "tú": "marcas",
+        "él/ella": "marca",
+        "nosotros": "marcamos",
+        "ellos": "marcan"
+      },
+      "past": {
+        "yo": "marqué",
+        "tú": "marcaste",
+        "él/ella": "marcó",
+        "nosotros": "marcamos",
+        "ellos": "marcaron"
+      }
+    },
+    {
+      "lemma": "matar, v.",
+      "meaning": "to kill",
+      "present": {
+        "yo": "mato",
+        "tú": "matas",
+        "él/ella": "mata",
+        "nosotros": "matamos",
+        "ellos": "matan"
+      },
+      "past": {
+        "yo": "maté",
+        "tú": "mataste",
+        "él/ella": "mató",
+        "nosotros": "matamos",
+        "ellos": "mataron"
+      }
+    },
+    {
+      "lemma": "mejorar, v.",
+      "meaning": "to improve",
+      "present": {
+        "yo": "mejoro",
+        "tú": "mejoras",
+        "él/ella": "mejora",
+        "nosotros": "mejoramos",
+        "ellos": "mejoran"
+      },
+      "past": {
+        "yo": "mejoré",
+        "tú": "mejoraste",
+        "él/ella": "mejoró",
+        "nosotros": "mejoramos",
+        "ellos": "mejoraron"
+      }
+    },
+    {
+      "lemma": "mentir, v.",
+      "meaning": "to lie",
+      "present": {
+        "yo": "miento",
+        "tú": "mientes",
+        "él/ella": "miente",
+        "nosotros": "mentimos",
+        "ellos": "mienten"
+      },
+      "past": {
+        "yo": "mentí",
+        "tú": "mentiste",
+        "él/ella": "mintió",
+        "nosotros": "mentimos",
+        "ellos": "mintieron"
+      }
+    },
+    {
+      "lemma": "merecer, v.",
+      "meaning": "to deserve",
+      "present": {
+        "yo": "mereco",
+        "tú": "mereces",
+        "él/ella": "merece",
+        "nosotros": "merecemos",
+        "ellos": "merecen"
+      },
+      "past": {
+        "yo": "merecí",
+        "tú": "mereciste",
+        "él/ella": "mereció",
+        "nosotros": "merecimos",
+        "ellos": "merecieron"
+      }
+    },
+    {
+      "lemma": "mezclar, v.",
+      "meaning": "to mix",
+      "present": {
+        "yo": "mezclo",
+        "tú": "mezclas",
+        "él/ella": "mezcla",
+        "nosotros": "mezclamos",
+        "ellos": "mezclan"
+      },
+      "past": {
+        "yo": "mezclé",
+        "tú": "mezclaste",
+        "él/ella": "mezcló",
+        "nosotros": "mezclamos",
+        "ellos": "mezclaron"
+      }
+    },
+    {
+      "lemma": "molestar, v.",
+      "meaning": "to bother",
+      "present": {
+        "yo": "molesto",
+        "tú": "molestas",
+        "él/ella": "molesta",
+        "nosotros": "molestamos",
+        "ellos": "molestan"
+      },
+      "past": {
+        "yo": "molesté",
+        "tú": "molestaste",
+        "él/ella": "molestó",
+        "nosotros": "molestamos",
+        "ellos": "molestaron"
+      }
+    },
+    {
+      "lemma": "morder, v.",
+      "meaning": "to bite",
+      "present": {
+        "yo": "mordo",
+        "tú": "mordes",
+        "él/ella": "morde",
+        "nosotros": "mordemos",
+        "ellos": "morden"
+      },
+      "past": {
+        "yo": "mordí",
+        "tú": "mordiste",
+        "él/ella": "mordió",
+        "nosotros": "mordimos",
+        "ellos": "mordieron"
+      }
+    },
+    {
+      "lemma": "morir, v.",
+      "meaning": "to die",
+      "present": {
+        "yo": "moro",
+        "tú": "mores",
+        "él/ella": "more",
+        "nosotros": "morimos",
+        "ellos": "moren"
+      },
+      "past": {
+        "yo": "morí",
+        "tú": "moriste",
+        "él/ella": "morió",
+        "nosotros": "morimos",
+        "ellos": "morieron"
+      }
+    },
+    {
+      "lemma": "mover, v.",
+      "meaning": "to move",
+      "present": {
+        "yo": "movo",
+        "tú": "moves",
+        "él/ella": "move",
+        "nosotros": "movemos",
+        "ellos": "moven"
+      },
+      "past": {
+        "yo": "moví",
+        "tú": "moviste",
+        "él/ella": "movió",
+        "nosotros": "movimos",
+        "ellos": "movieron"
+      }
+    },
+    {
+      "lemma": "nacer, v.",
+      "meaning": "to be born",
+      "present": {
+        "yo": "naco",
+        "tú": "naces",
+        "él/ella": "nace",
+        "nosotros": "nacemos",
+        "ellos": "nacen"
+      },
+      "past": {
+        "yo": "nací",
+        "tú": "naciste",
+        "él/ella": "nació",
+        "nosotros": "nacimos",
+        "ellos": "nacieron"
+      }
+    },
+    {
+      "lemma": "negar, v.",
+      "meaning": "to deny",
+      "present": {
+        "yo": "niego",
+        "tú": "niegas",
+        "él/ella": "niega",
+        "nosotros": "negamos",
+        "ellos": "niegan"
+      },
+      "past": {
+        "yo": "negué",
+        "tú": "negaste",
+        "él/ella": "negó",
+        "nosotros": "negamos",
+        "ellos": "negaron"
+      }
+    },
+    {
+      "lemma": "notar, v.",
+      "meaning": "to notice",
+      "present": {
+        "yo": "noto",
+        "tú": "notas",
+        "él/ella": "nota",
+        "nosotros": "notamos",
+        "ellos": "notan"
+      },
+      "past": {
+        "yo": "noté",
+        "tú": "notaste",
+        "él/ella": "notó",
+        "nosotros": "notamos",
+        "ellos": "notaron"
+      }
+    },
+    {
+      "lemma": "observar, v.",
+      "meaning": "to observe",
+      "present": {
+        "yo": "observo",
+        "tú": "observas",
+        "él/ella": "observa",
+        "nosotros": "observamos",
+        "ellos": "observan"
+      },
+      "past": {
+        "yo": "observé",
+        "tú": "observaste",
+        "él/ella": "observó",
+        "nosotros": "observamos",
+        "ellos": "observaron"
+      }
+    },
+    {
+      "lemma": "obtener, v.",
+      "meaning": "to obtain",
+      "present": {
+        "yo": "obteno",
+        "tú": "obtenes",
+        "él/ella": "obtene",
+        "nosotros": "obtenemos",
+        "ellos": "obtenen"
+      },
+      "past": {
+        "yo": "obtení",
+        "tú": "obteniste",
+        "él/ella": "obtenió",
+        "nosotros": "obtenimos",
+        "ellos": "obtenieron"
+      }
+    },
+    {
+      "lemma": "ocultar, v.",
+      "meaning": "to hide",
+      "present": {
+        "yo": "oculto",
+        "tú": "ocultas",
+        "él/ella": "oculta",
+        "nosotros": "ocultamos",
+        "ellos": "ocultan"
+      },
+      "past": {
+        "yo": "oculté",
+        "tú": "ocultaste",
+        "él/ella": "ocultó",
+        "nosotros": "ocultamos",
+        "ellos": "ocultaron"
+      }
+    },
+    {
+      "lemma": "ocupar, v.",
+      "meaning": "to occupy",
+      "present": {
+        "yo": "ocupo",
+        "tú": "ocupas",
+        "él/ella": "ocupa",
+        "nosotros": "ocupamos",
+        "ellos": "ocupan"
+      },
+      "past": {
+        "yo": "ocupé",
+        "tú": "ocupaste",
+        "él/ella": "ocupó",
+        "nosotros": "ocupamos",
+        "ellos": "ocuparon"
+      }
+    },
+    {
+      "lemma": "ocurrir, v.",
+      "meaning": "to occur",
+      "present": {
+        "yo": "ocurro",
+        "tú": "ocurres",
+        "él/ella": "ocurre",
+        "nosotros": "ocurrimos",
+        "ellos": "ocurren"
+      },
+      "past": {
+        "yo": "ocurrí",
+        "tú": "ocurriste",
+        "él/ella": "ocurrió",
+        "nosotros": "ocurrimos",
+        "ellos": "ocurrieron"
+      }
+    },
+    {
+      "lemma": "ofrecer, v.",
+      "meaning": "to offer",
+      "present": {
+        "yo": "ofreco",
+        "tú": "ofreces",
+        "él/ella": "ofrece",
+        "nosotros": "ofrecemos",
+        "ellos": "ofrecen"
+      },
+      "past": {
+        "yo": "ofrecí",
+        "tú": "ofreciste",
+        "él/ella": "ofreció",
+        "nosotros": "ofrecimos",
+        "ellos": "ofrecieron"
+      }
+    },
+    {
+      "lemma": "oír, v.",
+      "meaning": "to hear",
+      "present": {},
+      "past": {}
+    },
+    {
+      "lemma": "oler, v.",
+      "meaning": "to smell",
+      "present": {
+        "yo": "olo",
+        "tú": "oles",
+        "él/ella": "ole",
+        "nosotros": "olemos",
+        "ellos": "olen"
+      },
+      "past": {
+        "yo": "olí",
+        "tú": "oliste",
+        "él/ella": "olió",
+        "nosotros": "olimos",
+        "ellos": "olieron"
+      }
+    },
+    {
+      "lemma": "organizar, v.",
+      "meaning": "to organize",
+      "present": {
+        "yo": "organizo",
+        "tú": "organizas",
+        "él/ella": "organiza",
+        "nosotros": "organizamos",
+        "ellos": "organizan"
+      },
+      "past": {
+        "yo": "organicé",
+        "tú": "organizaste",
+        "él/ella": "organizó",
+        "nosotros": "organizamos",
+        "ellos": "organizaron"
+      }
+    },
+    {
+      "lemma": "parecer, v.",
+      "meaning": "to seem",
+      "present": {
+        "yo": "pareco",
+        "tú": "pareces",
+        "él/ella": "parece",
+        "nosotros": "parecemos",
+        "ellos": "parecen"
+      },
+      "past": {
+        "yo": "parecí",
+        "tú": "pareciste",
+        "él/ella": "pareció",
+        "nosotros": "parecimos",
+        "ellos": "parecieron"
+      }
+    },
+    {
+      "lemma": "partir, v.",
+      "meaning": "to leave/split",
+      "present": {
+        "yo": "parto",
+        "tú": "partes",
+        "él/ella": "parte",
+        "nosotros": "partimos",
+        "ellos": "parten"
+      },
+      "past": {
+        "yo": "partí",
+        "tú": "partiste",
+        "él/ella": "partió",
+        "nosotros": "partimos",
+        "ellos": "partieron"
+      }
+    },
+    {
+      "lemma": "peinar, v.",
+      "meaning": "to comb",
+      "present": {
+        "yo": "peino",
+        "tú": "peinas",
+        "él/ella": "peina",
+        "nosotros": "peinamos",
+        "ellos": "peinan"
+      },
+      "past": {
+        "yo": "peiné",
+        "tú": "peinaste",
+        "él/ella": "peinó",
+        "nosotros": "peinamos",
+        "ellos": "peinaron"
+      }
+    },
+    {
+      "lemma": "perdonar, v.",
+      "meaning": "to forgive",
+      "present": {
+        "yo": "perdono",
+        "tú": "perdonas",
+        "él/ella": "perdona",
+        "nosotros": "perdonamos",
+        "ellos": "perdonan"
+      },
+      "past": {
+        "yo": "perdoné",
+        "tú": "perdonaste",
+        "él/ella": "perdonó",
+        "nosotros": "perdonamos",
+        "ellos": "perdonaron"
+      }
+    },
+    {
+      "lemma": "pesar, v.",
+      "meaning": "to weigh",
+      "present": {
+        "yo": "peso",
+        "tú": "pesas",
+        "él/ella": "pesa",
+        "nosotros": "pesamos",
+        "ellos": "pesan"
+      },
+      "past": {
+        "yo": "pesé",
+        "tú": "pesaste",
+        "él/ella": "pesó",
+        "nosotros": "pesamos",
+        "ellos": "pesaron"
+      }
+    },
+    {
+      "lemma": "pescar, v.",
+      "meaning": "to fish",
+      "present": {
+        "yo": "pesco",
+        "tú": "pescas",
+        "él/ella": "pesca",
+        "nosotros": "pescamos",
+        "ellos": "pescan"
+      },
+      "past": {
+        "yo": "pesqué",
+        "tú": "pescaste",
+        "él/ella": "pescó",
+        "nosotros": "pescamos",
+        "ellos": "pescaron"
+      }
+    },
+    {
+      "lemma": "planchar, v.",
+      "meaning": "to iron",
+      "present": {
+        "yo": "plancho",
+        "tú": "planchas",
+        "él/ella": "plancha",
+        "nosotros": "planchamos",
+        "ellos": "planchan"
+      },
+      "past": {
+        "yo": "planché",
+        "tú": "planchaste",
+        "él/ella": "planchó",
+        "nosotros": "planchamos",
+        "ellos": "plancharon"
+      }
+    },
+    {
+      "lemma": "plantar, v.",
+      "meaning": "to plant",
+      "present": {
+        "yo": "planto",
+        "tú": "plantas",
+        "él/ella": "planta",
+        "nosotros": "plantamos",
+        "ellos": "plantan"
+      },
+      "past": {
+        "yo": "planté",
+        "tú": "plantaste",
+        "él/ella": "plantó",
+        "nosotros": "plantamos",
+        "ellos": "plantaron"
+      }
+    },
+    {
+      "lemma": "presentar, v.",
+      "meaning": "to present",
+      "present": {
+        "yo": "presento",
+        "tú": "presentas",
+        "él/ella": "presenta",
+        "nosotros": "presentamos",
+        "ellos": "presentan"
+      },
+      "past": {
+        "yo": "presenté",
+        "tú": "presentaste",
+        "él/ella": "presentó",
+        "nosotros": "presentamos",
+        "ellos": "presentaron"
+      }
+    },
+    {
+      "lemma": "probar, v.",
+      "meaning": "to try/taste",
+      "present": {
+        "yo": "pruebo",
+        "tú": "pruebas",
+        "él/ella": "prueba",
+        "nosotros": "probamos",
+        "ellos": "prueban"
+      },
+      "past": {
+        "yo": "probé",
+        "tú": "probaste",
+        "él/ella": "probó",
+        "nosotros": "probamos",
+        "ellos": "probaron"
+      }
+    },
+    {
+      "lemma": "producir, v.",
+      "meaning": "to produce",
+      "present": {
+        "yo": "produco",
+        "tú": "produces",
+        "él/ella": "produce",
+        "nosotros": "producimos",
+        "ellos": "producen"
+      },
+      "past": {
+        "yo": "producí",
+        "tú": "produciste",
+        "él/ella": "produció",
+        "nosotros": "producimos",
+        "ellos": "producieron"
+      }
+    },
+    {
+      "lemma": "prometer, v.",
+      "meaning": "to promise",
+      "present": {
+        "yo": "prometo",
+        "tú": "prometes",
+        "él/ella": "promete",
+        "nosotros": "prometemos",
+        "ellos": "prometen"
+      },
+      "past": {
+        "yo": "prometí",
+        "tú": "prometiste",
+        "él/ella": "prometió",
+        "nosotros": "prometimos",
+        "ellos": "prometieron"
+      }
+    },
+    {
+      "lemma": "proponer, v.",
+      "meaning": "to propose",
+      "present": {
+        "yo": "propono",
+        "tú": "propones",
+        "él/ella": "propone",
+        "nosotros": "proponemos",
+        "ellos": "proponen"
+      },
+      "past": {
+        "yo": "proponí",
+        "tú": "proponiste",
+        "él/ella": "proponió",
+        "nosotros": "proponimos",
+        "ellos": "proponieron"
+      }
+    },
+    {
+      "lemma": "proteger, v.",
+      "meaning": "to protect",
+      "present": {
+        "yo": "protego",
+        "tú": "proteges",
+        "él/ella": "protege",
+        "nosotros": "protegemos",
+        "ellos": "protegen"
+      },
+      "past": {
+        "yo": "protegí",
+        "tú": "protegiste",
+        "él/ella": "protegió",
+        "nosotros": "protegimos",
+        "ellos": "protegieron"
+      }
+    },
+    {
+      "lemma": "querer, v.",
+      "meaning": "to want",
+      "present": {
+        "yo": "quiero",
+        "tú": "quieres",
+        "él/ella": "quiere",
+        "nosotros": "queremos",
+        "ellos": "quieren"
+      },
+      "past": {
+        "yo": "querí",
+        "tú": "queriste",
+        "él/ella": "querió",
+        "nosotros": "querimos",
+        "ellos": "querieron"
+      }
+    },
+    {
+      "lemma": "quitar, v.",
+      "meaning": "to remove",
+      "present": {
+        "yo": "quito",
+        "tú": "quitas",
+        "él/ella": "quita",
+        "nosotros": "quitamos",
+        "ellos": "quitan"
+      },
+      "past": {
+        "yo": "quité",
+        "tú": "quitaste",
+        "él/ella": "quitó",
+        "nosotros": "quitamos",
+        "ellos": "quitaron"
+      }
+    },
+    {
+      "lemma": "realizar, v.",
+      "meaning": "to perform",
+      "present": {
+        "yo": "realizo",
+        "tú": "realizas",
+        "él/ella": "realiza",
+        "nosotros": "realizamos",
+        "ellos": "realizan"
+      },
+      "past": {
+        "yo": "realicé",
+        "tú": "realizaste",
+        "él/ella": "realizó",
+        "nosotros": "realizamos",
+        "ellos": "realizaron"
+      }
+    },
+    {
+      "lemma": "rechazar, v.",
+      "meaning": "to reject",
+      "present": {
+        "yo": "rechazo",
+        "tú": "rechazas",
+        "él/ella": "rechaza",
+        "nosotros": "rechazamos",
+        "ellos": "rechazan"
+      },
+      "past": {
+        "yo": "rechacé",
+        "tú": "rechazaste",
+        "él/ella": "rechazó",
+        "nosotros": "rechazamos",
+        "ellos": "rechazaron"
+      }
+    },
+    {
+      "lemma": "recoger, v.",
+      "meaning": "to pick up",
+      "present": {
+        "yo": "recogo",
+        "tú": "recoges",
+        "él/ella": "recoge",
+        "nosotros": "recogemos",
+        "ellos": "recogen"
+      },
+      "past": {
+        "yo": "recogí",
+        "tú": "recogiste",
+        "él/ella": "recogió",
+        "nosotros": "recogimos",
+        "ellos": "recogieron"
+      }
+    },
+    {
+      "lemma": "reconocer, v.",
+      "meaning": "to recognize",
+      "present": {
+        "yo": "reconoco",
+        "tú": "reconoces",
+        "él/ella": "reconoce",
+        "nosotros": "reconocemos",
+        "ellos": "reconocen"
+      },
+      "past": {
+        "yo": "reconocí",
+        "tú": "reconociste",
+        "él/ella": "reconoció",
+        "nosotros": "reconocimos",
+        "ellos": "reconocieron"
+      }
+    },
+    {
+      "lemma": "reducir, v.",
+      "meaning": "to reduce",
+      "present": {
+        "yo": "reduco",
+        "tú": "reduces",
+        "él/ella": "reduce",
+        "nosotros": "reducimos",
+        "ellos": "reducen"
+      },
+      "past": {
+        "yo": "reducí",
+        "tú": "reduciste",
+        "él/ella": "redució",
+        "nosotros": "reducimos",
+        "ellos": "reducieron"
+      }
+    },
+    {
+      "lemma": "regalar, v.",
+      "meaning": "to give (gift)",
+      "present": {
+        "yo": "regalo",
+        "tú": "regalas",
+        "él/ella": "regala",
+        "nosotros": "regalamos",
+        "ellos": "regalan"
+      },
+      "past": {
+        "yo": "regalé",
+        "tú": "regalaste",
+        "él/ella": "regaló",
+        "nosotros": "regalamos",
+        "ellos": "regalaron"
+      }
+    },
+    {
+      "lemma": "reír, v.",
+      "meaning": "to laugh",
+      "present": {},
+      "past": {}
+    },
+    {
+      "lemma": "rellenar, v.",
+      "meaning": "to fill",
+      "present": {
+        "yo": "relleno",
+        "tú": "rellenas",
+        "él/ella": "rellena",
+        "nosotros": "rellenamos",
+        "ellos": "rellenan"
+      },
+      "past": {
+        "yo": "rellené",
+        "tú": "rellenaste",
+        "él/ella": "rellenó",
+        "nosotros": "rellenamos",
+        "ellos": "rellenaron"
+      }
+    },
+    {
+      "lemma": "reparar, v.",
+      "meaning": "to repair",
+      "present": {
+        "yo": "reparo",
+        "tú": "reparas",
+        "él/ella": "repara",
+        "nosotros": "reparamos",
+        "ellos": "reparan"
+      },
+      "past": {
+        "yo": "reparé",
+        "tú": "reparaste",
+        "él/ella": "reparó",
+        "nosotros": "reparamos",
+        "ellos": "repararon"
+      }
+    },
+    {
+      "lemma": "repasar, v.",
+      "meaning": "to review",
+      "present": {
+        "yo": "repaso",
+        "tú": "repasas",
+        "él/ella": "repasa",
+        "nosotros": "repasamos",
+        "ellos": "repasan"
+      },
+      "past": {
+        "yo": "repasé",
+        "tú": "repasaste",
+        "él/ella": "repasó",
+        "nosotros": "repasamos",
+        "ellos": "repasaron"
+      }
+    },
+    {
+      "lemma": "respetar, v.",
+      "meaning": "to respect",
+      "present": {
+        "yo": "respeto",
+        "tú": "respetas",
+        "él/ella": "respeta",
+        "nosotros": "respetamos",
+        "ellos": "respetan"
+      },
+      "past": {
+        "yo": "respeté",
+        "tú": "respetaste",
+        "él/ella": "respetó",
+        "nosotros": "respetamos",
+        "ellos": "respetaron"
+      }
+    },
+    {
+      "lemma": "respirar, v.",
+      "meaning": "to breathe",
+      "present": {
+        "yo": "respiro",
+        "tú": "respiras",
+        "él/ella": "respira",
+        "nosotros": "respiramos",
+        "ellos": "respiran"
+      },
+      "past": {
+        "yo": "respiré",
+        "tú": "respiraste",
+        "él/ella": "respiró",
+        "nosotros": "respiramos",
+        "ellos": "respiraron"
+      }
+    },
+    {
+      "lemma": "resultar, v.",
+      "meaning": "to result",
+      "present": {
+        "yo": "resulto",
+        "tú": "resultas",
+        "él/ella": "resulta",
+        "nosotros": "resultamos",
+        "ellos": "resultan"
+      },
+      "past": {
+        "yo": "resulté",
+        "tú": "resultaste",
+        "él/ella": "resultó",
+        "nosotros": "resultamos",
+        "ellos": "resultaron"
+      }
+    },
+    {
+      "lemma": "reunir, v.",
+      "meaning": "to gather",
+      "present": {
+        "yo": "reuno",
+        "tú": "reunes",
+        "él/ella": "reune",
+        "nosotros": "reunimos",
+        "ellos": "reunen"
+      },
+      "past": {
+        "yo": "reuní",
+        "tú": "reuniste",
+        "él/ella": "reunió",
+        "nosotros": "reunimos",
+        "ellos": "reunieron"
+      }
+    },
+    {
+      "lemma": "robar, v.",
+      "meaning": "to steal",
+      "present": {
+        "yo": "robo",
+        "tú": "robas",
+        "él/ella": "roba",
+        "nosotros": "robamos",
+        "ellos": "roban"
+      },
+      "past": {
+        "yo": "robé",
+        "tú": "robaste",
+        "él/ella": "robó",
+        "nosotros": "robamos",
+        "ellos": "robaron"
+      }
+    },
+    {
+      "lemma": "saber, v.",
+      "meaning": "to know",
+      "present": {
+        "yo": "sabo",
+        "tú": "sabes",
+        "él/ella": "sabe",
+        "nosotros": "sabemos",
+        "ellos": "saben"
+      },
+      "past": {
+        "yo": "sabí",
+        "tú": "sabiste",
+        "él/ella": "sabió",
+        "nosotros": "sabimos",
+        "ellos": "sabieron"
+      }
+    },
+    {
+      "lemma": "sacar, v.",
+      "meaning": "to take out",
+      "present": {
+        "yo": "saco",
+        "tú": "sacas",
+        "él/ella": "saca",
+        "nosotros": "sacamos",
+        "ellos": "sacan"
+      },
+      "past": {
+        "yo": "saqué",
+        "tú": "sacaste",
+        "él/ella": "sacó",
+        "nosotros": "sacamos",
+        "ellos": "sacaron"
+      }
+    },
+    {
+      "lemma": "saludar, v.",
+      "meaning": "to greet",
+      "present": {
+        "yo": "saludo",
+        "tú": "saludas",
+        "él/ella": "saluda",
+        "nosotros": "saludamos",
+        "ellos": "saludan"
+      },
+      "past": {
+        "yo": "saludé",
+        "tú": "saludaste",
+        "él/ella": "saludó",
+        "nosotros": "saludamos",
+        "ellos": "saludaron"
+      }
+    },
+    {
+      "lemma": "salvar, v.",
+      "meaning": "to save",
+      "present": {
+        "yo": "salvo",
+        "tú": "salvas",
+        "él/ella": "salva",
+        "nosotros": "salvamos",
+        "ellos": "salvan"
+      },
+      "past": {
+        "yo": "salvé",
+        "tú": "salvaste",
+        "él/ella": "salvó",
+        "nosotros": "salvamos",
+        "ellos": "salvaron"
+      }
+    },
+    {
+      "lemma": "secar, v.",
+      "meaning": "to dry",
+      "present": {
+        "yo": "seco",
+        "tú": "secas",
+        "él/ella": "seca",
+        "nosotros": "secamos",
+        "ellos": "secan"
+      },
+      "past": {
+        "yo": "sequé",
+        "tú": "secaste",
+        "él/ella": "secó",
+        "nosotros": "secamos",
+        "ellos": "secaron"
+      }
+    },
+    {
+      "lemma": "sentar, v.",
+      "meaning": "to sit",
+      "present": {
+        "yo": "sento",
+        "tú": "sentas",
+        "él/ella": "senta",
+        "nosotros": "sentamos",
+        "ellos": "sentan"
+      },
+      "past": {
+        "yo": "senté",
+        "tú": "sentaste",
+        "él/ella": "sentó",
+        "nosotros": "sentamos",
+        "ellos": "sentaron"
+      }
+    },
+    {
+      "lemma": "separar, v.",
+      "meaning": "to separate",
+      "present": {
+        "yo": "separo",
+        "tú": "separas",
+        "él/ella": "separa",
+        "nosotros": "separamos",
+        "ellos": "separan"
+      },
+      "past": {
+        "yo": "separé",
+        "tú": "separaste",
+        "él/ella": "separó",
+        "nosotros": "separamos",
+        "ellos": "separaron"
+      }
+    },
+    {
+      "lemma": "significar, v.",
+      "meaning": "to mean",
+      "present": {
+        "yo": "significo",
+        "tú": "significas",
+        "él/ella": "significa",
+        "nosotros": "significamos",
+        "ellos": "significan"
+      },
+      "past": {
+        "yo": "signifiqué",
+        "tú": "significaste",
+        "él/ella": "significó",
+        "nosotros": "significamos",
+        "ellos": "significaron"
+      }
+    },
+    {
+      "lemma": "sonar, v.",
+      "meaning": "to sound",
+      "present": {
+        "yo": "sono",
+        "tú": "sonas",
+        "él/ella": "sona",
+        "nosotros": "sonamos",
+        "ellos": "sonan"
+      },
+      "past": {
+        "yo": "soné",
+        "tú": "sonaste",
+        "él/ella": "sonó",
+        "nosotros": "sonamos",
+        "ellos": "sonaron"
+      }
+    },
+    {
+      "lemma": "soñar, v.",
+      "meaning": "to dream",
+      "present": {
+        "yo": "sueño",
+        "tú": "sueñas",
+        "él/ella": "sueña",
+        "nosotros": "soñamos",
+        "ellos": "sueñan"
+      },
+      "past": {
+        "yo": "soñé",
+        "tú": "soñaste",
+        "él/ella": "soñó",
+        "nosotros": "soñamos",
+        "ellos": "soñaron"
+      }
+    },
+    {
+      "lemma": "sonreír, v.",
+      "meaning": "to smile",
+      "present": {},
+      "past": {}
+    },
+    {
+      "lemma": "soportar, v.",
+      "meaning": "to endure",
+      "present": {
+        "yo": "soporto",
+        "tú": "soportas",
+        "él/ella": "soporta",
+        "nosotros": "soportamos",
+        "ellos": "soportan"
+      },
+      "past": {
+        "yo": "soporté",
+        "tú": "soportaste",
+        "él/ella": "soportó",
+        "nosotros": "soportamos",
+        "ellos": "soportaron"
+      }
+    },
+    {
+      "lemma": "sorprender, v.",
+      "meaning": "to surprise",
+      "present": {
+        "yo": "sorprendo",
+        "tú": "sorprendes",
+        "él/ella": "sorprende",
+        "nosotros": "sorprendemos",
+        "ellos": "sorprenden"
+      },
+      "past": {
+        "yo": "sorprendí",
+        "tú": "sorprendiste",
+        "él/ella": "sorprendió",
+        "nosotros": "sorprendimos",
+        "ellos": "sorprendieron"
+      }
+    },
+    {
+      "lemma": "suceder, v.",
+      "meaning": "to happen",
+      "present": {
+        "yo": "sucedo",
+        "tú": "sucedes",
+        "él/ella": "sucede",
+        "nosotros": "sucedemos",
+        "ellos": "suceden"
+      },
+      "past": {
+        "yo": "sucedí",
+        "tú": "sucediste",
+        "él/ella": "sucedió",
+        "nosotros": "sucedimos",
+        "ellos": "sucedieron"
+      }
+    },
+    {
+      "lemma": "suponer, v.",
+      "meaning": "to suppose",
+      "present": {
+        "yo": "supono",
+        "tú": "supones",
+        "él/ella": "supone",
+        "nosotros": "suponemos",
+        "ellos": "suponen"
+      },
+      "past": {
+        "yo": "suponí",
+        "tú": "suponiste",
+        "él/ella": "suponió",
+        "nosotros": "suponimos",
+        "ellos": "suponieron"
+      }
+    },
+    {
+      "lemma": "tardar, v.",
+      "meaning": "to take time",
+      "present": {
+        "yo": "tardo",
+        "tú": "tardas",
+        "él/ella": "tarda",
+        "nosotros": "tardamos",
+        "ellos": "tardan"
+      },
+      "past": {
+        "yo": "tardé",
+        "tú": "tardaste",
+        "él/ella": "tardó",
+        "nosotros": "tardamos",
+        "ellos": "tardaron"
+      }
+    },
+    {
+      "lemma": "tirar, v.",
+      "meaning": "to throw",
+      "present": {
+        "yo": "tiro",
+        "tú": "tiras",
+        "él/ella": "tira",
+        "nosotros": "tiramos",
+        "ellos": "tiran"
+      },
+      "past": {
+        "yo": "tiré",
+        "tú": "tiraste",
+        "él/ella": "tiró",
+        "nosotros": "tiramos",
+        "ellos": "tiraron"
+      }
+    },
+    {
+      "lemma": "traducir, v.",
+      "meaning": "to translate",
+      "present": {
+        "yo": "traduco",
+        "tú": "traduces",
+        "él/ella": "traduce",
+        "nosotros": "traducimos",
+        "ellos": "traducen"
+      },
+      "past": {
+        "yo": "traducí",
+        "tú": "traduciste",
+        "él/ella": "tradució",
+        "nosotros": "traducimos",
+        "ellos": "traducieron"
+      }
+    },
+    {
+      "lemma": "traer, v.",
+      "meaning": "to bring",
+      "present": {
+        "yo": "trao",
+        "tú": "traes",
+        "él/ella": "trae",
+        "nosotros": "traemos",
+        "ellos": "traen"
+      },
+      "past": {
+        "yo": "traí",
+        "tú": "traiste",
+        "él/ella": "traió",
+        "nosotros": "traimos",
+        "ellos": "traieron"
+      }
+    },
+    {
+      "lemma": "tratar, v.",
+      "meaning": "to treat",
+      "present": {
+        "yo": "trato",
+        "tú": "tratas",
+        "él/ella": "trata",
+        "nosotros": "tratamos",
+        "ellos": "tratan"
+      },
+      "past": {
+        "yo": "traté",
+        "tú": "trataste",
+        "él/ella": "trató",
+        "nosotros": "tratamos",
+        "ellos": "trataron"
+      }
+    },
+    {
+      "lemma": "utilizar, v.",
+      "meaning": "to use",
+      "present": {
+        "yo": "utilizo",
+        "tú": "utilizas",
+        "él/ella": "utiliza",
+        "nosotros": "utilizamos",
+        "ellos": "utilizan"
+      },
+      "past": {
+        "yo": "utilicé",
+        "tú": "utilizaste",
+        "él/ella": "utilizó",
+        "nosotros": "utilizamos",
+        "ellos": "utilizaron"
+      }
+    },
+    {
+      "lemma": "vaciar, v.",
+      "meaning": "to empty",
+      "present": {
+        "yo": "vacio",
+        "tú": "vacias",
+        "él/ella": "vacia",
+        "nosotros": "vaciamos",
+        "ellos": "vacian"
+      },
+      "past": {
+        "yo": "vacié",
+        "tú": "vaciaste",
+        "él/ella": "vació",
+        "nosotros": "vaciamos",
+        "ellos": "vaciaron"
+      }
+    },
+    {
+      "lemma": "valer, v.",
+      "meaning": "to be worth",
+      "present": {
+        "yo": "valo",
+        "tú": "vales",
+        "él/ella": "vale",
+        "nosotros": "valemos",
+        "ellos": "valen"
+      },
+      "past": {
+        "yo": "valí",
+        "tú": "valiste",
+        "él/ella": "valió",
+        "nosotros": "valimos",
+        "ellos": "valieron"
+      }
+    },
+    {
+      "lemma": "variar, v.",
+      "meaning": "to vary",
+      "present": {
+        "yo": "vario",
+        "tú": "varias",
+        "él/ella": "varia",
+        "nosotros": "variamos",
+        "ellos": "varian"
+      },
+      "past": {
+        "yo": "varié",
+        "tú": "variaste",
+        "él/ella": "varió",
+        "nosotros": "variamos",
+        "ellos": "variaron"
+      }
+    },
+    {
+      "lemma": "vencer, v.",
+      "meaning": "to defeat",
+      "present": {
+        "yo": "venco",
+        "tú": "vences",
+        "él/ella": "vence",
+        "nosotros": "vencemos",
+        "ellos": "vencen"
+      },
+      "past": {
+        "yo": "vencí",
+        "tú": "venciste",
+        "él/ella": "venció",
+        "nosotros": "vencimos",
+        "ellos": "vencieron"
+      }
+    },
+    {
+      "lemma": "vestir, v.",
+      "meaning": "to dress",
+      "present": {
+        "yo": "visto",
+        "tú": "vistes",
+        "él/ella": "viste",
+        "nosotros": "vestimos",
+        "ellos": "visten"
+      },
+      "past": {
+        "yo": "vestí",
+        "tú": "vestiste",
+        "él/ella": "vistió",
+        "nosotros": "vestimos",
+        "ellos": "vistieron"
+      }
+    },
+    {
+      "lemma": "vigilar, v.",
+      "meaning": "to watch/guard",
+      "present": {
+        "yo": "vigilo",
+        "tú": "vigilas",
+        "él/ella": "vigila",
+        "nosotros": "vigilamos",
+        "ellos": "vigilan"
+      },
+      "past": {
+        "yo": "vigilé",
+        "tú": "vigilaste",
+        "él/ella": "vigiló",
+        "nosotros": "vigilamos",
+        "ellos": "vigilaron"
+      }
+    },
+    {
+      "lemma": "volar, v.",
+      "meaning": "to fly",
+      "present": {
+        "yo": "vuelo",
+        "tú": "vuelas",
+        "él/ella": "vuela",
+        "nosotros": "volamos",
+        "ellos": "vuelan"
+      },
+      "past": {
+        "yo": "volé",
+        "tú": "volaste",
+        "él/ella": "voló",
+        "nosotros": "volamos",
+        "ellos": "volaron"
+      }
+    },
+    {
+      "lemma": "votar, v.",
+      "meaning": "to vote",
+      "present": {
+        "yo": "voto",
+        "tú": "votas",
+        "él/ella": "vota",
+        "nosotros": "votamos",
+        "ellos": "votan"
+      },
+      "past": {
+        "yo": "voté",
+        "tú": "votaste",
+        "él/ella": "votó",
+        "nosotros": "votamos",
+        "ellos": "votaron"
+      }
     }
   ],
   "nouns": [
@@ -1197,6 +5355,3114 @@
       "gender": "masculine",
       "plural": "amigos",
       "meaning": "friend"
+    },
+    {
+      "lemma": "hombre, n.",
+      "gender": "masculine",
+      "plural": "hombres",
+      "meaning": "man"
+    },
+    {
+      "lemma": "mujer, n.",
+      "gender": "feminine",
+      "plural": "mujeres",
+      "meaning": "woman"
+    },
+    {
+      "lemma": "niño, n.",
+      "gender": "masculine",
+      "plural": "niños",
+      "meaning": "boy"
+    },
+    {
+      "lemma": "niña, n.",
+      "gender": "feminine",
+      "plural": "niñas",
+      "meaning": "girl"
+    },
+    {
+      "lemma": "chico, n.",
+      "gender": "masculine",
+      "plural": "chicos",
+      "meaning": "boy"
+    },
+    {
+      "lemma": "chica, n.",
+      "gender": "feminine",
+      "plural": "chicas",
+      "meaning": "girl"
+    },
+    {
+      "lemma": "padre, n.",
+      "gender": "masculine",
+      "plural": "padres",
+      "meaning": "father"
+    },
+    {
+      "lemma": "madre, n.",
+      "gender": "feminine",
+      "plural": "madres",
+      "meaning": "mother"
+    },
+    {
+      "lemma": "hijo, n.",
+      "gender": "masculine",
+      "plural": "hijos",
+      "meaning": "son"
+    },
+    {
+      "lemma": "hija, n.",
+      "gender": "feminine",
+      "plural": "hijas",
+      "meaning": "daughter"
+    },
+    {
+      "lemma": "hermano, n.",
+      "gender": "masculine",
+      "plural": "hermanos",
+      "meaning": "brother"
+    },
+    {
+      "lemma": "hermana, n.",
+      "gender": "feminine",
+      "plural": "hermanas",
+      "meaning": "sister"
+    },
+    {
+      "lemma": "abuelo, n.",
+      "gender": "masculine",
+      "plural": "abuelos",
+      "meaning": "grandfather"
+    },
+    {
+      "lemma": "abuela, n.",
+      "gender": "feminine",
+      "plural": "abuelas",
+      "meaning": "grandmother"
+    },
+    {
+      "lemma": "tío, n.",
+      "gender": "masculine",
+      "plural": "tíos",
+      "meaning": "uncle"
+    },
+    {
+      "lemma": "tía, n.",
+      "gender": "feminine",
+      "plural": "tías",
+      "meaning": "aunt"
+    },
+    {
+      "lemma": "primo, n.",
+      "gender": "masculine",
+      "plural": "primos",
+      "meaning": "cousin (m)"
+    },
+    {
+      "lemma": "prima, n.",
+      "gender": "feminine",
+      "plural": "primas",
+      "meaning": "cousin (f)"
+    },
+    {
+      "lemma": "esposo, n.",
+      "gender": "masculine",
+      "plural": "esposos",
+      "meaning": "husband"
+    },
+    {
+      "lemma": "esposa, n.",
+      "gender": "feminine",
+      "plural": "esposas",
+      "meaning": "wife"
+    },
+    {
+      "lemma": "novio, n.",
+      "gender": "masculine",
+      "plural": "novios",
+      "meaning": "boyfriend"
+    },
+    {
+      "lemma": "novia, n.",
+      "gender": "feminine",
+      "plural": "novias",
+      "meaning": "girlfriend"
+    },
+    {
+      "lemma": "bebé, n.",
+      "gender": "masculine",
+      "plural": "bebés",
+      "meaning": "baby"
+    },
+    {
+      "lemma": "gente, n.",
+      "gender": "feminine",
+      "plural": "gentes",
+      "meaning": "people"
+    },
+    {
+      "lemma": "profesor, n.",
+      "gender": "masculine",
+      "plural": "profesores",
+      "meaning": "teacher"
+    },
+    {
+      "lemma": "estudiante, n.",
+      "gender": "masculine",
+      "plural": "estudiantes",
+      "meaning": "student"
+    },
+    {
+      "lemma": "médico, n.",
+      "gender": "masculine",
+      "plural": "médicos",
+      "meaning": "doctor"
+    },
+    {
+      "lemma": "doctor, n.",
+      "gender": "masculine",
+      "plural": "doctores",
+      "meaning": "doctor"
+    },
+    {
+      "lemma": "policía, n.",
+      "gender": "masculine",
+      "plural": "policías",
+      "meaning": "police"
+    },
+    {
+      "lemma": "jefe, n.",
+      "gender": "masculine",
+      "plural": "jefes",
+      "meaning": "boss"
+    },
+    {
+      "lemma": "empleado, n.",
+      "gender": "masculine",
+      "plural": "empleados",
+      "meaning": "employee"
+    },
+    {
+      "lemma": "cuerpo, n.",
+      "gender": "masculine",
+      "plural": "cuerpos",
+      "meaning": "body"
+    },
+    {
+      "lemma": "cabeza, n.",
+      "gender": "feminine",
+      "plural": "cabezas",
+      "meaning": "head"
+    },
+    {
+      "lemma": "pelo, n.",
+      "gender": "masculine",
+      "plural": "pelos",
+      "meaning": "hair"
+    },
+    {
+      "lemma": "cara, n.",
+      "gender": "feminine",
+      "plural": "caras",
+      "meaning": "face"
+    },
+    {
+      "lemma": "ojo, n.",
+      "gender": "masculine",
+      "plural": "ojos",
+      "meaning": "eye"
+    },
+    {
+      "lemma": "nariz, n.",
+      "gender": "feminine",
+      "plural": "narices",
+      "meaning": "nose"
+    },
+    {
+      "lemma": "boca, n.",
+      "gender": "feminine",
+      "plural": "bocas",
+      "meaning": "mouth"
+    },
+    {
+      "lemma": "diente, n.",
+      "gender": "masculine",
+      "plural": "dientes",
+      "meaning": "tooth"
+    },
+    {
+      "lemma": "oreja, n.",
+      "gender": "feminine",
+      "plural": "orejas",
+      "meaning": "ear"
+    },
+    {
+      "lemma": "cuello, n.",
+      "gender": "masculine",
+      "plural": "cuellos",
+      "meaning": "neck"
+    },
+    {
+      "lemma": "brazo, n.",
+      "gender": "masculine",
+      "plural": "brazos",
+      "meaning": "arm"
+    },
+    {
+      "lemma": "mano, n.",
+      "gender": "feminine",
+      "plural": "manos",
+      "meaning": "hand"
+    },
+    {
+      "lemma": "dedo, n.",
+      "gender": "masculine",
+      "plural": "dedos",
+      "meaning": "finger"
+    },
+    {
+      "lemma": "pierna, n.",
+      "gender": "feminine",
+      "plural": "piernas",
+      "meaning": "leg"
+    },
+    {
+      "lemma": "pie, n.",
+      "gender": "masculine",
+      "plural": "pies",
+      "meaning": "foot"
+    },
+    {
+      "lemma": "corazón, n.",
+      "gender": "masculine",
+      "plural": "corazónes",
+      "meaning": "heart"
+    },
+    {
+      "lemma": "sangre, n.",
+      "gender": "feminine",
+      "plural": "sangres",
+      "meaning": "blood"
+    },
+    {
+      "lemma": "estómago, n.",
+      "gender": "masculine",
+      "plural": "estómagos",
+      "meaning": "stomach"
+    },
+    {
+      "lemma": "espalda, n.",
+      "gender": "feminine",
+      "plural": "espaldas",
+      "meaning": "back"
+    },
+    {
+      "lemma": "piel, n.",
+      "gender": "feminine",
+      "plural": "pieles",
+      "meaning": "skin"
+    },
+    {
+      "lemma": "ropa, n.",
+      "gender": "feminine",
+      "plural": "ropas",
+      "meaning": "clothes"
+    },
+    {
+      "lemma": "camisa, n.",
+      "gender": "feminine",
+      "plural": "camisas",
+      "meaning": "shirt"
+    },
+    {
+      "lemma": "camiseta, n.",
+      "gender": "feminine",
+      "plural": "camisetas",
+      "meaning": "t-shirt"
+    },
+    {
+      "lemma": "pantalón, n.",
+      "gender": "masculine",
+      "plural": "pantalónes",
+      "meaning": "pants"
+    },
+    {
+      "lemma": "vestido, n.",
+      "gender": "masculine",
+      "plural": "vestidos",
+      "meaning": "dress"
+    },
+    {
+      "lemma": "falda, n.",
+      "gender": "feminine",
+      "plural": "faldas",
+      "meaning": "skirt"
+    },
+    {
+      "lemma": "zapato, n.",
+      "gender": "masculine",
+      "plural": "zapatos",
+      "meaning": "shoe"
+    },
+    {
+      "lemma": "calcetín, n.",
+      "gender": "masculine",
+      "plural": "calcetínes",
+      "meaning": "sock"
+    },
+    {
+      "lemma": "zapatilla, n.",
+      "gender": "feminine",
+      "plural": "zapatillas",
+      "meaning": "sneaker"
+    },
+    {
+      "lemma": "chaqueta, n.",
+      "gender": "feminine",
+      "plural": "chaquetas",
+      "meaning": "jacket"
+    },
+    {
+      "lemma": "abrigo, n.",
+      "gender": "masculine",
+      "plural": "abrigos",
+      "meaning": "coat"
+    },
+    {
+      "lemma": "sombrero, n.",
+      "gender": "masculine",
+      "plural": "sombreros",
+      "meaning": "hat"
+    },
+    {
+      "lemma": "gorra, n.",
+      "gender": "feminine",
+      "plural": "gorras",
+      "meaning": "cap"
+    },
+    {
+      "lemma": "guante, n.",
+      "gender": "masculine",
+      "plural": "guantes",
+      "meaning": "glove"
+    },
+    {
+      "lemma": "bufanda, n.",
+      "gender": "feminine",
+      "plural": "bufandas",
+      "meaning": "scarf"
+    },
+    {
+      "lemma": "gafas, n.",
+      "gender": "feminine",
+      "plural": "gafases",
+      "meaning": "glasses"
+    },
+    {
+      "lemma": "reloj, n.",
+      "gender": "masculine",
+      "plural": "relojes",
+      "meaning": "watch"
+    },
+    {
+      "lemma": "bolsa, n.",
+      "gender": "feminine",
+      "plural": "bolsas",
+      "meaning": "bag"
+    },
+    {
+      "lemma": "maleta, n.",
+      "gender": "feminine",
+      "plural": "maletas",
+      "meaning": "suitcase"
+    },
+    {
+      "lemma": "cartera, n.",
+      "gender": "feminine",
+      "plural": "carteras",
+      "meaning": "wallet"
+    },
+    {
+      "lemma": "apartamento, n.",
+      "gender": "masculine",
+      "plural": "apartamentos",
+      "meaning": "apartment"
+    },
+    {
+      "lemma": "piso, n.",
+      "gender": "masculine",
+      "plural": "pisos",
+      "meaning": "flat/floor"
+    },
+    {
+      "lemma": "habitación, n.",
+      "gender": "feminine",
+      "plural": "habitaciónes",
+      "meaning": "room"
+    },
+    {
+      "lemma": "cuarto, n.",
+      "gender": "masculine",
+      "plural": "cuartos",
+      "meaning": "room"
+    },
+    {
+      "lemma": "sala, n.",
+      "gender": "feminine",
+      "plural": "salas",
+      "meaning": "living room"
+    },
+    {
+      "lemma": "cocina, n.",
+      "gender": "feminine",
+      "plural": "cocinas",
+      "meaning": "kitchen"
+    },
+    {
+      "lemma": "baño, n.",
+      "gender": "masculine",
+      "plural": "baños",
+      "meaning": "bathroom"
+    },
+    {
+      "lemma": "dhdormitorio, n.",
+      "gender": "masculine",
+      "plural": "dhdormitorios",
+      "meaning": "bedroom"
+    },
+    {
+      "lemma": "jardín, n.",
+      "gender": "masculine",
+      "plural": "jardínes",
+      "meaning": "garden"
+    },
+    {
+      "lemma": "puerta, n.",
+      "gender": "feminine",
+      "plural": "puertas",
+      "meaning": "door"
+    },
+    {
+      "lemma": "ventana, n.",
+      "gender": "feminine",
+      "plural": "ventanas",
+      "meaning": "window"
+    },
+    {
+      "lemma": "pared, n.",
+      "gender": "feminine",
+      "plural": "paredes",
+      "meaning": "wall"
+    },
+    {
+      "lemma": "suelo, n.",
+      "gender": "masculine",
+      "plural": "suelos",
+      "meaning": "floor"
+    },
+    {
+      "lemma": "techo, n.",
+      "gender": "masculine",
+      "plural": "techos",
+      "meaning": "ceiling"
+    },
+    {
+      "lemma": "mesa, n.",
+      "gender": "feminine",
+      "plural": "mesas",
+      "meaning": "table"
+    },
+    {
+      "lemma": "silla, n.",
+      "gender": "feminine",
+      "plural": "sillas",
+      "meaning": "chair"
+    },
+    {
+      "lemma": "cama, n.",
+      "gender": "feminine",
+      "plural": "camas",
+      "meaning": "bed"
+    },
+    {
+      "lemma": "sofá, n.",
+      "gender": "masculine",
+      "plural": "sofás",
+      "meaning": "sofa"
+    },
+    {
+      "lemma": "televisión, n.",
+      "gender": "feminine",
+      "plural": "televisiónes",
+      "meaning": "television"
+    },
+    {
+      "lemma": "lámpara, n.",
+      "gender": "feminine",
+      "plural": "lámparas",
+      "meaning": "lamp"
+    },
+    {
+      "lemma": "vaso, n.",
+      "gender": "masculine",
+      "plural": "vasos",
+      "meaning": "glass"
+    },
+    {
+      "lemma": "plato, n.",
+      "gender": "masculine",
+      "plural": "platos",
+      "meaning": "plate"
+    },
+    {
+      "lemma": "tenedor, n.",
+      "gender": "masculine",
+      "plural": "tenedores",
+      "meaning": "fork"
+    },
+    {
+      "lemma": "cuchara, n.",
+      "gender": "feminine",
+      "plural": "cucharas",
+      "meaning": "spoon"
+    },
+    {
+      "lemma": "cuchillo, n.",
+      "gender": "masculine",
+      "plural": "cuchillos",
+      "meaning": "knife"
+    },
+    {
+      "lemma": "taza, n.",
+      "gender": "feminine",
+      "plural": "tazas",
+      "meaning": "cup"
+    },
+    {
+      "lemma": "botella, n.",
+      "gender": "feminine",
+      "plural": "botellas",
+      "meaning": "bottle"
+    },
+    {
+      "lemma": "llave, n.",
+      "gender": "feminine",
+      "plural": "llaves",
+      "meaning": "key"
+    },
+    {
+      "lemma": "teléfono, n.",
+      "gender": "masculine",
+      "plural": "teléfonos",
+      "meaning": "phone"
+    },
+    {
+      "lemma": "ordenador, n.",
+      "gender": "masculine",
+      "plural": "ordenadores",
+      "meaning": "computer"
+    },
+    {
+      "lemma": "computadora, n.",
+      "gender": "feminine",
+      "plural": "computadoras",
+      "meaning": "computer"
+    },
+    {
+      "lemma": "papel, n.",
+      "gender": "masculine",
+      "plural": "papeles",
+      "meaning": "paper"
+    },
+    {
+      "lemma": "libro, n.",
+      "gender": "masculine",
+      "plural": "libros",
+      "meaning": "book"
+    },
+    {
+      "lemma": "bolígrafo, n.",
+      "gender": "masculine",
+      "plural": "bolígrafos",
+      "meaning": "pen"
+    },
+    {
+      "lemma": "lápiz, n.",
+      "gender": "masculine",
+      "plural": "lápices",
+      "meaning": "pencil"
+    },
+    {
+      "lemma": "pueblo, n.",
+      "gender": "masculine",
+      "plural": "pueblos",
+      "meaning": "village/town"
+    },
+    {
+      "lemma": "calle, n.",
+      "gender": "feminine",
+      "plural": "calles",
+      "meaning": "street"
+    },
+    {
+      "lemma": "plaza, n.",
+      "gender": "feminine",
+      "plural": "plazas",
+      "meaning": "square"
+    },
+    {
+      "lemma": "parque, n.",
+      "gender": "masculine",
+      "plural": "parques",
+      "meaning": "park"
+    },
+    {
+      "lemma": "escuela, n.",
+      "gender": "feminine",
+      "plural": "escuelas",
+      "meaning": "school"
+    },
+    {
+      "lemma": "colegio, n.",
+      "gender": "masculine",
+      "plural": "colegios",
+      "meaning": "school"
+    },
+    {
+      "lemma": "universidad, n.",
+      "gender": "feminine",
+      "plural": "universidades",
+      "meaning": "university"
+    },
+    {
+      "lemma": "biblioteca, n.",
+      "gender": "feminine",
+      "plural": "bibliotecas",
+      "meaning": "library"
+    },
+    {
+      "lemma": "tienda, n.",
+      "gender": "feminine",
+      "plural": "tiendas",
+      "meaning": "shop"
+    },
+    {
+      "lemma": "supermercado, n.",
+      "gender": "masculine",
+      "plural": "supermercados",
+      "meaning": "supermarket"
+    },
+    {
+      "lemma": "mercado, n.",
+      "gender": "masculine",
+      "plural": "mercados",
+      "meaning": "market"
+    },
+    {
+      "lemma": "hospital, n.",
+      "gender": "masculine",
+      "plural": "hospitales",
+      "meaning": "hospital"
+    },
+    {
+      "lemma": "farmacia, n.",
+      "gender": "feminine",
+      "plural": "farmacias",
+      "meaning": "pharmacy"
+    },
+    {
+      "lemma": "restaurante, n.",
+      "gender": "masculine",
+      "plural": "restaurantes",
+      "meaning": "restaurant"
+    },
+    {
+      "lemma": "hotel, n.",
+      "gender": "masculine",
+      "plural": "hoteles",
+      "meaning": "hotel"
+    },
+    {
+      "lemma": "banco, n.",
+      "gender": "masculine",
+      "plural": "bancos",
+      "meaning": "bank"
+    },
+    {
+      "lemma": "cine, n.",
+      "gender": "masculine",
+      "plural": "cines",
+      "meaning": "cinema"
+    },
+    {
+      "lemma": "teatro, n.",
+      "gender": "masculine",
+      "plural": "teatros",
+      "meaning": "theater"
+    },
+    {
+      "lemma": "aeropuerto, n.",
+      "gender": "masculine",
+      "plural": "aeropuertos",
+      "meaning": "airport"
+    },
+    {
+      "lemma": "estación, n.",
+      "gender": "feminine",
+      "plural": "estaciónes",
+      "meaning": "station"
+    },
+    {
+      "lemma": "tren, n.",
+      "gender": "masculine",
+      "plural": "trenes",
+      "meaning": "train"
+    },
+    {
+      "lemma": "autobús, n.",
+      "gender": "masculine",
+      "plural": "autobúses",
+      "meaning": "bus"
+    },
+    {
+      "lemma": "metro, n.",
+      "gender": "masculine",
+      "plural": "metros",
+      "meaning": "subway"
+    },
+    {
+      "lemma": "coche, n.",
+      "gender": "masculine",
+      "plural": "coches",
+      "meaning": "car"
+    },
+    {
+      "lemma": "carro, n.",
+      "gender": "masculine",
+      "plural": "carros",
+      "meaning": "car"
+    },
+    {
+      "lemma": "taxi, n.",
+      "gender": "masculine",
+      "plural": "taxis",
+      "meaning": "taxi"
+    },
+    {
+      "lemma": "bicicleta, n.",
+      "gender": "feminine",
+      "plural": "bicicletas",
+      "meaning": "bicycle"
+    },
+    {
+      "lemma": "avión, n.",
+      "gender": "masculine",
+      "plural": "aviónes",
+      "meaning": "airplane"
+    },
+    {
+      "lemma": "barco, n.",
+      "gender": "masculine",
+      "plural": "barcos",
+      "meaning": "boat"
+    },
+    {
+      "lemma": "viaje, n.",
+      "gender": "masculine",
+      "plural": "viajes",
+      "meaning": "trip"
+    },
+    {
+      "lemma": "billete, n.",
+      "gender": "masculine",
+      "plural": "billetes",
+      "meaning": "ticket"
+    },
+    {
+      "lemma": "mapa, n.",
+      "gender": "masculine",
+      "plural": "mapas",
+      "meaning": "map"
+    },
+    {
+      "lemma": "mundo, n.",
+      "gender": "masculine",
+      "plural": "mundos",
+      "meaning": "world"
+    },
+    {
+      "lemma": "país, n.",
+      "gender": "masculine",
+      "plural": "países",
+      "meaning": "country"
+    },
+    {
+      "lemma": "mar, n.",
+      "gender": "masculine",
+      "plural": "mares",
+      "meaning": "sea"
+    },
+    {
+      "lemma": "playa, n.",
+      "gender": "feminine",
+      "plural": "playas",
+      "meaning": "beach"
+    },
+    {
+      "lemma": "montaña, n.",
+      "gender": "feminine",
+      "plural": "montañas",
+      "meaning": "mountain"
+    },
+    {
+      "lemma": "río, n.",
+      "gender": "masculine",
+      "plural": "ríos",
+      "meaning": "river"
+    },
+    {
+      "lemma": "lago, n.",
+      "gender": "masculine",
+      "plural": "lagos",
+      "meaning": "lake"
+    },
+    {
+      "lemma": "árbol, n.",
+      "gender": "masculine",
+      "plural": "árboles",
+      "meaning": "tree"
+    },
+    {
+      "lemma": "flor, n.",
+      "gender": "feminine",
+      "plural": "flores",
+      "meaning": "flower"
+    },
+    {
+      "lemma": "sol, n.",
+      "gender": "masculine",
+      "plural": "soles",
+      "meaning": "sun"
+    },
+    {
+      "lemma": "luna, n.",
+      "gender": "feminine",
+      "plural": "lunas",
+      "meaning": "moon"
+    },
+    {
+      "lemma": "cielo, n.",
+      "gender": "masculine",
+      "plural": "cielos",
+      "meaning": "sky"
+    },
+    {
+      "lemma": "estrella, n.",
+      "gender": "feminine",
+      "plural": "estrellas",
+      "meaning": "star"
+    },
+    {
+      "lemma": "lluvia, n.",
+      "gender": "feminine",
+      "plural": "lluvias",
+      "meaning": "rain"
+    },
+    {
+      "lemma": "nieve, n.",
+      "gender": "feminine",
+      "plural": "nieves",
+      "meaning": "snow"
+    },
+    {
+      "lemma": "viento, n.",
+      "gender": "masculine",
+      "plural": "vientos",
+      "meaning": "wind"
+    },
+    {
+      "lemma": "fuego, n.",
+      "gender": "masculine",
+      "plural": "fuegos",
+      "meaning": "fire"
+    },
+    {
+      "lemma": "aire, n.",
+      "gender": "masculine",
+      "plural": "aires",
+      "meaning": "air"
+    },
+    {
+      "lemma": "luz, n.",
+      "gender": "feminine",
+      "plural": "luces",
+      "meaning": "light"
+    },
+    {
+      "lemma": "oscuridad, n.",
+      "gender": "feminine",
+      "plural": "oscuridades",
+      "meaning": "darkness"
+    },
+    {
+      "lemma": "año, n.",
+      "gender": "masculine",
+      "plural": "años",
+      "meaning": "year"
+    },
+    {
+      "lemma": "mes, n.",
+      "gender": "masculine",
+      "plural": "meses",
+      "meaning": "month"
+    },
+    {
+      "lemma": "semana, n.",
+      "gender": "feminine",
+      "plural": "semanas",
+      "meaning": "week"
+    },
+    {
+      "lemma": "noche, n.",
+      "gender": "feminine",
+      "plural": "noches",
+      "meaning": "night"
+    },
+    {
+      "lemma": "tarde, n.",
+      "gender": "feminine",
+      "plural": "tardes",
+      "meaning": "afternoon/evening"
+    },
+    {
+      "lemma": "mañana, n.",
+      "gender": "feminine",
+      "plural": "mañanas",
+      "meaning": "morning"
+    },
+    {
+      "lemma": "hora, n.",
+      "gender": "feminine",
+      "plural": "horas",
+      "meaning": "hour"
+    },
+    {
+      "lemma": "minuto, n.",
+      "gender": "masculine",
+      "plural": "minutos",
+      "meaning": "minute"
+    },
+    {
+      "lemma": "segundo, n.",
+      "gender": "masculine",
+      "plural": "segundos",
+      "meaning": "second"
+    },
+    {
+      "lemma": "lunes, n.",
+      "gender": "masculine",
+      "plural": "luneses",
+      "meaning": "Monday"
+    },
+    {
+      "lemma": "martes, n.",
+      "gender": "masculine",
+      "plural": "marteses",
+      "meaning": "Tuesday"
+    },
+    {
+      "lemma": "miércoles, n.",
+      "gender": "masculine",
+      "plural": "miércoleses",
+      "meaning": "Wednesday"
+    },
+    {
+      "lemma": "jueves, n.",
+      "gender": "masculine",
+      "plural": "jueveses",
+      "meaning": "Thursday"
+    },
+    {
+      "lemma": "viernes, n.",
+      "gender": "masculine",
+      "plural": "vierneses",
+      "meaning": "Friday"
+    },
+    {
+      "lemma": "sábado, n.",
+      "gender": "masculine",
+      "plural": "sábados",
+      "meaning": "Saturday"
+    },
+    {
+      "lemma": "domingo, n.",
+      "gender": "masculine",
+      "plural": "domingos",
+      "meaning": "Sunday"
+    },
+    {
+      "lemma": "enero, n.",
+      "gender": "masculine",
+      "plural": "eneros",
+      "meaning": "January"
+    },
+    {
+      "lemma": "febrero, n.",
+      "gender": "masculine",
+      "plural": "febreros",
+      "meaning": "February"
+    },
+    {
+      "lemma": "marzo, n.",
+      "gender": "masculine",
+      "plural": "marzos",
+      "meaning": "March"
+    },
+    {
+      "lemma": "abril, n.",
+      "gender": "masculine",
+      "plural": "abriles",
+      "meaning": "April"
+    },
+    {
+      "lemma": "mayo, n.",
+      "gender": "masculine",
+      "plural": "mayos",
+      "meaning": "May"
+    },
+    {
+      "lemma": "junio, n.",
+      "gender": "masculine",
+      "plural": "junios",
+      "meaning": "June"
+    },
+    {
+      "lemma": "julio, n.",
+      "gender": "masculine",
+      "plural": "julios",
+      "meaning": "July"
+    },
+    {
+      "lemma": "agosto, n.",
+      "gender": "masculine",
+      "plural": "agostos",
+      "meaning": "August"
+    },
+    {
+      "lemma": "septiembre, n.",
+      "gender": "masculine",
+      "plural": "septiembres",
+      "meaning": "September"
+    },
+    {
+      "lemma": "octubre, n.",
+      "gender": "masculine",
+      "plural": "octubres",
+      "meaning": "October"
+    },
+    {
+      "lemma": "noviembre, n.",
+      "gender": "masculine",
+      "plural": "noviembres",
+      "meaning": "November"
+    },
+    {
+      "lemma": "diciembre, n.",
+      "gender": "masculine",
+      "plural": "diciembres",
+      "meaning": "December"
+    },
+    {
+      "lemma": "primavera, n.",
+      "gender": "feminine",
+      "plural": "primaveras",
+      "meaning": "Spring"
+    },
+    {
+      "lemma": "verano, n.",
+      "gender": "masculine",
+      "plural": "veranos",
+      "meaning": "Summer"
+    },
+    {
+      "lemma": "otoño, n.",
+      "gender": "masculine",
+      "plural": "otoños",
+      "meaning": "Autumn"
+    },
+    {
+      "lemma": "invierno, n.",
+      "gender": "masculine",
+      "plural": "inviernos",
+      "meaning": "Winter"
+    },
+    {
+      "lemma": "desayuno, n.",
+      "gender": "masculine",
+      "plural": "desayunos",
+      "meaning": "breakfast"
+    },
+    {
+      "lemma": "almuerzo, n.",
+      "gender": "masculine",
+      "plural": "almuerzos",
+      "meaning": "lunch"
+    },
+    {
+      "lemma": "cena, n.",
+      "gender": "feminine",
+      "plural": "cenas",
+      "meaning": "dinner"
+    },
+    {
+      "lemma": "pan, n.",
+      "gender": "masculine",
+      "plural": "panes",
+      "meaning": "bread"
+    },
+    {
+      "lemma": "leche, n.",
+      "gender": "feminine",
+      "plural": "leches",
+      "meaning": "milk"
+    },
+    {
+      "lemma": "café, n.",
+      "gender": "masculine",
+      "plural": "cafés",
+      "meaning": "coffee"
+    },
+    {
+      "lemma": "té, n.",
+      "gender": "masculine",
+      "plural": "tés",
+      "meaning": "tea"
+    },
+    {
+      "lemma": "zumo, n.",
+      "gender": "masculine",
+      "plural": "zumos",
+      "meaning": "juice"
+    },
+    {
+      "lemma": "cerveza, n.",
+      "gender": "feminine",
+      "plural": "cervezas",
+      "meaning": "beer"
+    },
+    {
+      "lemma": "vino, n.",
+      "gender": "masculine",
+      "plural": "vinos",
+      "meaning": "wine"
+    },
+    {
+      "lemma": "pollo, n.",
+      "gender": "masculine",
+      "plural": "pollos",
+      "meaning": "chicken"
+    },
+    {
+      "lemma": "carne, n.",
+      "gender": "feminine",
+      "plural": "carnes",
+      "meaning": "meat"
+    },
+    {
+      "lemma": "pescado, n.",
+      "gender": "masculine",
+      "plural": "pescados",
+      "meaning": "fish"
+    },
+    {
+      "lemma": "huevo, n.",
+      "gender": "masculine",
+      "plural": "huevos",
+      "meaning": "egg"
+    },
+    {
+      "lemma": "queso, n.",
+      "gender": "masculine",
+      "plural": "quesos",
+      "meaning": "cheese"
+    },
+    {
+      "lemma": "ensalada, n.",
+      "gender": "feminine",
+      "plural": "ensaladas",
+      "meaning": "salad"
+    },
+    {
+      "lemma": "fruta, n.",
+      "gender": "feminine",
+      "plural": "frutas",
+      "meaning": "fruit"
+    },
+    {
+      "lemma": "manzana, n.",
+      "gender": "feminine",
+      "plural": "manzanas",
+      "meaning": "apple"
+    },
+    {
+      "lemma": "plátano, n.",
+      "gender": "masculine",
+      "plural": "plátanos",
+      "meaning": "banana"
+    },
+    {
+      "lemma": "naranja, n.",
+      "gender": "feminine",
+      "plural": "naranjas",
+      "meaning": "orange"
+    },
+    {
+      "lemma": "limón, n.",
+      "gender": "masculine",
+      "plural": "limónes",
+      "meaning": "lemon"
+    },
+    {
+      "lemma": "verdura, n.",
+      "gender": "feminine",
+      "plural": "verduras",
+      "meaning": "vegetable"
+    },
+    {
+      "lemma": "patata, n.",
+      "gender": "feminine",
+      "plural": "patatas",
+      "meaning": "potato"
+    },
+    {
+      "lemma": "tomate, n.",
+      "gender": "masculine",
+      "plural": "tomates",
+      "meaning": "tomato"
+    },
+    {
+      "lemma": "cebolla, n.",
+      "gender": "feminine",
+      "plural": "cebollas",
+      "meaning": "onion"
+    },
+    {
+      "lemma": "arroz, n.",
+      "gender": "masculine",
+      "plural": "arroces",
+      "meaning": "rice"
+    },
+    {
+      "lemma": "pasta, n.",
+      "gender": "feminine",
+      "plural": "pastas",
+      "meaning": "pasta"
+    },
+    {
+      "lemma": "azúcar, n.",
+      "gender": "masculine",
+      "plural": "azúcares",
+      "meaning": "sugar"
+    },
+    {
+      "lemma": "sal, n.",
+      "gender": "feminine",
+      "plural": "sales",
+      "meaning": "salt"
+    },
+    {
+      "lemma": "pimienta, n.",
+      "gender": "feminine",
+      "plural": "pimientas",
+      "meaning": "pepper"
+    },
+    {
+      "lemma": "aceite, n.",
+      "gender": "masculine",
+      "plural": "aceites",
+      "meaning": "oil"
+    },
+    {
+      "lemma": "postre, n.",
+      "gender": "masculine",
+      "plural": "postres",
+      "meaning": "dessert"
+    },
+    {
+      "lemma": "pastel, n.",
+      "gender": "masculine",
+      "plural": "pasteles",
+      "meaning": "cake"
+    },
+    {
+      "lemma": "chocolate, n.",
+      "gender": "masculine",
+      "plural": "chocolates",
+      "meaning": "chocolate"
+    },
+    {
+      "lemma": "animal, n.",
+      "gender": "masculine",
+      "plural": "animales",
+      "meaning": "animal"
+    },
+    {
+      "lemma": "perro, n.",
+      "gender": "masculine",
+      "plural": "perros",
+      "meaning": "dog"
+    },
+    {
+      "lemma": "gato, n.",
+      "gender": "masculine",
+      "plural": "gatos",
+      "meaning": "cat"
+    },
+    {
+      "lemma": "pájaro, n.",
+      "gender": "masculine",
+      "plural": "pájaros",
+      "meaning": "bird"
+    },
+    {
+      "lemma": "pez, n.",
+      "gender": "masculine",
+      "plural": "peces",
+      "meaning": "fish (living)"
+    },
+    {
+      "lemma": "caballo, n.",
+      "gender": "masculine",
+      "plural": "caballos",
+      "meaning": "horse"
+    },
+    {
+      "lemma": "vaca, n.",
+      "gender": "feminine",
+      "plural": "vacas",
+      "meaning": "cow"
+    },
+    {
+      "lemma": "cerdo, n.",
+      "gender": "masculine",
+      "plural": "cerdos",
+      "meaning": "pig"
+    },
+    {
+      "lemma": "ratón, n.",
+      "gender": "masculine",
+      "plural": "ratónes",
+      "meaning": "mouse"
+    },
+    {
+      "lemma": "león, n.",
+      "gender": "masculine",
+      "plural": "leónes",
+      "meaning": "lion"
+    },
+    {
+      "lemma": "elefante, n.",
+      "gender": "masculine",
+      "plural": "elefantes",
+      "meaning": "elephant"
+    },
+    {
+      "lemma": "cosa, n.",
+      "gender": "feminine",
+      "plural": "cosas",
+      "meaning": "thing"
+    },
+    {
+      "lemma": "nombre, n.",
+      "gender": "masculine",
+      "plural": "nombres",
+      "meaning": "name"
+    },
+    {
+      "lemma": "apellido, n.",
+      "gender": "masculine",
+      "plural": "apellidos",
+      "meaning": "surname"
+    },
+    {
+      "lemma": "edad, n.",
+      "gender": "feminine",
+      "plural": "edades",
+      "meaning": "age"
+    },
+    {
+      "lemma": "vida, n.",
+      "gender": "feminine",
+      "plural": "vidas",
+      "meaning": "life"
+    },
+    {
+      "lemma": "muerte, n.",
+      "gender": "feminine",
+      "plural": "muertes",
+      "meaning": "death"
+    },
+    {
+      "lemma": "amor, n.",
+      "gender": "masculine",
+      "plural": "amores",
+      "meaning": "love"
+    },
+    {
+      "lemma": "problema, n.",
+      "gender": "masculine",
+      "plural": "problemas",
+      "meaning": "problem"
+    },
+    {
+      "lemma": "idea, n.",
+      "gender": "feminine",
+      "plural": "ideas",
+      "meaning": "idea"
+    },
+    {
+      "lemma": "pregunta, n.",
+      "gender": "feminine",
+      "plural": "preguntas",
+      "meaning": "question"
+    },
+    {
+      "lemma": "respuesta, n.",
+      "gender": "feminine",
+      "plural": "respuestas",
+      "meaning": "answer"
+    },
+    {
+      "lemma": "palabra, n.",
+      "gender": "feminine",
+      "plural": "palabras",
+      "meaning": "word"
+    },
+    {
+      "lemma": "frase, n.",
+      "gender": "feminine",
+      "plural": "frases",
+      "meaning": "sentence"
+    },
+    {
+      "lemma": "idioma, n.",
+      "gender": "masculine",
+      "plural": "idiomas",
+      "meaning": "language"
+    },
+    {
+      "lemma": "dinero, n.",
+      "gender": "masculine",
+      "plural": "dineros",
+      "meaning": "money"
+    },
+    {
+      "lemma": "precio, n.",
+      "gender": "masculine",
+      "plural": "precios",
+      "meaning": "price"
+    },
+    {
+      "lemma": "regalo, n.",
+      "gender": "masculine",
+      "plural": "regalos",
+      "meaning": "gift"
+    },
+    {
+      "lemma": "fiesta, n.",
+      "gender": "feminine",
+      "plural": "fiestas",
+      "meaning": "party"
+    },
+    {
+      "lemma": "música, n.",
+      "gender": "feminine",
+      "plural": "músicas",
+      "meaning": "music"
+    },
+    {
+      "lemma": "arte, n.",
+      "gender": "masculine",
+      "plural": "artes",
+      "meaning": "art"
+    },
+    {
+      "lemma": "historia, n.",
+      "gender": "feminine",
+      "plural": "historias",
+      "meaning": "history/story"
+    },
+    {
+      "lemma": "color, n.",
+      "gender": "masculine",
+      "plural": "colores",
+      "meaning": "color"
+    },
+    {
+      "lemma": "dormitorio, n.",
+      "gender": "masculine",
+      "plural": "dormitorios",
+      "meaning": "bedroom"
+    },
+    {
+      "lemma": "foto, n.",
+      "gender": "feminine",
+      "plural": "fotos",
+      "meaning": "photo"
+    },
+    {
+      "lemma": "moto, n.",
+      "gender": "feminine",
+      "plural": "motos",
+      "meaning": "motorcycle"
+    },
+    {
+      "lemma": "radio, n.",
+      "gender": "feminine",
+      "plural": "radios",
+      "meaning": "radio"
+    },
+    {
+      "lemma": "águila, n.",
+      "gender": "feminine",
+      "plural": "águilas",
+      "meaning": "eagle"
+    },
+    {
+      "lemma": "aula, n.",
+      "gender": "feminine",
+      "plural": "aulas",
+      "meaning": "classroom"
+    },
+    {
+      "lemma": "hacha, n.",
+      "gender": "feminine",
+      "plural": "hachas",
+      "meaning": "axe"
+    },
+    {
+      "lemma": "hada, n.",
+      "gender": "feminine",
+      "plural": "hadas",
+      "meaning": "fairy"
+    },
+    {
+      "lemma": "nube, n.",
+      "gender": "feminine",
+      "plural": "nubes",
+      "meaning": "cloud"
+    },
+    {
+      "lemma": "rayo, n.",
+      "gender": "masculine",
+      "plural": "rayos",
+      "meaning": "lightning"
+    },
+    {
+      "lemma": "trueno, n.",
+      "gender": "masculine",
+      "plural": "truenos",
+      "meaning": "thunder"
+    },
+    {
+      "lemma": "tormenta, n.",
+      "gender": "feminine",
+      "plural": "tormentas",
+      "meaning": "storm"
+    },
+    {
+      "lemma": "niebla, n.",
+      "gender": "feminine",
+      "plural": "nieblas",
+      "meaning": "fog"
+    },
+    {
+      "lemma": "hielo, n.",
+      "gender": "masculine",
+      "plural": "hielos",
+      "meaning": "ice"
+    },
+    {
+      "lemma": "grado, n.",
+      "gender": "masculine",
+      "plural": "grados",
+      "meaning": "degree"
+    },
+    {
+      "lemma": "norte, n.",
+      "gender": "masculine",
+      "plural": "nortes",
+      "meaning": "north"
+    },
+    {
+      "lemma": "sur, n.",
+      "gender": "masculine",
+      "plural": "sures",
+      "meaning": "south"
+    },
+    {
+      "lemma": "este, n.",
+      "gender": "masculine",
+      "plural": "estes",
+      "meaning": "east"
+    },
+    {
+      "lemma": "oeste, n.",
+      "gender": "masculine",
+      "plural": "oestes",
+      "meaning": "west"
+    },
+    {
+      "lemma": "camino, n.",
+      "gender": "masculine",
+      "plural": "caminos",
+      "meaning": "path"
+    },
+    {
+      "lemma": "dirección, n.",
+      "gender": "feminine",
+      "plural": "direcciónes",
+      "meaning": "address/direction"
+    },
+    {
+      "lemma": "esquina, n.",
+      "gender": "feminine",
+      "plural": "esquinas",
+      "meaning": "corner"
+    },
+    {
+      "lemma": "semáforo, n.",
+      "gender": "masculine",
+      "plural": "semáforos",
+      "meaning": "traffic light"
+    },
+    {
+      "lemma": "paso, n.",
+      "gender": "masculine",
+      "plural": "pasos",
+      "meaning": "step"
+    },
+    {
+      "lemma": "acera, n.",
+      "gender": "feminine",
+      "plural": "aceras",
+      "meaning": "sidewalk"
+    },
+    {
+      "lemma": "carretera, n.",
+      "gender": "feminine",
+      "plural": "carreteras",
+      "meaning": "highway"
+    },
+    {
+      "lemma": "puente, n.",
+      "gender": "masculine",
+      "plural": "puentes",
+      "meaning": "bridge"
+    },
+    {
+      "lemma": "edificio, n.",
+      "gender": "masculine",
+      "plural": "edificios",
+      "meaning": "building"
+    },
+    {
+      "lemma": "rascacielos, n.",
+      "gender": "masculine",
+      "plural": "rascacieloses",
+      "meaning": "skyscraper"
+    },
+    {
+      "lemma": "torre, n.",
+      "gender": "feminine",
+      "plural": "torres",
+      "meaning": "tower"
+    },
+    {
+      "lemma": "iglesia, n.",
+      "gender": "feminine",
+      "plural": "iglesias",
+      "meaning": "church"
+    },
+    {
+      "lemma": "catedral, n.",
+      "gender": "feminine",
+      "plural": "catedrales",
+      "meaning": "cathedral"
+    },
+    {
+      "lemma": "castillo, n.",
+      "gender": "masculine",
+      "plural": "castillos",
+      "meaning": "castle"
+    },
+    {
+      "lemma": "palacio, n.",
+      "gender": "masculine",
+      "plural": "palacios",
+      "meaning": "palace"
+    },
+    {
+      "lemma": "museo, n.",
+      "gender": "masculine",
+      "plural": "museos",
+      "meaning": "museum"
+    },
+    {
+      "lemma": "zoo, n.",
+      "gender": "masculine",
+      "plural": "zoos",
+      "meaning": "zoo"
+    },
+    {
+      "lemma": "estadio, n.",
+      "gender": "masculine",
+      "plural": "estadios",
+      "meaning": "stadium"
+    },
+    {
+      "lemma": "piscina, n.",
+      "gender": "feminine",
+      "plural": "piscinas",
+      "meaning": "swimming pool"
+    },
+    {
+      "lemma": "gimnasio, n.",
+      "gender": "masculine",
+      "plural": "gimnasios",
+      "meaning": "gym"
+    },
+    {
+      "lemma": "oficina, n.",
+      "gender": "feminine",
+      "plural": "oficinas",
+      "meaning": "office"
+    },
+    {
+      "lemma": "fábrica, n.",
+      "gender": "feminine",
+      "plural": "fábricas",
+      "meaning": "factory"
+    },
+    {
+      "lemma": "empresa, n.",
+      "gender": "feminine",
+      "plural": "empresas",
+      "meaning": "company"
+    },
+    {
+      "lemma": "asiento, n.",
+      "gender": "masculine",
+      "plural": "asientos",
+      "meaning": "seat"
+    },
+    {
+      "lemma": "entrada, n.",
+      "gender": "feminine",
+      "plural": "entradas",
+      "meaning": "entrance"
+    },
+    {
+      "lemma": "salida, n.",
+      "gender": "feminine",
+      "plural": "salidas",
+      "meaning": "exit"
+    },
+    {
+      "lemma": "ascensor, n.",
+      "gender": "masculine",
+      "plural": "ascensores",
+      "meaning": "elevator"
+    },
+    {
+      "lemma": "escalera, n.",
+      "gender": "feminine",
+      "plural": "escaleras",
+      "meaning": "stairs"
+    },
+    {
+      "lemma": "tejado, n.",
+      "gender": "masculine",
+      "plural": "tejados",
+      "meaning": "roof"
+    },
+    {
+      "lemma": "chimenea, n.",
+      "gender": "feminine",
+      "plural": "chimeneas",
+      "meaning": "chimney"
+    },
+    {
+      "lemma": "balcón, n.",
+      "gender": "masculine",
+      "plural": "balcónes",
+      "meaning": "balcony"
+    },
+    {
+      "lemma": "terraza, n.",
+      "gender": "feminine",
+      "plural": "terrazas",
+      "meaning": "terrace"
+    },
+    {
+      "lemma": "sótano, n.",
+      "gender": "masculine",
+      "plural": "sótanos",
+      "meaning": "basement"
+    },
+    {
+      "lemma": "garaje, n.",
+      "gender": "masculine",
+      "plural": "garajes",
+      "meaning": "garage"
+    },
+    {
+      "lemma": "pasillo, n.",
+      "gender": "masculine",
+      "plural": "pasillos",
+      "meaning": "hallway"
+    },
+    {
+      "lemma": "mueble, n.",
+      "gender": "masculine",
+      "plural": "muebles",
+      "meaning": "furniture"
+    },
+    {
+      "lemma": "estantería, n.",
+      "gender": "feminine",
+      "plural": "estanterías",
+      "meaning": "shelf"
+    },
+    {
+      "lemma": "cajón, n.",
+      "gender": "masculine",
+      "plural": "cajónes",
+      "meaning": "drawer"
+    },
+    {
+      "lemma": "armario, n.",
+      "gender": "masculine",
+      "plural": "armarios",
+      "meaning": "wardrobe"
+    },
+    {
+      "lemma": "espejo, n.",
+      "gender": "masculine",
+      "plural": "espejos",
+      "meaning": "mirror"
+    },
+    {
+      "lemma": "cuadro, n.",
+      "gender": "masculine",
+      "plural": "cuadros",
+      "meaning": "painting"
+    },
+    {
+      "lemma": "alfombra, n.",
+      "gender": "feminine",
+      "plural": "alfombras",
+      "meaning": "carpet"
+    },
+    {
+      "lemma": "cortina, n.",
+      "gender": "feminine",
+      "plural": "cortinas",
+      "meaning": "curtain"
+    },
+    {
+      "lemma": "sábana, n.",
+      "gender": "feminine",
+      "plural": "sábanas",
+      "meaning": "sheet"
+    },
+    {
+      "lemma": "manta, n.",
+      "gender": "feminine",
+      "plural": "mantas",
+      "meaning": "blanket"
+    },
+    {
+      "lemma": "almohada, n.",
+      "gender": "feminine",
+      "plural": "almohadas",
+      "meaning": "pillow"
+    },
+    {
+      "lemma": "toalla, n.",
+      "gender": "feminine",
+      "plural": "toallas",
+      "meaning": "towel"
+    },
+    {
+      "lemma": "jabón, n.",
+      "gender": "masculine",
+      "plural": "jabónes",
+      "meaning": "soap"
+    },
+    {
+      "lemma": "champú, n.",
+      "gender": "masculine",
+      "plural": "champús",
+      "meaning": "shampoo"
+    },
+    {
+      "lemma": "peine, n.",
+      "gender": "masculine",
+      "plural": "peines",
+      "meaning": "comb"
+    },
+    {
+      "lemma": "cepillo, n.",
+      "gender": "masculine",
+      "plural": "cepillos",
+      "meaning": "brush"
+    },
+    {
+      "lemma": "maquillaje, n.",
+      "gender": "masculine",
+      "plural": "maquillajes",
+      "meaning": "makeup"
+    },
+    {
+      "lemma": "crema, n.",
+      "gender": "feminine",
+      "plural": "cremas",
+      "meaning": "cream"
+    },
+    {
+      "lemma": "perfume, n.",
+      "gender": "masculine",
+      "plural": "perfumes",
+      "meaning": "perfume"
+    },
+    {
+      "lemma": "afeitadora, n.",
+      "gender": "feminine",
+      "plural": "afeitadoras",
+      "meaning": "razor"
+    },
+    {
+      "lemma": "bañera, n.",
+      "gender": "feminine",
+      "plural": "bañeras",
+      "meaning": "bathtub"
+    },
+    {
+      "lemma": "ducha, n.",
+      "gender": "feminine",
+      "plural": "duchas",
+      "meaning": "shower"
+    },
+    {
+      "lemma": "lavabo, n.",
+      "gender": "masculine",
+      "plural": "lavabos",
+      "meaning": "sink"
+    },
+    {
+      "lemma": "inodoro, n.",
+      "gender": "masculine",
+      "plural": "inodoros",
+      "meaning": "toilet"
+    },
+    {
+      "lemma": "nevera, n.",
+      "gender": "feminine",
+      "plural": "neveras",
+      "meaning": "fridge"
+    },
+    {
+      "lemma": "frigorífico, n.",
+      "gender": "masculine",
+      "plural": "frigoríficos",
+      "meaning": "fridge"
+    },
+    {
+      "lemma": "horno, n.",
+      "gender": "masculine",
+      "plural": "hornos",
+      "meaning": "oven"
+    },
+    {
+      "lemma": "microondas, n.",
+      "gender": "masculine",
+      "plural": "microondases",
+      "meaning": "microwave"
+    },
+    {
+      "lemma": "lavadora, n.",
+      "gender": "feminine",
+      "plural": "lavadoras",
+      "meaning": "washing machine"
+    },
+    {
+      "lemma": "lavavajillas, n.",
+      "gender": "masculine",
+      "plural": "lavavajillases",
+      "meaning": "dishwasher"
+    },
+    {
+      "lemma": "plancha, n.",
+      "gender": "feminine",
+      "plural": "planchas",
+      "meaning": "iron"
+    },
+    {
+      "lemma": "aspiradora, n.",
+      "gender": "feminine",
+      "plural": "aspiradoras",
+      "meaning": "vacuum cleaner"
+    },
+    {
+      "lemma": "sartén, n.",
+      "gender": "feminine",
+      "plural": "sarténes",
+      "meaning": "frying pan"
+    },
+    {
+      "lemma": "olla, n.",
+      "gender": "feminine",
+      "plural": "ollas",
+      "meaning": "pot"
+    },
+    {
+      "lemma": "cazuela, n.",
+      "gender": "feminine",
+      "plural": "cazuelas",
+      "meaning": "casserole"
+    },
+    {
+      "lemma": "batidora, n.",
+      "gender": "feminine",
+      "plural": "batidoras",
+      "meaning": "blender"
+    },
+    {
+      "lemma": "tostadora, n.",
+      "gender": "feminine",
+      "plural": "tostadoras",
+      "meaning": "toaster"
+    },
+    {
+      "lemma": "cafetera, n.",
+      "gender": "feminine",
+      "plural": "cafeteras",
+      "meaning": "coffee maker"
+    },
+    {
+      "lemma": "tetera, n.",
+      "gender": "feminine",
+      "plural": "teteras",
+      "meaning": "teapot"
+    },
+    {
+      "lemma": "copa, n.",
+      "gender": "feminine",
+      "plural": "copas",
+      "meaning": "wine glass"
+    },
+    {
+      "lemma": "jarra, n.",
+      "gender": "feminine",
+      "plural": "jarras",
+      "meaning": "jug/pitcher"
+    },
+    {
+      "lemma": "servilleta, n.",
+      "gender": "feminine",
+      "plural": "servilletas",
+      "meaning": "napkin"
+    },
+    {
+      "lemma": "mantel, n.",
+      "gender": "masculine",
+      "plural": "manteles",
+      "meaning": "tablecloth"
+    },
+    {
+      "lemma": "bandeja, n.",
+      "gender": "feminine",
+      "plural": "bandejas",
+      "meaning": "tray"
+    },
+    {
+      "lemma": "cubo, n.",
+      "gender": "masculine",
+      "plural": "cubos",
+      "meaning": "bucket"
+    },
+    {
+      "lemma": "escoba, n.",
+      "gender": "feminine",
+      "plural": "escobas",
+      "meaning": "broom"
+    },
+    {
+      "lemma": "fregona, n.",
+      "gender": "feminine",
+      "plural": "fregonas",
+      "meaning": "mop"
+    },
+    {
+      "lemma": "basura, n.",
+      "gender": "feminine",
+      "plural": "basuras",
+      "meaning": "trash"
+    },
+    {
+      "lemma": "uva, n.",
+      "gender": "feminine",
+      "plural": "uvas",
+      "meaning": "grape"
+    },
+    {
+      "lemma": "melón, n.",
+      "gender": "masculine",
+      "plural": "melónes",
+      "meaning": "melon"
+    },
+    {
+      "lemma": "sandía, n.",
+      "gender": "feminine",
+      "plural": "sandías",
+      "meaning": "watermelon"
+    },
+    {
+      "lemma": "fresa, n.",
+      "gender": "feminine",
+      "plural": "fresas",
+      "meaning": "strawberry"
+    },
+    {
+      "lemma": "cereza, n.",
+      "gender": "feminine",
+      "plural": "cerezas",
+      "meaning": "cherry"
+    },
+    {
+      "lemma": "pera, n.",
+      "gender": "feminine",
+      "plural": "peras",
+      "meaning": "pear"
+    },
+    {
+      "lemma": "melocotón, n.",
+      "gender": "masculine",
+      "plural": "melocotónes",
+      "meaning": "peach"
+    },
+    {
+      "lemma": "piña, n.",
+      "gender": "feminine",
+      "plural": "piñas",
+      "meaning": "pineapple"
+    },
+    {
+      "lemma": "coco, n.",
+      "gender": "masculine",
+      "plural": "cocos",
+      "meaning": "coconut"
+    },
+    {
+      "lemma": "aguacate, n.",
+      "gender": "masculine",
+      "plural": "aguacates",
+      "meaning": "avocado"
+    },
+    {
+      "lemma": "mango, n.",
+      "gender": "masculine",
+      "plural": "mangos",
+      "meaning": "mango"
+    },
+    {
+      "lemma": "ciruela, n.",
+      "gender": "feminine",
+      "plural": "ciruelas",
+      "meaning": "plum"
+    },
+    {
+      "lemma": "lechuga, n.",
+      "gender": "feminine",
+      "plural": "lechugas",
+      "meaning": "lettuce"
+    },
+    {
+      "lemma": "zanahoria, n.",
+      "gender": "feminine",
+      "plural": "zanahorias",
+      "meaning": "carrot"
+    },
+    {
+      "lemma": "pepino, n.",
+      "gender": "masculine",
+      "plural": "pepinos",
+      "meaning": "cucumber"
+    },
+    {
+      "lemma": "pimiento, n.",
+      "gender": "masculine",
+      "plural": "pimientos",
+      "meaning": "pepper"
+    },
+    {
+      "lemma": "ajo, n.",
+      "gender": "masculine",
+      "plural": "ajos",
+      "meaning": "garlic"
+    },
+    {
+      "lemma": "perejil, n.",
+      "gender": "masculine",
+      "plural": "perejiles",
+      "meaning": "parsley"
+    },
+    {
+      "lemma": "maíz, n.",
+      "gender": "masculine",
+      "plural": "maíces",
+      "meaning": "corn"
+    },
+    {
+      "lemma": "champiñón, n.",
+      "gender": "masculine",
+      "plural": "champiñónes",
+      "meaning": "mushroom"
+    },
+    {
+      "lemma": "seta, n.",
+      "gender": "feminine",
+      "plural": "setas",
+      "meaning": "mushroom"
+    },
+    {
+      "lemma": "ternera, n.",
+      "gender": "feminine",
+      "plural": "terneras",
+      "meaning": "veal"
+    },
+    {
+      "lemma": "cordero, n.",
+      "gender": "masculine",
+      "plural": "corderos",
+      "meaning": "lamb"
+    },
+    {
+      "lemma": "pavo, n.",
+      "gender": "masculine",
+      "plural": "pavos",
+      "meaning": "turkey"
+    },
+    {
+      "lemma": "pato, n.",
+      "gender": "masculine",
+      "plural": "patos",
+      "meaning": "duck"
+    },
+    {
+      "lemma": "conejo, n.",
+      "gender": "masculine",
+      "plural": "conejos",
+      "meaning": "rabbit"
+    },
+    {
+      "lemma": "jamón, n.",
+      "gender": "masculine",
+      "plural": "jamónes",
+      "meaning": "ham"
+    },
+    {
+      "lemma": "chorizo, n.",
+      "gender": "masculine",
+      "plural": "chorizos",
+      "meaning": "sausage"
+    },
+    {
+      "lemma": "salchicha, n.",
+      "gender": "feminine",
+      "plural": "salchichas",
+      "meaning": "sausage"
+    },
+    {
+      "lemma": "marisco, n.",
+      "gender": "masculine",
+      "plural": "mariscos",
+      "meaning": "seafood"
+    },
+    {
+      "lemma": "gamba, n.",
+      "gender": "feminine",
+      "plural": "gambas",
+      "meaning": "shrimp"
+    },
+    {
+      "lemma": "langostino, n.",
+      "gender": "masculine",
+      "plural": "langostinos",
+      "meaning": "prawn"
+    },
+    {
+      "lemma": "atún, n.",
+      "gender": "masculine",
+      "plural": "atúnes",
+      "meaning": "tuna"
+    },
+    {
+      "lemma": "salmón, n.",
+      "gender": "masculine",
+      "plural": "salmónes",
+      "meaning": "salmon"
+    },
+    {
+      "lemma": "sardina, n.",
+      "gender": "feminine",
+      "plural": "sardinas",
+      "meaning": "sardine"
+    },
+    {
+      "lemma": "calamar, n.",
+      "gender": "masculine",
+      "plural": "calamares",
+      "meaning": "squid"
+    },
+    {
+      "lemma": "pulpo, n.",
+      "gender": "masculine",
+      "plural": "pulpos",
+      "meaning": "octopus"
+    },
+    {
+      "lemma": "vinagre, n.",
+      "gender": "masculine",
+      "plural": "vinagres",
+      "meaning": "vinegar"
+    },
+    {
+      "lemma": "harina, n.",
+      "gender": "feminine",
+      "plural": "harinas",
+      "meaning": "flour"
+    },
+    {
+      "lemma": "levadura, n.",
+      "gender": "feminine",
+      "plural": "levaduras",
+      "meaning": "yeast"
+    },
+    {
+      "lemma": "mantequilla, n.",
+      "gender": "feminine",
+      "plural": "mantequillas",
+      "meaning": "butter"
+    },
+    {
+      "lemma": "nata, n.",
+      "gender": "feminine",
+      "plural": "natas",
+      "meaning": "cream"
+    },
+    {
+      "lemma": "yogur, n.",
+      "gender": "masculine",
+      "plural": "yogures",
+      "meaning": "yogurt"
+    },
+    {
+      "lemma": "helado, n.",
+      "gender": "masculine",
+      "plural": "helados",
+      "meaning": "ice cream"
+    },
+    {
+      "lemma": "miel, n.",
+      "gender": "feminine",
+      "plural": "mieles",
+      "meaning": "honey"
+    },
+    {
+      "lemma": "mermelada, n.",
+      "gender": "feminine",
+      "plural": "mermeladas",
+      "meaning": "jam"
+    },
+    {
+      "lemma": "galleta, n.",
+      "gender": "feminine",
+      "plural": "galletas",
+      "meaning": "cookie"
+    },
+    {
+      "lemma": "magdalena, n.",
+      "gender": "feminine",
+      "plural": "magdalenas",
+      "meaning": "cupcake"
+    },
+    {
+      "lemma": "tarta, n.",
+      "gender": "feminine",
+      "plural": "tartas",
+      "meaning": "cake/pie"
+    },
+    {
+      "lemma": "dulce, n.",
+      "gender": "masculine",
+      "plural": "dulces",
+      "meaning": "candy"
+    },
+    {
+      "lemma": "chicle, n.",
+      "gender": "masculine",
+      "plural": "chicles",
+      "meaning": "gum"
+    },
+    {
+      "lemma": "traje, n.",
+      "gender": "masculine",
+      "plural": "trajes",
+      "meaning": "suit"
+    },
+    {
+      "lemma": "corbata, n.",
+      "gender": "feminine",
+      "plural": "corbatas",
+      "meaning": "tie"
+    },
+    {
+      "lemma": "cinturón, n.",
+      "gender": "masculine",
+      "plural": "cinturónes",
+      "meaning": "belt"
+    },
+    {
+      "lemma": "vaqueros, n.",
+      "gender": "masculine",
+      "plural": "vaqueroses",
+      "meaning": "jeans"
+    },
+    {
+      "lemma": "bañador, n.",
+      "gender": "masculine",
+      "plural": "bañadores",
+      "meaning": "swimsuit"
+    },
+    {
+      "lemma": "bikini, n.",
+      "gender": "masculine",
+      "plural": "bikinis",
+      "meaning": "bikini"
+    },
+    {
+      "lemma": "pijama, n.",
+      "gender": "masculine",
+      "plural": "pijamas",
+      "meaning": "pajamas"
+    },
+    {
+      "lemma": "impermeable, n.",
+      "gender": "masculine",
+      "plural": "impermeables",
+      "meaning": "raincoat"
+    },
+    {
+      "lemma": "paraguas, n.",
+      "gender": "masculine",
+      "plural": "paraguases",
+      "meaning": "umbrella"
+    },
+    {
+      "lemma": "joya, n.",
+      "gender": "feminine",
+      "plural": "joyas",
+      "meaning": "jewel"
+    },
+    {
+      "lemma": "collar, n.",
+      "gender": "masculine",
+      "plural": "collares",
+      "meaning": "necklace"
+    },
+    {
+      "lemma": "pulsera, n.",
+      "gender": "feminine",
+      "plural": "pulseras",
+      "meaning": "bracelet"
+    },
+    {
+      "lemma": "pendiente, n.",
+      "gender": "masculine",
+      "plural": "pendientes",
+      "meaning": "earring"
+    },
+    {
+      "lemma": "toro, n.",
+      "gender": "masculine",
+      "plural": "toros",
+      "meaning": "bull"
+    },
+    {
+      "lemma": "oveja, n.",
+      "gender": "feminine",
+      "plural": "ovejas",
+      "meaning": "sheep"
+    },
+    {
+      "lemma": "cabra, n.",
+      "gender": "feminine",
+      "plural": "cabras",
+      "meaning": "goat"
+    },
+    {
+      "lemma": "burro, n.",
+      "gender": "masculine",
+      "plural": "burros",
+      "meaning": "donkey"
+    },
+    {
+      "lemma": "mula, n.",
+      "gender": "feminine",
+      "plural": "mulas",
+      "meaning": "mule"
+    },
+    {
+      "lemma": "lobo, n.",
+      "gender": "masculine",
+      "plural": "lobos",
+      "meaning": "wolf"
+    },
+    {
+      "lemma": "oso, n.",
+      "gender": "masculine",
+      "plural": "osos",
+      "meaning": "bear"
+    },
+    {
+      "lemma": "zorro, n.",
+      "gender": "masculine",
+      "plural": "zorros",
+      "meaning": "fox"
+    },
+    {
+      "lemma": "mono, n.",
+      "gender": "masculine",
+      "plural": "monos",
+      "meaning": "monkey"
+    },
+    {
+      "lemma": "tigre, n.",
+      "gender": "masculine",
+      "plural": "tigres",
+      "meaning": "tiger"
+    },
+    {
+      "lemma": "jirafa, n.",
+      "gender": "feminine",
+      "plural": "jirafas",
+      "meaning": "giraffe"
+    },
+    {
+      "lemma": "serpiente, n.",
+      "gender": "feminine",
+      "plural": "serpientes",
+      "meaning": "snake"
+    },
+    {
+      "lemma": "tortuga, n.",
+      "gender": "feminine",
+      "plural": "tortugas",
+      "meaning": "turtle"
+    },
+    {
+      "lemma": "rana, n.",
+      "gender": "feminine",
+      "plural": "ranas",
+      "meaning": "frog"
+    },
+    {
+      "lemma": "araña, n.",
+      "gender": "feminine",
+      "plural": "arañas",
+      "meaning": "spider"
+    },
+    {
+      "lemma": "mosca, n.",
+      "gender": "feminine",
+      "plural": "moscas",
+      "meaning": "fly"
+    },
+    {
+      "lemma": "mosquito, n.",
+      "gender": "masculine",
+      "plural": "mosquitos",
+      "meaning": "mosquito"
+    },
+    {
+      "lemma": "abeja, n.",
+      "gender": "feminine",
+      "plural": "abejas",
+      "meaning": "bee"
+    },
+    {
+      "lemma": "hormiga, n.",
+      "gender": "feminine",
+      "plural": "hormigas",
+      "meaning": "ant"
+    },
+    {
+      "lemma": "mariposa, n.",
+      "gender": "feminine",
+      "plural": "mariposas",
+      "meaning": "butterfly"
+    },
+    {
+      "lemma": "gusano, n.",
+      "gender": "masculine",
+      "plural": "gusanos",
+      "meaning": "worm"
+    },
+    {
+      "lemma": "caracol, n.",
+      "gender": "masculine",
+      "plural": "caracoles",
+      "meaning": "snail"
+    },
+    {
+      "lemma": "pizarra, n.",
+      "gender": "feminine",
+      "plural": "pizarras",
+      "meaning": "blackboard"
+    },
+    {
+      "lemma": "tiza, n.",
+      "gender": "feminine",
+      "plural": "tizas",
+      "meaning": "chalk"
+    },
+    {
+      "lemma": "pupitre, n.",
+      "gender": "masculine",
+      "plural": "pupitres",
+      "meaning": "desk"
+    },
+    {
+      "lemma": "cuaderno, n.",
+      "gender": "masculine",
+      "plural": "cuadernos",
+      "meaning": "notebook"
+    },
+    {
+      "lemma": "mochila, n.",
+      "gender": "feminine",
+      "plural": "mochilas",
+      "meaning": "backpack"
+    },
+    {
+      "lemma": "regla, n.",
+      "gender": "feminine",
+      "plural": "reglas",
+      "meaning": "ruler"
+    },
+    {
+      "lemma": "goma, n.",
+      "gender": "feminine",
+      "plural": "gomas",
+      "meaning": "eraser"
+    },
+    {
+      "lemma": "tijeras, n.",
+      "gender": "feminine",
+      "plural": "tijerases",
+      "meaning": "scissors"
+    },
+    {
+      "lemma": "lección, n.",
+      "gender": "feminine",
+      "plural": "lecciónes",
+      "meaning": "lesson"
+    },
+    {
+      "lemma": "curso, n.",
+      "gender": "masculine",
+      "plural": "cursos",
+      "meaning": "course"
+    },
+    {
+      "lemma": "nota, n.",
+      "gender": "feminine",
+      "plural": "notas",
+      "meaning": "grade/note"
+    },
+    {
+      "lemma": "examen, n.",
+      "gender": "masculine",
+      "plural": "examenes",
+      "meaning": "exam"
+    },
+    {
+      "lemma": "prueba, n.",
+      "gender": "feminine",
+      "plural": "pruebas",
+      "meaning": "test"
+    },
+    {
+      "lemma": "vacaciones, n.",
+      "gender": "feminine",
+      "plural": "vacacioneses",
+      "meaning": "vacation"
+    },
+    {
+      "lemma": "título, n.",
+      "gender": "masculine",
+      "plural": "títulos",
+      "meaning": "degree/title"
+    },
+    {
+      "lemma": "dolor, n.",
+      "gender": "masculine",
+      "plural": "dolores",
+      "meaning": "pain"
+    },
+    {
+      "lemma": "fiebre, n.",
+      "gender": "feminine",
+      "plural": "fiebres",
+      "meaning": "fever"
+    },
+    {
+      "lemma": "gripe, n.",
+      "gender": "feminine",
+      "plural": "gripes",
+      "meaning": "flu"
+    },
+    {
+      "lemma": "tos, n.",
+      "gender": "feminine",
+      "plural": "toses",
+      "meaning": "cough"
+    },
+    {
+      "lemma": "herida, n.",
+      "gender": "feminine",
+      "plural": "heridas",
+      "meaning": "wound"
+    },
+    {
+      "lemma": "pastilla, n.",
+      "gender": "feminine",
+      "plural": "pastillas",
+      "meaning": "pill"
+    },
+    {
+      "lemma": "medicina, n.",
+      "gender": "feminine",
+      "plural": "medicinas",
+      "meaning": "medicine"
+    },
+    {
+      "lemma": "receta, n.",
+      "gender": "feminine",
+      "plural": "recetas",
+      "meaning": "prescription/recipe"
+    },
+    {
+      "lemma": "salud, n.",
+      "gender": "feminine",
+      "plural": "saludes",
+      "meaning": "health"
+    },
+    {
+      "lemma": "suerte, n.",
+      "gender": "feminine",
+      "plural": "suertes",
+      "meaning": "luck"
+    },
+    {
+      "lemma": "verdad, n.",
+      "gender": "feminine",
+      "plural": "verdades",
+      "meaning": "truth"
+    },
+    {
+      "lemma": "mentira, n.",
+      "gender": "feminine",
+      "plural": "mentiras",
+      "meaning": "lie"
+    },
+    {
+      "lemma": "razón, n.",
+      "gender": "feminine",
+      "plural": "razónes",
+      "meaning": "reason"
+    },
+    {
+      "lemma": "culpa, n.",
+      "gender": "feminine",
+      "plural": "culpas",
+      "meaning": "fault/guilt"
+    },
+    {
+      "lemma": "miedo, n.",
+      "gender": "masculine",
+      "plural": "miedos",
+      "meaning": "fear"
+    },
+    {
+      "lemma": "sueño, n.",
+      "gender": "masculine",
+      "plural": "sueños",
+      "meaning": "dream/sleep"
+    },
+    {
+      "lemma": "hambre, n.",
+      "gender": "feminine",
+      "plural": "hambres",
+      "meaning": "hunger"
+    },
+    {
+      "lemma": "sed, n.",
+      "gender": "feminine",
+      "plural": "sedes",
+      "meaning": "thirst"
+    },
+    {
+      "lemma": "calor, n.",
+      "gender": "masculine",
+      "plural": "calores",
+      "meaning": "heat"
+    },
+    {
+      "lemma": "frío, n.",
+      "gender": "masculine",
+      "plural": "fríos",
+      "meaning": "cold"
+    },
+    {
+      "lemma": "prisa, n.",
+      "gender": "feminine",
+      "plural": "prisas",
+      "meaning": "hurry"
+    },
+    {
+      "lemma": "cuidado, n.",
+      "gender": "masculine",
+      "plural": "cuidados",
+      "meaning": "care"
+    },
+    {
+      "lemma": "peligro, n.",
+      "gender": "masculine",
+      "plural": "peligros",
+      "meaning": "danger"
+    },
+    {
+      "lemma": "ayuda, n.",
+      "gender": "feminine",
+      "plural": "ayudas",
+      "meaning": "help"
+    },
+    {
+      "lemma": "favor, n.",
+      "gender": "masculine",
+      "plural": "favores",
+      "meaning": "favor"
+    },
+    {
+      "lemma": "permiso, n.",
+      "gender": "masculine",
+      "plural": "permisos",
+      "meaning": "permission"
+    },
+    {
+      "lemma": "orden, n.",
+      "gender": "feminine",
+      "plural": "ordenes",
+      "meaning": "order"
+    },
+    {
+      "lemma": "paz, n.",
+      "gender": "feminine",
+      "plural": "paces",
+      "meaning": "peace"
+    },
+    {
+      "lemma": "guerra, n.",
+      "gender": "feminine",
+      "plural": "guerras",
+      "meaning": "war"
+    },
+    {
+      "lemma": "violencia, n.",
+      "gender": "feminine",
+      "plural": "violencias",
+      "meaning": "violence"
+    },
+    {
+      "lemma": "política, n.",
+      "gender": "feminine",
+      "plural": "políticas",
+      "meaning": "politics"
+    },
+    {
+      "lemma": "gobierno, n.",
+      "gender": "masculine",
+      "plural": "gobiernos",
+      "meaning": "government"
+    },
+    {
+      "lemma": "ley, n.",
+      "gender": "feminine",
+      "plural": "leyes",
+      "meaning": "law"
+    },
+    {
+      "lemma": "derecho, n.",
+      "gender": "masculine",
+      "plural": "derechos",
+      "meaning": "right"
+    },
+    {
+      "lemma": "sociedad, n.",
+      "gender": "feminine",
+      "plural": "sociedades",
+      "meaning": "society"
+    },
+    {
+      "lemma": "cultura, n.",
+      "gender": "feminine",
+      "plural": "culturas",
+      "meaning": "culture"
+    },
+    {
+      "lemma": "educación, n.",
+      "gender": "feminine",
+      "plural": "educaciónes",
+      "meaning": "education"
+    },
+    {
+      "lemma": "ciencia, n.",
+      "gender": "feminine",
+      "plural": "ciencias",
+      "meaning": "science"
+    },
+    {
+      "lemma": "tecnología, n.",
+      "gender": "feminine",
+      "plural": "tecnologías",
+      "meaning": "technology"
+    },
+    {
+      "lemma": "internet, n.",
+      "gender": "masculine",
+      "plural": "internetes",
+      "meaning": "internet"
+    },
+    {
+      "lemma": "web, n.",
+      "gender": "feminine",
+      "plural": "webes",
+      "meaning": "web"
+    },
+    {
+      "lemma": "correo, n.",
+      "gender": "masculine",
+      "plural": "correos",
+      "meaning": "mail"
+    },
+    {
+      "lemma": "carta, n.",
+      "gender": "feminine",
+      "plural": "cartas",
+      "meaning": "letter"
+    },
+    {
+      "lemma": "sobre, n.",
+      "gender": "masculine",
+      "plural": "sobres",
+      "meaning": "envelope"
+    },
+    {
+      "lemma": "sello, n.",
+      "gender": "masculine",
+      "plural": "sellos",
+      "meaning": "stamp"
+    },
+    {
+      "lemma": "paquete, n.",
+      "gender": "masculine",
+      "plural": "paquetes",
+      "meaning": "package"
+    },
+    {
+      "lemma": "noticia, n.",
+      "gender": "feminine",
+      "plural": "noticias",
+      "meaning": "news"
+    },
+    {
+      "lemma": "periódico, n.",
+      "gender": "masculine",
+      "plural": "periódicos",
+      "meaning": "newspaper"
+    },
+    {
+      "lemma": "revista, n.",
+      "gender": "feminine",
+      "plural": "revistas",
+      "meaning": "magazine"
+    },
+    {
+      "lemma": "programa, n.",
+      "gender": "masculine",
+      "plural": "programas",
+      "meaning": "program"
+    },
+    {
+      "lemma": "película, n.",
+      "gender": "feminine",
+      "plural": "películas",
+      "meaning": "movie"
+    },
+    {
+      "lemma": "canción, n.",
+      "gender": "feminine",
+      "plural": "canciónes",
+      "meaning": "song"
+    },
+    {
+      "lemma": "deporte, n.",
+      "gender": "masculine",
+      "plural": "deportes",
+      "meaning": "sport"
+    },
+    {
+      "lemma": "fútbol, n.",
+      "gender": "masculine",
+      "plural": "fútboles",
+      "meaning": "soccer"
+    },
+    {
+      "lemma": "baloncesto, n.",
+      "gender": "masculine",
+      "plural": "baloncestos",
+      "meaning": "basketball"
+    },
+    {
+      "lemma": "tenis, n.",
+      "gender": "masculine",
+      "plural": "tenises",
+      "meaning": "tennis"
+    },
+    {
+      "lemma": "juego, n.",
+      "gender": "masculine",
+      "plural": "juegos",
+      "meaning": "game"
+    },
+    {
+      "lemma": "juguete, n.",
+      "gender": "masculine",
+      "plural": "juguetes",
+      "meaning": "toy"
     }
   ],
   "adjectives": [
@@ -1288,6 +8554,1266 @@
         "masculine": "difícil",
         "feminine": "difícil",
         "plural": "difíciles"
+      }
+    },
+    {
+      "lemma": "rojo, adj.",
+      "meaning": "red",
+      "forms": {
+        "masculine": "rojo",
+        "feminine": "roja",
+        "plural": "rojos/rojas"
+      }
+    },
+    {
+      "lemma": "azul, adj.",
+      "meaning": "blue",
+      "forms": {
+        "masculine": "azul",
+        "feminine": "azul",
+        "plural": "azules"
+      }
+    },
+    {
+      "lemma": "verde, adj.",
+      "meaning": "green",
+      "forms": {
+        "masculine": "verde",
+        "feminine": "verde",
+        "plural": "verdes"
+      }
+    },
+    {
+      "lemma": "amarillo, adj.",
+      "meaning": "yellow",
+      "forms": {
+        "masculine": "amarillo",
+        "feminine": "amarilla",
+        "plural": "amarillos/amarillas"
+      }
+    },
+    {
+      "lemma": "negro, adj.",
+      "meaning": "black",
+      "forms": {
+        "masculine": "negro",
+        "feminine": "negra",
+        "plural": "negros/negras"
+      }
+    },
+    {
+      "lemma": "blanco, adj.",
+      "meaning": "white",
+      "forms": {
+        "masculine": "blanco",
+        "feminine": "blanca",
+        "plural": "blancos/blancas"
+      }
+    },
+    {
+      "lemma": "gris, adj.",
+      "meaning": "gray",
+      "forms": {
+        "masculine": "gris",
+        "feminine": "gris",
+        "plural": "grises"
+      }
+    },
+    {
+      "lemma": "marrón, adj.",
+      "meaning": "brown",
+      "forms": {
+        "masculine": "marrón",
+        "feminine": "marrón",
+        "plural": "marrónes"
+      }
+    },
+    {
+      "lemma": "rosa, adj.",
+      "meaning": "pink",
+      "forms": {
+        "masculine": "rosa",
+        "feminine": "rosa",
+        "plural": "rosaes"
+      }
+    },
+    {
+      "lemma": "naranja, adj.",
+      "meaning": "orange",
+      "forms": {
+        "masculine": "naranja",
+        "feminine": "naranja",
+        "plural": "naranjaes"
+      }
+    },
+    {
+      "lemma": "violeta, adj.",
+      "meaning": "violet",
+      "forms": {
+        "masculine": "violeta",
+        "feminine": "violeta",
+        "plural": "violetaes"
+      }
+    },
+    {
+      "lemma": "oscuro, adj.",
+      "meaning": "dark",
+      "forms": {
+        "masculine": "oscuro",
+        "feminine": "oscura",
+        "plural": "oscuros/oscuras"
+      }
+    },
+    {
+      "lemma": "claro, adj.",
+      "meaning": "light",
+      "forms": {
+        "masculine": "claro",
+        "feminine": "clara",
+        "plural": "claros/claras"
+      }
+    },
+    {
+      "lemma": "alto, adj.",
+      "meaning": "tall/high",
+      "forms": {
+        "masculine": "alto",
+        "feminine": "alta",
+        "plural": "altos/altas"
+      }
+    },
+    {
+      "lemma": "bajo, adj.",
+      "meaning": "short/low",
+      "forms": {
+        "masculine": "bajo",
+        "feminine": "baja",
+        "plural": "bajos/bajas"
+      }
+    },
+    {
+      "lemma": "largo, adj.",
+      "meaning": "long",
+      "forms": {
+        "masculine": "largo",
+        "feminine": "larga",
+        "plural": "largos/largas"
+      }
+    },
+    {
+      "lemma": "corto, adj.",
+      "meaning": "short",
+      "forms": {
+        "masculine": "corto",
+        "feminine": "corta",
+        "plural": "cortos/cortas"
+      }
+    },
+    {
+      "lemma": "gordo, adj.",
+      "meaning": "fat",
+      "forms": {
+        "masculine": "gordo",
+        "feminine": "gorda",
+        "plural": "gordos/gordas"
+      }
+    },
+    {
+      "lemma": "delgado, adj.",
+      "meaning": "thin",
+      "forms": {
+        "masculine": "delgado",
+        "feminine": "delgada",
+        "plural": "delgados/delgadas"
+      }
+    },
+    {
+      "lemma": "ancho, adj.",
+      "meaning": "wide",
+      "forms": {
+        "masculine": "ancho",
+        "feminine": "ancha",
+        "plural": "anchos/anchas"
+      }
+    },
+    {
+      "lemma": "estrecho, adj.",
+      "meaning": "narrow",
+      "forms": {
+        "masculine": "estrecho",
+        "feminine": "estrecha",
+        "plural": "estrechos/estrechas"
+      }
+    },
+    {
+      "lemma": "joven, adj.",
+      "meaning": "young",
+      "forms": {
+        "masculine": "joven",
+        "feminine": "joven",
+        "plural": "jovenes"
+      }
+    },
+    {
+      "lemma": "bonito, adj.",
+      "meaning": "beautiful",
+      "forms": {
+        "masculine": "bonito",
+        "feminine": "bonita",
+        "plural": "bonitos/bonitas"
+      }
+    },
+    {
+      "lemma": "feo, adj.",
+      "meaning": "ugly",
+      "forms": {
+        "masculine": "feo",
+        "feminine": "fea",
+        "plural": "feos/feas"
+      }
+    },
+    {
+      "lemma": "guapo, adj.",
+      "meaning": "handsome",
+      "forms": {
+        "masculine": "guapo",
+        "feminine": "guapa",
+        "plural": "guapos/guapas"
+      }
+    },
+    {
+      "lemma": "limpio, adj.",
+      "meaning": "clean",
+      "forms": {
+        "masculine": "limpio",
+        "feminine": "limpia",
+        "plural": "limpios/limpias"
+      }
+    },
+    {
+      "lemma": "sucio, adj.",
+      "meaning": "dirty",
+      "forms": {
+        "masculine": "sucio",
+        "feminine": "sucia",
+        "plural": "sucios/sucias"
+      }
+    },
+    {
+      "lemma": "rico, adj.",
+      "meaning": "rich/tasty",
+      "forms": {
+        "masculine": "rico",
+        "feminine": "rica",
+        "plural": "ricos/ricas"
+      }
+    },
+    {
+      "lemma": "pobre, adj.",
+      "meaning": "poor",
+      "forms": {
+        "masculine": "pobre",
+        "feminine": "pobre",
+        "plural": "pobres"
+      }
+    },
+    {
+      "lemma": "caro, adj.",
+      "meaning": "expensive",
+      "forms": {
+        "masculine": "caro",
+        "feminine": "cara",
+        "plural": "caros/caras"
+      }
+    },
+    {
+      "lemma": "barato, adj.",
+      "meaning": "cheap",
+      "forms": {
+        "masculine": "barato",
+        "feminine": "barata",
+        "plural": "baratos/baratas"
+      }
+    },
+    {
+      "lemma": "fuerte, adj.",
+      "meaning": "strong",
+      "forms": {
+        "masculine": "fuerte",
+        "feminine": "fuerte",
+        "plural": "fuertes"
+      }
+    },
+    {
+      "lemma": "débil, adj.",
+      "meaning": "weak",
+      "forms": {
+        "masculine": "débil",
+        "feminine": "débil",
+        "plural": "débiles"
+      }
+    },
+    {
+      "lemma": "rápido, adj.",
+      "meaning": "fast",
+      "forms": {
+        "masculine": "rápido",
+        "feminine": "rápida",
+        "plural": "rápidos/rápidas"
+      }
+    },
+    {
+      "lemma": "lento, adj.",
+      "meaning": "slow",
+      "forms": {
+        "masculine": "lento",
+        "feminine": "lenta",
+        "plural": "lentos/lentas"
+      }
+    },
+    {
+      "lemma": "lleno, adj.",
+      "meaning": "full",
+      "forms": {
+        "masculine": "lleno",
+        "feminine": "llena",
+        "plural": "llenos/llenas"
+      }
+    },
+    {
+      "lemma": "vacío, adj.",
+      "meaning": "empty",
+      "forms": {
+        "masculine": "vacío",
+        "feminine": "vacía",
+        "plural": "vacíos/vacías"
+      }
+    },
+    {
+      "lemma": "abierto, adj.",
+      "meaning": "open",
+      "forms": {
+        "masculine": "abierto",
+        "feminine": "abierta",
+        "plural": "abiertos/abiertas"
+      }
+    },
+    {
+      "lemma": "cerrado, adj.",
+      "meaning": "closed",
+      "forms": {
+        "masculine": "cerrado",
+        "feminine": "cerrada",
+        "plural": "cerrados/cerradas"
+      }
+    },
+    {
+      "lemma": "caliente, adj.",
+      "meaning": "hot",
+      "forms": {
+        "masculine": "caliente",
+        "feminine": "caliente",
+        "plural": "calientes"
+      }
+    },
+    {
+      "lemma": "frío, adj.",
+      "meaning": "cold",
+      "forms": {
+        "masculine": "frío",
+        "feminine": "fría",
+        "plural": "fríos/frías"
+      }
+    },
+    {
+      "lemma": "dulce, adj.",
+      "meaning": "sweet",
+      "forms": {
+        "masculine": "dulce",
+        "feminine": "dulce",
+        "plural": "dulces"
+      }
+    },
+    {
+      "lemma": "salado, adj.",
+      "meaning": "salty",
+      "forms": {
+        "masculine": "salado",
+        "feminine": "salada",
+        "plural": "salados/saladas"
+      }
+    },
+    {
+      "lemma": "picante, adj.",
+      "meaning": "spicy",
+      "forms": {
+        "masculine": "picante",
+        "feminine": "picante",
+        "plural": "picantes"
+      }
+    },
+    {
+      "lemma": "contento, adj.",
+      "meaning": "content/happy",
+      "forms": {
+        "masculine": "contento",
+        "feminine": "contenta",
+        "plural": "contentos/contentas"
+      }
+    },
+    {
+      "lemma": "enfadado, adj.",
+      "meaning": "angry",
+      "forms": {
+        "masculine": "enfadado",
+        "feminine": "enfadada",
+        "plural": "enfadados/enfadadas"
+      }
+    },
+    {
+      "lemma": "cansado, adj.",
+      "meaning": "tired",
+      "forms": {
+        "masculine": "cansado",
+        "feminine": "cansada",
+        "plural": "cansados/cansadas"
+      }
+    },
+    {
+      "lemma": "enfermo, adj.",
+      "meaning": "sick",
+      "forms": {
+        "masculine": "enfermo",
+        "feminine": "enferma",
+        "plural": "enfermos/enfermas"
+      }
+    },
+    {
+      "lemma": "nervioso, adj.",
+      "meaning": "nervous",
+      "forms": {
+        "masculine": "nervioso",
+        "feminine": "nerviosa",
+        "plural": "nerviosos/nerviosas"
+      }
+    },
+    {
+      "lemma": "tranquilo, adj.",
+      "meaning": "calm",
+      "forms": {
+        "masculine": "tranquilo",
+        "feminine": "tranquila",
+        "plural": "tranquilos/tranquilas"
+      }
+    },
+    {
+      "lemma": "aburrido, adj.",
+      "meaning": "bored/boring",
+      "forms": {
+        "masculine": "aburrido",
+        "feminine": "aburrida",
+        "plural": "aburridos/aburridas"
+      }
+    },
+    {
+      "lemma": "divertido, adj.",
+      "meaning": "fun",
+      "forms": {
+        "masculine": "divertido",
+        "feminine": "divertida",
+        "plural": "divertidos/divertidas"
+      }
+    },
+    {
+      "lemma": "interesante, adj.",
+      "meaning": "interesting",
+      "forms": {
+        "masculine": "interesante",
+        "feminine": "interesante",
+        "plural": "interesantes"
+      }
+    },
+    {
+      "lemma": "importante, adj.",
+      "meaning": "important",
+      "forms": {
+        "masculine": "importante",
+        "feminine": "importante",
+        "plural": "importantes"
+      }
+    },
+    {
+      "lemma": "inteligente, adj.",
+      "meaning": "intelligent",
+      "forms": {
+        "masculine": "inteligente",
+        "feminine": "inteligente",
+        "plural": "inteligentes"
+      }
+    },
+    {
+      "lemma": "tonto, adj.",
+      "meaning": "silly/dumb",
+      "forms": {
+        "masculine": "tonto",
+        "feminine": "tonta",
+        "plural": "tontos/tontas"
+      }
+    },
+    {
+      "lemma": "amable, adj.",
+      "meaning": "kind",
+      "forms": {
+        "masculine": "amable",
+        "feminine": "amable",
+        "plural": "amables"
+      }
+    },
+    {
+      "lemma": "simpático, adj.",
+      "meaning": "nice",
+      "forms": {
+        "masculine": "simpático",
+        "feminine": "simpática",
+        "plural": "simpáticos/simpáticas"
+      }
+    },
+    {
+      "lemma": "antipático, adj.",
+      "meaning": "unpleasant",
+      "forms": {
+        "masculine": "antipático",
+        "feminine": "antipática",
+        "plural": "antipáticos/antipáticas"
+      }
+    },
+    {
+      "lemma": "tímido, adj.",
+      "meaning": "shy",
+      "forms": {
+        "masculine": "tímido",
+        "feminine": "tímida",
+        "plural": "tímidos/tímidas"
+      }
+    },
+    {
+      "lemma": "loco, adj.",
+      "meaning": "crazy",
+      "forms": {
+        "masculine": "loco",
+        "feminine": "loca",
+        "plural": "locos/locas"
+      }
+    },
+    {
+      "lemma": "primero, adj.",
+      "meaning": "first",
+      "forms": {
+        "masculine": "primero",
+        "feminine": "primera",
+        "plural": "primeros/primeras"
+      }
+    },
+    {
+      "lemma": "segundo, adj.",
+      "meaning": "second",
+      "forms": {
+        "masculine": "segundo",
+        "feminine": "segunda",
+        "plural": "segundos/segundas"
+      }
+    },
+    {
+      "lemma": "último, adj.",
+      "meaning": "last",
+      "forms": {
+        "masculine": "último",
+        "feminine": "última",
+        "plural": "últimos/últimas"
+      }
+    },
+    {
+      "lemma": "mismo, adj.",
+      "meaning": "same",
+      "forms": {
+        "masculine": "mismo",
+        "feminine": "misma",
+        "plural": "mismos/mismas"
+      }
+    },
+    {
+      "lemma": "otro, adj.",
+      "meaning": "other",
+      "forms": {
+        "masculine": "otro",
+        "feminine": "otra",
+        "plural": "otros/otras"
+      }
+    },
+    {
+      "lemma": "todo, adj.",
+      "meaning": "all",
+      "forms": {
+        "masculine": "todo",
+        "feminine": "toda",
+        "plural": "todos/todas"
+      }
+    },
+    {
+      "lemma": "mucho, adj.",
+      "meaning": "much/many",
+      "forms": {
+        "masculine": "mucho",
+        "feminine": "mucha",
+        "plural": "muchos/muchas"
+      }
+    },
+    {
+      "lemma": "poco, adj.",
+      "meaning": "little/few",
+      "forms": {
+        "masculine": "poco",
+        "feminine": "poca",
+        "plural": "pocos/pocas"
+      }
+    },
+    {
+      "lemma": "posible, adj.",
+      "meaning": "possible",
+      "forms": {
+        "masculine": "posible",
+        "feminine": "posible",
+        "plural": "posibles"
+      }
+    },
+    {
+      "lemma": "imposible, adj.",
+      "meaning": "impossible",
+      "forms": {
+        "masculine": "imposible",
+        "feminine": "imposible",
+        "plural": "imposibles"
+      }
+    },
+    {
+      "lemma": "real, adj.",
+      "meaning": "real",
+      "forms": {
+        "masculine": "real",
+        "feminine": "real",
+        "plural": "reales"
+      }
+    },
+    {
+      "lemma": "falso, adj.",
+      "meaning": "false",
+      "forms": {
+        "masculine": "falso",
+        "feminine": "falsa",
+        "plural": "falsos/falsas"
+      }
+    },
+    {
+      "lemma": "mejor, adj.",
+      "meaning": "better",
+      "forms": {
+        "masculine": "mejor",
+        "feminine": "mejor",
+        "plural": "mejores"
+      }
+    },
+    {
+      "lemma": "peor, adj.",
+      "meaning": "worse",
+      "forms": {
+        "masculine": "peor",
+        "feminine": "peor",
+        "plural": "peores"
+      }
+    },
+    {
+      "lemma": "amargo, adj.",
+      "meaning": "bitter",
+      "forms": {
+        "masculine": "amargo",
+        "feminine": "amarga",
+        "plural": "amargos/amargas"
+      }
+    },
+    {
+      "lemma": "ácido, adj.",
+      "meaning": "sour",
+      "forms": {
+        "masculine": "ácido",
+        "feminine": "ácida",
+        "plural": "ácidos/ácidas"
+      }
+    },
+    {
+      "lemma": "fresco, adj.",
+      "meaning": "fresh",
+      "forms": {
+        "masculine": "fresco",
+        "feminine": "fresca",
+        "plural": "frescos/frescas"
+      }
+    },
+    {
+      "lemma": "seco, adj.",
+      "meaning": "dry",
+      "forms": {
+        "masculine": "seco",
+        "feminine": "seca",
+        "plural": "secos/secas"
+      }
+    },
+    {
+      "lemma": "mojado, adj.",
+      "meaning": "wet",
+      "forms": {
+        "masculine": "mojado",
+        "feminine": "mojada",
+        "plural": "mojados/mojadas"
+      }
+    },
+    {
+      "lemma": "suave, adj.",
+      "meaning": "soft",
+      "forms": {
+        "masculine": "suave",
+        "feminine": "suave",
+        "plural": "suaves"
+      }
+    },
+    {
+      "lemma": "duro, adj.",
+      "meaning": "hard",
+      "forms": {
+        "masculine": "duro",
+        "feminine": "dura",
+        "plural": "duros/duras"
+      }
+    },
+    {
+      "lemma": "áspero, adj.",
+      "meaning": "rough",
+      "forms": {
+        "masculine": "áspero",
+        "feminine": "áspera",
+        "plural": "ásperos/ásperas"
+      }
+    },
+    {
+      "lemma": "pesado, adj.",
+      "meaning": "heavy",
+      "forms": {
+        "masculine": "pesado",
+        "feminine": "pesada",
+        "plural": "pesados/pesadas"
+      }
+    },
+    {
+      "lemma": "ligero, adj.",
+      "meaning": "light (weight)",
+      "forms": {
+        "masculine": "ligero",
+        "feminine": "ligera",
+        "plural": "ligeros/ligeras"
+      }
+    },
+    {
+      "lemma": "redondo, adj.",
+      "meaning": "round",
+      "forms": {
+        "masculine": "redondo",
+        "feminine": "redonda",
+        "plural": "redondos/redondas"
+      }
+    },
+    {
+      "lemma": "cuadrado, adj.",
+      "meaning": "square",
+      "forms": {
+        "masculine": "cuadrado",
+        "feminine": "cuadrada",
+        "plural": "cuadrados/cuadradas"
+      }
+    },
+    {
+      "lemma": "recto, adj.",
+      "meaning": "straight",
+      "forms": {
+        "masculine": "recto",
+        "feminine": "recta",
+        "plural": "rectos/rectas"
+      }
+    },
+    {
+      "lemma": "curvo, adj.",
+      "meaning": "curved",
+      "forms": {
+        "masculine": "curvo",
+        "feminine": "curva",
+        "plural": "curvos/curvas"
+      }
+    },
+    {
+      "lemma": "listo, adj.",
+      "meaning": "ready/smart",
+      "forms": {
+        "masculine": "listo",
+        "feminine": "lista",
+        "plural": "listos/listas"
+      }
+    },
+    {
+      "lemma": "típico, adj.",
+      "meaning": "typical",
+      "forms": {
+        "masculine": "típico",
+        "feminine": "típica",
+        "plural": "típicos/típicas"
+      }
+    },
+    {
+      "lemma": "raro, adj.",
+      "meaning": "rare/weird",
+      "forms": {
+        "masculine": "raro",
+        "feminine": "rara",
+        "plural": "raros/raras"
+      }
+    },
+    {
+      "lemma": "extraño, adj.",
+      "meaning": "strange",
+      "forms": {
+        "masculine": "extraño",
+        "feminine": "extraña",
+        "plural": "extraños/extrañas"
+      }
+    },
+    {
+      "lemma": "curioso, adj.",
+      "meaning": "curious",
+      "forms": {
+        "masculine": "curioso",
+        "feminine": "curiosa",
+        "plural": "curiosos/curiosas"
+      }
+    },
+    {
+      "lemma": "gracioso, adj.",
+      "meaning": "funny",
+      "forms": {
+        "masculine": "gracioso",
+        "feminine": "graciosa",
+        "plural": "graciosos/graciosas"
+      }
+    },
+    {
+      "lemma": "serio, adj.",
+      "meaning": "serious",
+      "forms": {
+        "masculine": "serio",
+        "feminine": "seria",
+        "plural": "serios/serias"
+      }
+    },
+    {
+      "lemma": "sano, adj.",
+      "meaning": "healthy",
+      "forms": {
+        "masculine": "sano",
+        "feminine": "sana",
+        "plural": "sanos/sanas"
+      }
+    },
+    {
+      "lemma": "ciego, adj.",
+      "meaning": "blind",
+      "forms": {
+        "masculine": "ciego",
+        "feminine": "ciega",
+        "plural": "ciegos/ciegas"
+      }
+    },
+    {
+      "lemma": "sordo, adj.",
+      "meaning": "deaf",
+      "forms": {
+        "masculine": "sordo",
+        "feminine": "sorda",
+        "plural": "sordos/sordas"
+      }
+    },
+    {
+      "lemma": "mudo, adj.",
+      "meaning": "mute",
+      "forms": {
+        "masculine": "mudo",
+        "feminine": "muda",
+        "plural": "mudos/mudas"
+      }
+    },
+    {
+      "lemma": "útil, adj.",
+      "meaning": "useful",
+      "forms": {
+        "masculine": "útil",
+        "feminine": "útil",
+        "plural": "útiles"
+      }
+    },
+    {
+      "lemma": "inútil, adj.",
+      "meaning": "useless",
+      "forms": {
+        "masculine": "inútil",
+        "feminine": "inútil",
+        "plural": "inútiles"
+      }
+    },
+    {
+      "lemma": "necesario, adj.",
+      "meaning": "necessary",
+      "forms": {
+        "masculine": "necesario",
+        "feminine": "necesaria",
+        "plural": "necesarios/necesarias"
+      }
+    },
+    {
+      "lemma": "innecesario, adj.",
+      "meaning": "unnecessary",
+      "forms": {
+        "masculine": "innecesario",
+        "feminine": "innecesaria",
+        "plural": "innecesarios/innecesarias"
+      }
+    },
+    {
+      "lemma": "probable, adj.",
+      "meaning": "probable",
+      "forms": {
+        "masculine": "probable",
+        "feminine": "probable",
+        "plural": "probables"
+      }
+    },
+    {
+      "lemma": "seguro, adj.",
+      "meaning": "sure/safe",
+      "forms": {
+        "masculine": "seguro",
+        "feminine": "segura",
+        "plural": "seguros/seguras"
+      }
+    },
+    {
+      "lemma": "peligroso, adj.",
+      "meaning": "dangerous",
+      "forms": {
+        "masculine": "peligroso",
+        "feminine": "peligrosa",
+        "plural": "peligrosos/peligrosas"
+      }
+    },
+    {
+      "lemma": "famoso, adj.",
+      "meaning": "famous",
+      "forms": {
+        "masculine": "famoso",
+        "feminine": "famosa",
+        "plural": "famosos/famosas"
+      }
+    },
+    {
+      "lemma": "desconocido, adj.",
+      "meaning": "unknown",
+      "forms": {
+        "masculine": "desconocido",
+        "feminine": "desconocida",
+        "plural": "desconocidos/desconocidas"
+      }
+    },
+    {
+      "lemma": "público, adj.",
+      "meaning": "public",
+      "forms": {
+        "masculine": "público",
+        "feminine": "pública",
+        "plural": "públicos/públicas"
+      }
+    },
+    {
+      "lemma": "privado, adj.",
+      "meaning": "private",
+      "forms": {
+        "masculine": "privado",
+        "feminine": "privada",
+        "plural": "privados/privadas"
+      }
+    },
+    {
+      "lemma": "general, adj.",
+      "meaning": "general",
+      "forms": {
+        "masculine": "general",
+        "feminine": "general",
+        "plural": "generales"
+      }
+    },
+    {
+      "lemma": "especial, adj.",
+      "meaning": "special",
+      "forms": {
+        "masculine": "especial",
+        "feminine": "especial",
+        "plural": "especiales"
+      }
+    },
+    {
+      "lemma": "natural, adj.",
+      "meaning": "natural",
+      "forms": {
+        "masculine": "natural",
+        "feminine": "natural",
+        "plural": "naturales"
+      }
+    },
+    {
+      "lemma": "artificial, adj.",
+      "meaning": "artificial",
+      "forms": {
+        "masculine": "artificial",
+        "feminine": "artificial",
+        "plural": "artificiales"
+      }
+    },
+    {
+      "lemma": "moderno, adj.",
+      "meaning": "modern",
+      "forms": {
+        "masculine": "moderno",
+        "feminine": "moderna",
+        "plural": "modernos/modernas"
+      }
+    },
+    {
+      "lemma": "antiguo, adj.",
+      "meaning": "ancient/antique",
+      "forms": {
+        "masculine": "antiguo",
+        "feminine": "antigua",
+        "plural": "antiguos/antiguas"
+      }
+    },
+    {
+      "lemma": "clásico, adj.",
+      "meaning": "classic",
+      "forms": {
+        "masculine": "clásico",
+        "feminine": "clásica",
+        "plural": "clásicos/clásicas"
+      }
+    },
+    {
+      "lemma": "libre, adj.",
+      "meaning": "free",
+      "forms": {
+        "masculine": "libre",
+        "feminine": "libre",
+        "plural": "libres"
+      }
+    },
+    {
+      "lemma": "ocupado, adj.",
+      "meaning": "busy/occupied",
+      "forms": {
+        "masculine": "ocupado",
+        "feminine": "ocupada",
+        "plural": "ocupados/ocupadas"
+      }
+    },
+    {
+      "lemma": "solo, adj.",
+      "meaning": "alone",
+      "forms": {
+        "masculine": "solo",
+        "feminine": "sola",
+        "plural": "solos/solas"
+      }
+    },
+    {
+      "lemma": "junto, adj.",
+      "meaning": "together",
+      "forms": {
+        "masculine": "junto",
+        "feminine": "junta",
+        "plural": "juntos/juntas"
+      }
+    },
+    {
+      "lemma": "próximo, adj.",
+      "meaning": "next",
+      "forms": {
+        "masculine": "próximo",
+        "feminine": "próxima",
+        "plural": "próximos/próximas"
+      }
+    },
+    {
+      "lemma": "anterior, adj.",
+      "meaning": "previous",
+      "forms": {
+        "masculine": "anterior",
+        "feminine": "anterior",
+        "plural": "anteriores"
+      }
+    },
+    {
+      "lemma": "siguiente, adj.",
+      "meaning": "following",
+      "forms": {
+        "masculine": "siguiente",
+        "feminine": "siguiente",
+        "plural": "siguientes"
+      }
+    },
+    {
+      "lemma": "final, adj.",
+      "meaning": "final",
+      "forms": {
+        "masculine": "final",
+        "feminine": "final",
+        "plural": "finales"
+      }
+    },
+    {
+      "lemma": "fantástico, adj.",
+      "meaning": "fantastic",
+      "forms": {
+        "masculine": "fantástico",
+        "feminine": "fantástica",
+        "plural": "fantásticos/fantásticas"
+      }
+    },
+    {
+      "lemma": "estupendo, adj.",
+      "meaning": "great",
+      "forms": {
+        "masculine": "estupendo",
+        "feminine": "estupenda",
+        "plural": "estupendos/estupendas"
+      }
+    },
+    {
+      "lemma": "horrible, adj.",
+      "meaning": "horrible",
+      "forms": {
+        "masculine": "horrible",
+        "feminine": "horrible",
+        "plural": "horribles"
+      }
+    },
+    {
+      "lemma": "maravilloso, adj.",
+      "meaning": "wonderful",
+      "forms": {
+        "masculine": "maravilloso",
+        "feminine": "maravillosa",
+        "plural": "maravillosos/maravillosas"
+      }
+    },
+    {
+      "lemma": "terrible, adj.",
+      "meaning": "terrible",
+      "forms": {
+        "masculine": "terrible",
+        "feminine": "terrible",
+        "plural": "terribles"
+      }
+    },
+    {
+      "lemma": "perfecto, adj.",
+      "meaning": "perfect",
+      "forms": {
+        "masculine": "perfecto",
+        "feminine": "perfecta",
+        "plural": "perfectos/perfectas"
+      }
+    },
+    {
+      "lemma": "correcto, adj.",
+      "meaning": "correct",
+      "forms": {
+        "masculine": "correcto",
+        "feminine": "correcta",
+        "plural": "correctos/correctas"
+      }
+    },
+    {
+      "lemma": "incorrecto, adj.",
+      "meaning": "incorrect",
+      "forms": {
+        "masculine": "incorrecto",
+        "feminine": "incorrecta",
+        "plural": "incorrectos/incorrectas"
+      }
+    },
+    {
+      "lemma": "justo, adj.",
+      "meaning": "fair",
+      "forms": {
+        "masculine": "justo",
+        "feminine": "justa",
+        "plural": "justos/justas"
+      }
+    },
+    {
+      "lemma": "injusto, adj.",
+      "meaning": "unfair",
+      "forms": {
+        "masculine": "injusto",
+        "feminine": "injusta",
+        "plural": "injustos/injustas"
+      }
+    },
+    {
+      "lemma": "legal, adj.",
+      "meaning": "legal",
+      "forms": {
+        "masculine": "legal",
+        "feminine": "legal",
+        "plural": "legales"
+      }
+    },
+    {
+      "lemma": "ilegal, adj.",
+      "meaning": "illegal",
+      "forms": {
+        "masculine": "ilegal",
+        "feminine": "ilegal",
+        "plural": "ilegales"
+      }
+    },
+    {
+      "lemma": "profundo, adj.",
+      "meaning": "deep",
+      "forms": {
+        "masculine": "profundo",
+        "feminine": "profunda",
+        "plural": "profundos/profundas"
+      }
+    },
+    {
+      "lemma": "superficial, adj.",
+      "meaning": "superficial",
+      "forms": {
+        "masculine": "superficial",
+        "feminine": "superficial",
+        "plural": "superficiales"
       }
     }
   ]
